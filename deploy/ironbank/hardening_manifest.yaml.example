@@ -1,0 +1,15 @@
+# NON-SUBMITTABLE EXAMPLE. Fill maintainer, approved base, version and resource hashes.
+# See https://docs-ironbank.dso.mil/hardening/manifest/
+apiVersion: v1
+name: fleet-tech
+tags:
+  - "0.1.0-demo"
+labels:
+  org.opencontainers.image.title: Fleet Tech
+  org.opencontainers.image.description: Disconnected maintenance demonstration
+  org.opencontainers.image.version: "0.1.0-demo"
+  mil.dso.ironbank.image.keywords: "maintenance,offline,edge-ai"
+# Supply actual organizational maintainer contacts and licensing before submission.
+maintainers: []
+# Populate each pre-staged wheel/resource with its URL, filename and SHA-256.
+resources: []

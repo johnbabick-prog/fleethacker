@@ -1,0 +1,5 @@
+fastapi>=0.115,<1
+uvicorn>=0.30,<1
+cryptography>=43
+pypdf>=5,<7
+PyMuPDF>=1.26,<2

@@ -1,0 +1,16 @@
+image:
+  repository: fleet-tech
+  tag: demo
+  digest: ""
+  pullPolicy: IfNotPresent
+storage:
+  size: 2Gi
+uds:
+  enabled: false
+resources:
+  requests:
+    cpu: 100m
+    memory: 256Mi
+  limits:
+    cpu: "2"
+    memory: 1Gi

@@ -1,0 +1,6 @@
+{
+  "name": "fleet-tech-ui-tests",
+  "private": true,
+  "scripts": {"test:ui": "node tests/test_start_job_dom.cjs && node tests/test_ship_filters_dom.cjs"},
+  "devDependencies": {"jsdom": "^27.4.0"}
+}

@@ -1,0 +1,118 @@
+---
+# Source: fleet-tech/templates/app.yaml
+apiVersion: networking.k8s.io/v1
+kind: NetworkPolicy
+metadata:
+  namespace: fleet-tech
+  name: fleet-tech-deny
+spec:
+  podSelector:
+    matchLabels:
+      app: fleet-tech
+  policyTypes: [Ingress, Egress]
+  ingress: []
+  egress: []
+
+---
+# Source: fleet-tech/templates/app.yaml
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  namespace: fleet-tech
+  name: fleet-tech-data
+spec:
+  accessModes: [ReadWriteOnce]
+  resources:
+    requests:
+      storage: 2Gi
+
+---
+# Source: fleet-tech/templates/app.yaml
+apiVersion: v1
+kind: Service
+metadata:
+  namespace: fleet-tech
+  name: fleet-tech
+spec:
+  type: ClusterIP
+  selector:
+    app: fleet-tech
+  ports:
+    - name: http
+      port: 8765
+      targetPort: http
+
+---
+# Source: fleet-tech/templates/app.yaml
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  namespace: fleet-tech
+  name: fleet-tech
+spec:
+  replicas: 1
+  strategy:
+    type: Recreate
+  selector:
+    matchLabels:
+      app: fleet-tech
+  template:
+    metadata:
+      labels:
+        app: fleet-tech
+    spec:
+      automountServiceAccountToken: false
+      securityContext:
+        runAsNonRoot: true
+        runAsUser: 10001
+        runAsGroup: 10001
+        fsGroup: 10001
+        seccompProfile:
+          type: RuntimeDefault
+      containers:
+        - name: fleet-tech
+          image: "fleet-tech:demo"
+          imagePullPolicy: IfNotPresent
+          ports:
+            - name: http
+              containerPort: 8765
+          securityContext:
+            allowPrivilegeEscalation: false
+            readOnlyRootFilesystem: true
+            capabilities:
+              drop: [ALL]
+          env:
+            - name: HATCH_DATA
+              value: /data
+          volumeMounts:
+            - name: data
+              mountPath: /data
+            - name: tmp
+              mountPath: /tmp
+          resources:
+            limits:
+              cpu: "2"
+              memory: 1Gi
+            requests:
+              cpu: 100m
+              memory: 256Mi
+          readinessProbe:
+            httpGet:
+              path: /healthz
+              port: http
+          livenessProbe:
+            httpGet:
+              path: /healthz
+              port: http
+          startupProbe:
+            httpGet:
+              path: /healthz
+              port: http
+            failureThreshold: 30
+            periodSeconds: 2
+      volumes:
+        - name: data
+          persistentVolumeClaim:
+            claimName: fleet-tech-data
+        - name: tmp
+          emptyDir: {}

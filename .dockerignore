@@ -1,0 +1,9 @@
+**
+!Dockerfile
+!requirements.lock
+!hatch/
+!hatch/*.py
+!static/
+!static/**
+!config/
+!config/*.json

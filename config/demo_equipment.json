@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "source_method": "Equipment names extracted from publicly indexed official Navy pages; direct page downloads returned 403. No technical procedures or inventory were scraped.",
+  "scope": "Class-level demonstration candidates. Asset IDs, locations, part associations, requirements and stock balances are test data.",
+  "items": [
+    {
+      "id": "lm2500",
+      "name": "LM2500 gas turbine",
+      "work_center": "Mechanical",
+      "ship_class": "Arleigh Burke (DDG)",
+      "source": "https://www.surflant.usff.navy.mil/Organization/Operational-Forces/Destroyers/USS-Arleigh-Burke-DDG-51/About-Us/Characteristics/",
+      "applicability": "Publicly associated with this class; model, flight and actual hull installation are not verified. This is a demonstration selection, not an installed-equipment register.",
+      "demo_location": "DEMO compartment 01",
+      "scenario": "ready",
+      "demo_part_id": "DEMO-PART-001",
+      "demo_part_name": "Synthetic test kit \u2014 LM2500",
+      "demo_required": 2
+    },
+    {
+      "id": "spy1",
+      "name": "AN/SPY-1D radar",
+      "work_center": "Electrical",
+      "ship_class": "Arleigh Burke (DDG)",
+      "source": "https://www.surflant.usff.navy.mil/Organization/Operational-Forces/Destroyers/USS-Arleigh-Burke-DDG-51/About-Us/Characteristics/",
+      "applicability": "Publicly associated with this class; model, flight and actual hull installation are not verified. This is a demonstration selection, not an installed-equipment register.",
+      "demo_location": "DEMO compartment 02",
+      "scenario": "short",
+      "demo_part_id": "DEMO-PART-002",
+      "demo_part_name": "Synthetic test kit \u2014 SPY1",
+      "demo_required": 2
+    },
+    {
+      "id": "sps67",
+      "name": "AN/SPS-67 radar",
+      "work_center": "Electrical",
+      "ship_class": "Arleigh Burke (DDG)",
+      "source": "https://www.surflant.usff.navy.mil/Organization/Operational-Forces/Destroyers/USS-Arleigh-Burke-DDG-51/About-Us/Characteristics/",
+      "applicability": "Publicly associated with this class; model, flight and actual hull installation are not verified. This is a demonstration selection, not an installed-equipment register.",
+      "demo_location": "DEMO compartment 03",
+      "scenario": "ready",
+      "demo_part_id": "DEMO-PART-003",
+      "demo_part_name": "Synthetic test kit \u2014 SPS67",
+      "demo_required": 2
+    },
+    {
+      "id": "sps64",
+      "name": "AN/SPS-64 radar",
+      "work_center": "Electrical",
+      "ship_class": "Arleigh Burke (DDG)",
+      "source": "https://www.surflant.usff.navy.mil/Organization/Operational-Forces/Destroyers/USS-Arleigh-Burke-DDG-51/About-Us/Characteristics/",
+      "applicability": "Publicly associated with this class; model, flight and actual hull installation are not verified. This is a demonstration selection, not an installed-equipment register.",
+      "demo_location": "DEMO compartment 04",
+      "scenario": "unknown",
+      "demo_part_id": "DEMO-PART-004",
+      "demo_part_name": "Synthetic test kit \u2014 SPS64",
+      "demo_required": 2
+    },
+    {
+      "id": "sqq89",
+      "name": "AN/SQQ-89 sonar system",
+      "work_center": "SONAR",
+      "ship_class": "Arleigh Burke (DDG)",
+      "source": "https://www.surflant.usff.navy.mil/Organization/Operational-Forces/Destroyers/USS-Arleigh-Burke-DDG-51/About-Us/Characteristics/",
+      "applicability": "Publicly associated with this class; model, flight and actual hull installation are not verified. This is a demonstration selection, not an installed-equipment register.",
+      "demo_location": "DEMO compartment 05",
+      "scenario": "short",
+      "demo_part_id": "DEMO-PART-005",
+      "demo_part_name": "Synthetic test kit \u2014 SQQ89",
+      "demo_required": 2
+    },
+    {
+      "id": "spy6",
+      "name": "AN/SPY-6 radar",
+      "work_center": "Electrical",
+      "ship_class": "Arleigh Burke (DDG)",
+      "source": "https://www.navy.mil/Resources/Fact-Files/Display-FactFiles/Article/2166758/air-and-missile-defense-radar-amdr/",
+      "applicability": "Publicly associated with this class; model, flight and actual hull installation are not verified. This is a demonstration selection, not an installed-equipment register.",
+      "demo_location": "DEMO compartment 06",
+      "scenario": "unknown",
+      "demo_part_id": "DEMO-PART-006",
+      "demo_part_name": "Synthetic test kit \u2014 SPY6",
+      "demo_required": 2
+    },
+    {
+      "id": "spy3",
+      "name": "AN/SPY-3 radar",
+      "work_center": "Electrical",
+      "ship_class": "Zumwalt (DDG)",
+      "source": "https://www.navy.mil/Resources/Fact-Files/Display-FactFiles/Article/2391800/destroyers-ddg-1000/destroyers-ddg-1000/",
+      "applicability": "Publicly associated with this class; model, flight and actual hull installation are not verified. This is a demonstration selection, not an installed-equipment register.",
+      "demo_location": "DEMO compartment 07",
+      "scenario": "ready",
+      "demo_part_id": "DEMO-PART-007",
+      "demo_part_name": "Synthetic test kit \u2014 SPY3",
+      "demo_required": 2
+    },
+    {
+      "id": "ips",
+      "name": "Integrated Power System",
+      "work_center": "Electrical",
+      "ship_class": "Zumwalt (DDG)",
+      "source": "https://www.navy.mil/Resources/Fact-Files/Display-FactFiles/Article/2391800/destroyers-ddg-1000/destroyers-ddg-1000/",
+      "applicability": "Publicly associated with this class; model, flight and actual hull installation are not verified. This is a demonstration selection, not an installed-equipment register.",
+      "demo_location": "DEMO compartment 08",
+      "scenario": "short",
+      "demo_part_id": "DEMO-PART-008",
+      "demo_part_name": "Synthetic test kit \u2014 IPS",
+      "demo_required": 2
+    }
+  ]
+}

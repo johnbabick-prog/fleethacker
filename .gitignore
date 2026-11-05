@@ -1,0 +1,13 @@
+data/*
+!data/.gitkeep
+.venv/
+__pycache__/
+*.pyc
+.env
+models/
+
+node_modules/
+
+.security-venv/
+security/evidence/*.tar
+security/evidence/*-cache/

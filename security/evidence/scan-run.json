@@ -1,0 +1,219 @@
+{
+  "generated_at": "2026-11-05T14:23:50.285063+00:00",
+  "image": "fleet-tech:security-demo",
+  "versions": {
+    "bandit": "bandit 1.9.4\n  python version = 3.14.7 (main, Aug  5 2026, 10:29:49) [Clang 21.0.0 (clang-2100.1.1.101)]",
+    "pip-audit": "pip-audit 2.10.1",
+    "syft": "Application:   syft\nVersion:       1.51.1\nBuildDate:     2026-08-27T16:25:09Z\nGitCommit:     Homebrew\nGitDescription: [not provided]\nPlatform:      darwin/arm64\nGoVersion:     go1.27.0\nCompiler:      gc\nSchemaVersion: 16.1.10",
+    "trivy": "Version: 0.76.1",
+    "image": "sha256:32fb33f5ebba74a9163d769c96a0ff2ca838491e6c3cd3ccb812176e382e46fd"
+  },
+  "checks": [
+    {
+      "name": "bandit",
+      "command": [
+        "/Users/johnbabick/fleethacker/.security-venv/bin/bandit",
+        "-r",
+        "hatch",
+        "scripts/launch.py",
+        "-f",
+        "json",
+        "-o",
+        "/Users/johnbabick/fleethacker/security/evidence/bandit.json"
+      ],
+      "status": "findings",
+      "exit_code": 1,
+      "seconds": 0.2,
+      "report": "bandit.json"
+    },
+    {
+      "name": "pip-audit",
+      "command": [
+        "/Users/johnbabick/fleethacker/.security-venv/bin/pip-audit",
+        "-r",
+        "requirements.lock",
+        "--no-deps",
+        "--disable-pip",
+        "--format",
+        "json"
+      ],
+      "status": "completed",
+      "exit_code": 0,
+      "seconds": 0.33,
+      "report": "pip-audit.json"
+    },
+    {
+      "name": "npm-audit",
+      "command": [
+        "npm",
+        "audit",
+        "--json"
+      ],
+      "status": "completed",
+      "exit_code": 0,
+      "seconds": 0.61,
+      "report": "npm-audit.json"
+    },
+    {
+      "name": "trivy-source",
+      "command": [
+        "docker",
+        "run",
+        "--rm",
+        "-v",
+        "/Users/johnbabick/fleethacker:/work:ro",
+        "-v",
+        "/Users/johnbabick/fleethacker/security/evidence:/out",
+        "-v",
+        "/Users/johnbabick/fleethacker/security/evidence/trivy-cache:/root/.cache/trivy",
+        "aquasec/trivy@sha256:790fd66d1697395d8693d1acaa1ea702406a20f109b6fc7bac8db623eca6c06c",
+        "fs",
+        "--scanners",
+        "misconfig,secret",
+        "--skip-dirs",
+        "/work/data,/work/node_modules,/work/.security-venv,/work/security",
+        "--format",
+        "json",
+        "--output",
+        "/out/trivy-source.json",
+        "/work"
+      ],
+      "status": "completed",
+      "exit_code": 0,
+      "seconds": 0.78,
+      "report": "trivy-source.json"
+    },
+    {
+      "name": "sbom",
+      "command": [
+        "syft",
+        "docker:fleet-tech:security-demo",
+        "-o",
+        "cyclonedx-json=/Users/johnbabick/fleethacker/security/evidence/sbom.cdx.json"
+      ],
+      "status": "completed",
+      "exit_code": 0,
+      "seconds": 3.7,
+      "report": "sbom.cdx.json"
+    },
+    {
+      "name": "image-export",
+      "command": [
+        "docker",
+        "save",
+        "-o",
+        "/Users/johnbabick/fleethacker/security/evidence/image.tar",
+        "fleet-tech:security-demo"
+      ],
+      "status": "completed",
+      "exit_code": 0,
+      "seconds": 0.75,
+      "report": null
+    },
+    {
+      "name": "trivy-image",
+      "command": [
+        "docker",
+        "run",
+        "--rm",
+        "-v",
+        "/Users/johnbabick/fleethacker/security/evidence:/out",
+        "-v",
+        "/Users/johnbabick/fleethacker/security/evidence/trivy-cache:/root/.cache/trivy",
+        "aquasec/trivy@sha256:790fd66d1697395d8693d1acaa1ea702406a20f109b6fc7bac8db623eca6c06c",
+        "image",
+        "--input",
+        "/out/image.tar",
+        "--scanners",
+        "vuln",
+        "--format",
+        "json",
+        "--output",
+        "/out/trivy-image.json"
+      ],
+      "status": "completed",
+      "exit_code": 0,
+      "seconds": 0.32,
+      "report": "trivy-image.json"
+    },
+    {
+      "name": "helm-lint",
+      "command": [
+        "helm",
+        "lint",
+        "deploy/chart"
+      ],
+      "status": "completed",
+      "exit_code": 0,
+      "seconds": 0.12,
+      "report": null
+    },
+    {
+      "name": "python-tests",
+      "command": [
+        "python3",
+        "-m",
+        "unittest",
+        "discover",
+        "-s",
+        "tests",
+        "-q"
+      ],
+      "status": "completed",
+      "exit_code": 0,
+      "seconds": 0.63,
+      "report": null
+    }
+  ],
+  "source_files_sha256": {
+    "hatch/equipment.py": "b19df6dea09b0a2a3f2edd4b7e77a7633ff5b8d6a5f70b3032904788a5d73d5c",
+    "hatch/store.py": "d957bd65080fb9c99095d54200789498074b09e01477f5a952dc3c8a6b8d2ae2",
+    "hatch/experience.py": "2338f2265c0cd8707e3663cd253e95d680ab0e51ed331a4178499f97af644369",
+    "hatch/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "hatch/ships.py": "50fc9655f70d6f6eb2f918a1512f3855e47a8cd2fb46faf4fec2619d230dd23f",
+    "hatch/troubleshooting.py": "fe1b7e192eabc79551a932a44d97490a94d91675393cd71ba1b197f4742d721b",
+    "hatch/schematics.py": "bedd44dd1e4d2f33558a263aee64233d6fad3ed009118c35524f2312d1c66cfe",
+    "hatch/coaching.py": "c47a7d41445f10b3e370f8f52dd0adaf15117d7b446dac991656ae228aec9e34",
+    "hatch/equipment_docs.py": "809d398bbf2a4f4753561d93a5f273edfb2ab1c5b6aaf2f2bfa3aea80933fa1c",
+    "hatch/app.py": "418aecbeaa6b255c5ee1a64ec0a7552f7555b225ba76846ce0902ed82a5bdf62",
+    "hatch/demo_watch.py": "97dd9b564d36730c15add39e4321d66422a0caff3cd277c45e07e94779461e1b",
+    "hatch/workspace.py": "3f9db7caecc63f3992f252fd817b5ba039df7e34635a5bcd3891f62ef28f89af",
+    "hatch/demo_procedures.py": "fb11ccd70f6640dd796c99b386c1fdec8853f651cfd26ba44273b2a854c2f595",
+    "hatch/model_output.py": "64c33d227586b33577ca3b28aca81b356e0a6b6fb0ace501c7e15110b5dfdf1a",
+    "static/index.html": "75e0dc88e25cec52d1e44a93735ad9a811fed85067ee64d7c9bbe9a859996b57",
+    "static/style.css": "b721574212cc1d1e9b2f81bd493813b54d3aa70d08345b60a8246610899b3dc6",
+    "static/app.js": "8fe9e401d88d43a07381dd52f5e92e0f714469100b6d9c6fd5f94682d0c87cdb",
+    "config/demo_equipment.json": "22c2f2aaac73197b661550e03564e916cf81888bcbbc46c783da4bbcefe59ad1",
+    "config/demo_performance.json": "ca92f1f903f3159e75a3e9cd39b77e33b28fcbc5797518d44027e2a74a16bf42",
+    "config/ships.json": "dd6901ccca2aa4188974341caf5baf343facd7a2ea6d785ef45e01f376850706",
+    "config/ship_classes.json": "2af46c02bb689fa9d170d2f4ff82cec291ef5fa62e2a0e29f3941c34a356359f",
+    "deploy/uds-values.yaml": "73a21afbf95e90f845afd203757f84b31316707042d23c544af1a785bc9aafe3",
+    "deploy/zarf.yaml": "4f70c45beb10577812af385679a889f29e6101f98efdeec66404d97fc49cd058",
+    "deploy/chart/Chart.yaml": "81de60de6afd1e4cc9cfbe6acf09172031c8e6d7d01fae69fd980e640c6a71ce",
+    "deploy/chart/values.yaml": "28fc540b84e03553fbefab8c297795d1e4b787dd1c7a250be45c5503373ccb41",
+    "deploy/ironbank/hardening_manifest.yaml.example": "3ae011aec5f61201eeb6fefe957239fcf0912612b05fe2064077566409d072ba",
+    "deploy/chart/templates/app.yaml": "6c9bba378828e74f87e5b3f882b882c6fb4b6f6ddf23ab837f03770111e432ea",
+    "scripts/ingest.py": "f4e68705487c0b60db959f9370950ed9fdb71ba622dc63c10b64a0b0a822fd42",
+    "scripts/seed_shared_demo.py": "0c0c34acf9fd5ae57a97233fdfdce9b5f8c278c51e17499c2225e4c9e7cfa2a9",
+    "scripts/container_smoke.py": "a162cb823e1e8cae26d3753c61a09c28efdf25cf80b1466709ee94f6fba53301",
+    "scripts/security_demo.py": "495a4382c27c93b881cc69b794a0a4f0ad4e189ade9ea097d2d92aa142da76fa",
+    "scripts/readiness_report.py": "807ff5b2ad96f441ec4a0c0d63d8269ccbbfb53bbae900ed05e5f83ccba88620",
+    "scripts/launch.py": "fcb95556f20f7618f80a1c1c42e3ba53c98f1affaa42b1435b4dc17861c5a266",
+    "scripts/security_probe.py": "ecb49729144631d456f9785201b9b7eb9fca42d66df5672bf21667f158b51b56",
+    "scripts/seed_demo_troubleshooting.py": "33a62675396d5d017adb3fffb2e54104953bd12474dfe796768520547adeed0d",
+    "scripts/security_scan.py": "7ce848653bc373ec485cd04ce89d944cb24de5c191e61a24ad757c505782621f",
+    "requirements.txt": "b58a972c044587d11d0a7d5327bc7233818643741e40d4a743907010e7a8052c",
+    "requirements.lock": "67d80a471daf97466ecda8077be77ee3f20b3cc20985829d53e8f00f7675b412",
+    "Dockerfile": "06e01a8c893c4ace5cd532a26b8543a45aece043e7400062501e8a94a65b5782",
+    ".dockerignore": "b6ae6fd530a136797a9be1a825f2c647aa6d9c6b77d5dea86e2e98625fb2e978",
+    "package-lock.json": "95658b48b202b784945e8de6dc1959f87e94e6f0d1c9b87a88ca82f567923ed8",
+    "package.json": "44df8ab4e47ad348bdc9483c0962d6a6f1070349e943d66c415516daf82b58d0"
+  },
+  "source_fingerprint": "716d71858bc28dfb931c181c034466e08c365bb4f60deee8cfac8b244ae3a2a7",
+  "trivy_database": {
+    "Version": 2,
+    "NextUpdate": "2026-11-06T01:19:45.907162401Z",
+    "UpdatedAt": "2026-11-05T01:19:45.907162652Z",
+    "DownloadedAt": "2026-11-05T03:42:44.437315886Z"
+  }
+}

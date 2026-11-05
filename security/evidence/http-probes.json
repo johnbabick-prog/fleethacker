@@ -1,0 +1,298 @@
+{
+  "generated_at": "2026-11-05T14:23:50.330328+00:00",
+  "image": "fleet-tech:security-demo",
+  "status": "findings",
+  "checks": [
+    {
+      "name": "Unauthenticated work-order read",
+      "status": "finding",
+      "severity": "HIGH",
+      "evidence": {
+        "path": "/api/state",
+        "status": 200,
+        "job_count": 15
+      },
+      "remediation": "Require authentication and enforce per-user read permissions."
+    },
+    {
+      "name": "Unauthenticated work-order mutation",
+      "status": "finding",
+      "severity": "HIGH",
+      "evidence": {
+        "path": "/api/jobs/WO-001/complete",
+        "status": 200,
+        "event_created": true
+      },
+      "remediation": "Require authentication, write authorization, and an attributable audit trail."
+    },
+    {
+      "name": "Completion replay rejected",
+      "status": "passed",
+      "severity": "INFO",
+      "evidence": {
+        "method": "POST",
+        "path": "/api/jobs/WO-001/complete",
+        "status": 409,
+        "expected": [
+          409
+        ]
+      },
+      "remediation": ""
+    },
+    {
+      "name": "Oversized completion note rejected",
+      "status": "passed",
+      "severity": "INFO",
+      "evidence": {
+        "method": "POST",
+        "path": "/api/jobs/WO-002/complete",
+        "status": 422,
+        "expected": [
+          422
+        ]
+      },
+      "remediation": ""
+    },
+    {
+      "name": "Negative meter rejected",
+      "status": "passed",
+      "severity": "INFO",
+      "evidence": {
+        "method": "POST",
+        "path": "/api/jobs/WO-002/complete",
+        "status": 422,
+        "expected": [
+          422
+        ]
+      },
+      "remediation": ""
+    },
+    {
+      "name": "Malformed JSON rejected",
+      "status": "passed",
+      "severity": "INFO",
+      "evidence": {
+        "method": "POST",
+        "path": "/api/jobs/WO-002/complete",
+        "status": 422,
+        "expected": [
+          422
+        ]
+      },
+      "remediation": ""
+    },
+    {
+      "name": "Disallowed photo type rejected",
+      "status": "passed",
+      "severity": "INFO",
+      "evidence": {
+        "method": "POST",
+        "path": "/api/jobs/WO-002/complete",
+        "status": 400,
+        "expected": [
+          400
+        ]
+      },
+      "remediation": ""
+    },
+    {
+      "name": "SQL-like sync target rejected",
+      "status": "passed",
+      "severity": "INFO",
+      "evidence": {
+        "method": "POST",
+        "path": "/api/sync",
+        "status": 400,
+        "expected": [
+          400
+        ]
+      },
+      "remediation": ""
+    },
+    {
+      "name": "Search SQL-like input handled without server error",
+      "status": "passed",
+      "severity": "INFO",
+      "evidence": {
+        "method": "GET",
+        "path": "/api/search?q=%27%20OR%201%3D1%3B%20DROP%20TABLE%20jobs%3B--",
+        "status": 200,
+        "expected": [
+          200
+        ]
+      },
+      "remediation": ""
+    },
+    {
+      "name": "Chat history system-role injection rejected",
+      "status": "passed",
+      "severity": "INFO",
+      "evidence": {
+        "method": "POST",
+        "path": "/api/ask",
+        "status": 422,
+        "expected": [
+          422
+        ]
+      },
+      "remediation": ""
+    },
+    {
+      "name": "Non-loopback model endpoint rejected",
+      "status": "passed",
+      "severity": "INFO",
+      "evidence": {
+        "method": "POST",
+        "path": "/api/ask",
+        "status": 400,
+        "expected": [
+          400
+        ]
+      },
+      "remediation": ""
+    },
+    {
+      "name": "HTML log upload rejected",
+      "status": "passed",
+      "severity": "INFO",
+      "evidence": {
+        "method": "POST",
+        "path": "/api/jobs/WO-002/logs",
+        "status": 415,
+        "expected": [
+          415
+        ]
+      },
+      "remediation": ""
+    },
+    {
+      "name": "Oversized log rejected",
+      "status": "passed",
+      "severity": "INFO",
+      "evidence": {
+        "method": "POST",
+        "path": "/api/jobs/WO-002/logs",
+        "status": 413,
+        "expected": [
+          413
+        ]
+      },
+      "remediation": ""
+    },
+    {
+      "name": "Invalid PNG content rejected beyond magic bytes",
+      "status": "finding",
+      "severity": "MEDIUM",
+      "evidence": {
+        "path": "/api/jobs/WO-002/logs",
+        "status": 200,
+        "invalid_content_stored": true
+      },
+      "remediation": "Validate complete file structure with bounded parsers; isolate parsing and scan uploads."
+    },
+    {
+      "name": "Uploaded filename traversal stripped",
+      "status": "passed",
+      "severity": "INFO",
+      "evidence": {
+        "stored_name": "probe.png"
+      },
+      "remediation": ""
+    },
+    {
+      "name": "Log download forces attachment and nosniff",
+      "status": "passed",
+      "severity": "INFO",
+      "evidence": {
+        "status": 200,
+        "content_disposition": "attachment; filename=\"handwritten-log.png\"",
+        "nosniff": "nosniff"
+      },
+      "remediation": ""
+    },
+    {
+      "name": "Static traversal blocked: /data/device.key",
+      "status": "passed",
+      "severity": "INFO",
+      "evidence": {
+        "method": "GET",
+        "path": "/data/device.key",
+        "status": 404,
+        "expected": [
+          400,
+          403,
+          404
+        ]
+      },
+      "remediation": ""
+    },
+    {
+      "name": "Static traversal blocked: /%2e%2e/data/device.key",
+      "status": "passed",
+      "severity": "INFO",
+      "evidence": {
+        "method": "GET",
+        "path": "/%2e%2e/data/device.key",
+        "status": 404,
+        "expected": [
+          400,
+          403,
+          404
+        ]
+      },
+      "remediation": ""
+    },
+    {
+      "name": "Static traversal blocked: /%2e%2e/%2e%2e/etc/passwd",
+      "status": "passed",
+      "severity": "INFO",
+      "evidence": {
+        "method": "GET",
+        "path": "/%2e%2e/%2e%2e/etc/passwd",
+        "status": 404,
+        "expected": [
+          400,
+          403,
+          404
+        ]
+      },
+      "remediation": ""
+    },
+    {
+      "name": "Browser defense headers present",
+      "status": "finding",
+      "severity": "LOW",
+      "evidence": {
+        "status": 200,
+        "missing": [
+          "content-security-policy",
+          "x-content-type-options",
+          "referrer-policy"
+        ]
+      },
+      "remediation": "Set a tested CSP, nosniff, and referrer policy in the application or deployment proxy."
+    },
+    {
+      "name": "Application remains healthy after probes",
+      "status": "passed",
+      "severity": "INFO",
+      "evidence": {
+        "method": "GET",
+        "path": "/healthz",
+        "status": 200,
+        "expected": [
+          200
+        ]
+      },
+      "remediation": ""
+    }
+  ],
+  "scope": "Bounded HTTP probes; disposable synthetic data; container loopback only; network none.",
+  "limitations": [
+    "Not a comprehensive penetration test or certification.",
+    "No browser execution/XSS, model prompt injection, redirect SSRF, TLS, SSO, or deployment perimeter tested.",
+    "SQL-like search probe checks response handling only; does not prove absence of SQL injection."
+  ],
+  "probe_sha256": "ecb49729144631d456f9785201b9b7eb9fca42d66df5672bf21667f158b51b56",
+  "image_id": "sha256:32fb33f5ebba74a9163d769c96a0ff2ca838491e6c3cd3ccb812176e382e46fd"
+}

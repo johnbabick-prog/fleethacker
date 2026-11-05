@@ -1,0 +1,38 @@
+[
+  {
+    "name": "bandit",
+    "status": "findings"
+  },
+  {
+    "name": "pip-audit",
+    "status": "completed"
+  },
+  {
+    "name": "npm-audit",
+    "status": "completed"
+  },
+  {
+    "name": "trivy-source",
+    "status": "completed"
+  },
+  {
+    "name": "sbom",
+    "status": "completed"
+  },
+  {
+    "name": "image-export",
+    "status": "completed"
+  },
+  {
+    "name": "trivy-image",
+    "status": "completed"
+  },
+  {
+    "name": "helm-lint",
+    "status": "completed"
+  },
+  {
+    "name": "python-tests",
+    "status": "completed"
+  }
+]

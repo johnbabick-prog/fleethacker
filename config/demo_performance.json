@@ -1,0 +1,2578 @@
+{
+  "records": [
+    {
+      "id": "LESSON-demo-watch-electrical-1",
+      "source": "demo-watch-electrical",
+      "revision_hash": "8f18a99f183b521126c489a23e1df7aa718fa0678a86e110e2bab3b5fb35fd8b",
+      "step": 0,
+      "kind": "observation",
+      "text": "Confirm the equipment tag and compartment before starting; similar equipment names caused wrong-asset selections in the exercise.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-electrical-2",
+      "source": "demo-watch-electrical",
+      "revision_hash": "8f18a99f183b521126c489a23e1df7aa718fa0678a86e110e2bab3b5fb35fd8b",
+      "step": 1,
+      "kind": "observation",
+      "text": "Check the task-card revision before following a remembered sequence. An older exercise card had different control labels.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-electrical-3",
+      "source": "demo-watch-electrical",
+      "revision_hash": "8f18a99f183b521126c489a23e1df7aa718fa0678a86e110e2bab3b5fb35fd8b",
+      "step": 2,
+      "kind": "observation",
+      "text": "Read back the isolation boundary and required verification; a switch position alone did not establish isolation in the exercise.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-electrical-4",
+      "source": "demo-watch-electrical",
+      "revision_hash": "8f18a99f183b521126c489a23e1df7aa718fa0678a86e110e2bab3b5fb35fd8b",
+      "step": 3,
+      "kind": "observation",
+      "text": "Check the exact part identifier and available quantity, not just the item description.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-electrical-5",
+      "source": "demo-watch-electrical",
+      "revision_hash": "8f18a99f183b521126c489a23e1df7aa718fa0678a86e110e2bab3b5fb35fd8b",
+      "step": 4,
+      "kind": "observation",
+      "text": "Read the complete control tag aloud before changing its position. Adjacent controls have similar labels.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-electrical-6",
+      "source": "demo-watch-electrical",
+      "revision_hash": "8f18a99f183b521126c489a23e1df7aa718fa0678a86e110e2bab3b5fb35fd8b",
+      "step": 5,
+      "kind": "observation",
+      "text": "Record the gauge identifier and units with the reading. Zero on the wrong gauge is not the required verification.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-electrical-7",
+      "source": "demo-watch-electrical",
+      "revision_hash": "8f18a99f183b521126c489a23e1df7aa718fa0678a86e110e2bab3b5fb35fd8b",
+      "step": 6,
+      "kind": "observation",
+      "text": "Match replacement identifiers or sample labels before proceeding. Similar labels caused a mix-up in a prior exercise.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-electrical-8",
+      "source": "demo-watch-electrical",
+      "revision_hash": "8f18a99f183b521126c489a23e1df7aa718fa0678a86e110e2bab3b5fb35fd8b",
+      "step": 7,
+      "kind": "observation",
+      "text": "Record the actual displayed result before judging pass/fail; do not copy the exercise target into the result field.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-electrical-9",
+      "source": "demo-watch-electrical",
+      "revision_hash": "8f18a99f183b521126c489a23e1df7aa718fa0678a86e110e2bab3b5fb35fd8b",
+      "step": 8,
+      "kind": "observation",
+      "text": "Confirm every specified restoration indication. A normal main display can hide a remaining exercise alarm.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-electrical-10",
+      "source": "demo-watch-electrical",
+      "revision_hash": "8f18a99f183b521126c489a23e1df7aa718fa0678a86e110e2bab3b5fb35fd8b",
+      "step": 9,
+      "kind": "observation",
+      "text": "Attach a legible log with reading units and equipment identification; cropped photos delayed exercise review.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-electrical-11",
+      "source": "demo-watch-electrical",
+      "revision_hash": "8f18a99f183b521126c489a23e1df7aa718fa0678a86e110e2bab3b5fb35fd8b",
+      "step": 10,
+      "kind": "observation",
+      "text": "Keep unresolved discrepancies visible in the handoff; a checked step does not clear a restriction.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-electrical-12",
+      "source": "demo-watch-electrical",
+      "revision_hash": "8f18a99f183b521126c489a23e1df7aa718fa0678a86e110e2bab3b5fb35fd8b",
+      "step": 11,
+      "kind": "observation",
+      "text": "Verify parts usage, evidence and follow-up notes before submitting the exercise completion.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "RUN-demo-watch-electrical-Ochoa-1",
+      "source": "demo-watch-electrical",
+      "revision_hash": "8f18a99f183b521126c489a23e1df7aa718fa0678a86e110e2bab3b5fb35fd8b",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-01",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-electrical-Ochoa-2",
+      "source": "demo-watch-electrical",
+      "revision_hash": "8f18a99f183b521126c489a23e1df7aa718fa0678a86e110e2bab3b5fb35fd8b",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-02",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-electrical-Ochoa-3",
+      "source": "demo-watch-electrical",
+      "revision_hash": "8f18a99f183b521126c489a23e1df7aa718fa0678a86e110e2bab3b5fb35fd8b",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-03",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-electrical-Ochoa-4",
+      "source": "demo-watch-electrical",
+      "revision_hash": "8f18a99f183b521126c489a23e1df7aa718fa0678a86e110e2bab3b5fb35fd8b",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-04",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-electrical-Ochoa-5",
+      "source": "demo-watch-electrical",
+      "revision_hash": "8f18a99f183b521126c489a23e1df7aa718fa0678a86e110e2bab3b5fb35fd8b",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-05",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-electrical-Ochoa-6",
+      "source": "demo-watch-electrical",
+      "revision_hash": "8f18a99f183b521126c489a23e1df7aa718fa0678a86e110e2bab3b5fb35fd8b",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-06",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-electrical-Ochoa-7",
+      "source": "demo-watch-electrical",
+      "revision_hash": "8f18a99f183b521126c489a23e1df7aa718fa0678a86e110e2bab3b5fb35fd8b",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-07",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-electrical-Ochoa-8",
+      "source": "demo-watch-electrical",
+      "revision_hash": "8f18a99f183b521126c489a23e1df7aa718fa0678a86e110e2bab3b5fb35fd8b",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-08",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-electrical-Ochoa-9",
+      "source": "demo-watch-electrical",
+      "revision_hash": "8f18a99f183b521126c489a23e1df7aa718fa0678a86e110e2bab3b5fb35fd8b",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-09",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-electrical-Ochoa-10",
+      "source": "demo-watch-electrical",
+      "revision_hash": "8f18a99f183b521126c489a23e1df7aa718fa0678a86e110e2bab3b5fb35fd8b",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-10",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-electrical-Ochoa-11",
+      "source": "demo-watch-electrical",
+      "revision_hash": "8f18a99f183b521126c489a23e1df7aa718fa0678a86e110e2bab3b5fb35fd8b",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-11",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-electrical-Ochoa-12",
+      "source": "demo-watch-electrical",
+      "revision_hash": "8f18a99f183b521126c489a23e1df7aa718fa0678a86e110e2bab3b5fb35fd8b",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-12",
+      "outcome": "Completed"
+    },
+    {
+      "id": "CORRECTION-demo-watch-electrical-Ochoa",
+      "source": "demo-watch-electrical",
+      "revision_hash": "8f18a99f183b521126c489a23e1df7aa718fa0678a86e110e2bab3b5fb35fd8b",
+      "sailor": "FC1 Ochoa",
+      "kind": "correction",
+      "step": 9,
+      "recorded": "2026-10-02",
+      "text": "Exercise log omitted the reading units; corrected before submission.",
+      "outcome": "Corrected during training"
+    },
+    {
+      "id": "RUN-demo-watch-electrical-Donohue-1",
+      "source": "demo-watch-electrical",
+      "revision_hash": "8f18a99f183b521126c489a23e1df7aa718fa0678a86e110e2bab3b5fb35fd8b",
+      "sailor": "FC2 Donohue",
+      "kind": "completion",
+      "recorded": "2026-10-01",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-electrical-Donohue-2",
+      "source": "demo-watch-electrical",
+      "revision_hash": "8f18a99f183b521126c489a23e1df7aa718fa0678a86e110e2bab3b5fb35fd8b",
+      "sailor": "FC2 Donohue",
+      "kind": "completion",
+      "recorded": "2026-10-02",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-electrical-Donohue-3",
+      "source": "demo-watch-electrical",
+      "revision_hash": "8f18a99f183b521126c489a23e1df7aa718fa0678a86e110e2bab3b5fb35fd8b",
+      "sailor": "FC2 Donohue",
+      "kind": "completion",
+      "recorded": "2026-10-03",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-electrical-Donohue-4",
+      "source": "demo-watch-electrical",
+      "revision_hash": "8f18a99f183b521126c489a23e1df7aa718fa0678a86e110e2bab3b5fb35fd8b",
+      "sailor": "FC2 Donohue",
+      "kind": "completion",
+      "recorded": "2026-10-04",
+      "outcome": "Completed"
+    },
+    {
+      "id": "CORRECTION-demo-watch-electrical-Donohue",
+      "source": "demo-watch-electrical",
+      "revision_hash": "8f18a99f183b521126c489a23e1df7aa718fa0678a86e110e2bab3b5fb35fd8b",
+      "sailor": "FC2 Donohue",
+      "kind": "correction",
+      "step": 5,
+      "recorded": "2026-10-02",
+      "text": "Selected the wrong indicator or item during this checkpoint. Instructor prompted a full tag read-back; selection corrected before continuing.",
+      "outcome": "Corrected during training"
+    },
+    {
+      "id": "LESSON-demo-watch-electrical-2-1",
+      "source": "demo-watch-electrical-2",
+      "revision_hash": "6cbcb289a6819576261a7ca57ab1f031224f0bcabbf0599b210672050266bdd1",
+      "step": 0,
+      "kind": "observation",
+      "text": "Confirm the equipment tag and compartment before starting; similar equipment names caused wrong-asset selections in the exercise.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-electrical-2-2",
+      "source": "demo-watch-electrical-2",
+      "revision_hash": "6cbcb289a6819576261a7ca57ab1f031224f0bcabbf0599b210672050266bdd1",
+      "step": 1,
+      "kind": "observation",
+      "text": "Check the task-card revision before following a remembered sequence. An older exercise card had different control labels.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-electrical-2-3",
+      "source": "demo-watch-electrical-2",
+      "revision_hash": "6cbcb289a6819576261a7ca57ab1f031224f0bcabbf0599b210672050266bdd1",
+      "step": 2,
+      "kind": "observation",
+      "text": "Read back the isolation boundary and required verification; a switch position alone did not establish isolation in the exercise.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-electrical-2-4",
+      "source": "demo-watch-electrical-2",
+      "revision_hash": "6cbcb289a6819576261a7ca57ab1f031224f0bcabbf0599b210672050266bdd1",
+      "step": 3,
+      "kind": "observation",
+      "text": "Check the exact part identifier and available quantity, not just the item description.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-electrical-2-5",
+      "source": "demo-watch-electrical-2",
+      "revision_hash": "6cbcb289a6819576261a7ca57ab1f031224f0bcabbf0599b210672050266bdd1",
+      "step": 4,
+      "kind": "observation",
+      "text": "Read the complete control tag aloud before changing its position. Adjacent controls have similar labels.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-electrical-2-6",
+      "source": "demo-watch-electrical-2",
+      "revision_hash": "6cbcb289a6819576261a7ca57ab1f031224f0bcabbf0599b210672050266bdd1",
+      "step": 5,
+      "kind": "observation",
+      "text": "Record the gauge identifier and units with the reading. Zero on the wrong gauge is not the required verification.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-electrical-2-7",
+      "source": "demo-watch-electrical-2",
+      "revision_hash": "6cbcb289a6819576261a7ca57ab1f031224f0bcabbf0599b210672050266bdd1",
+      "step": 6,
+      "kind": "observation",
+      "text": "Match replacement identifiers or sample labels before proceeding. Similar labels caused a mix-up in a prior exercise.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-electrical-2-8",
+      "source": "demo-watch-electrical-2",
+      "revision_hash": "6cbcb289a6819576261a7ca57ab1f031224f0bcabbf0599b210672050266bdd1",
+      "step": 7,
+      "kind": "observation",
+      "text": "Record the actual displayed result before judging pass/fail; do not copy the exercise target into the result field.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-electrical-2-9",
+      "source": "demo-watch-electrical-2",
+      "revision_hash": "6cbcb289a6819576261a7ca57ab1f031224f0bcabbf0599b210672050266bdd1",
+      "step": 8,
+      "kind": "observation",
+      "text": "Confirm every specified restoration indication. A normal main display can hide a remaining exercise alarm.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-electrical-2-10",
+      "source": "demo-watch-electrical-2",
+      "revision_hash": "6cbcb289a6819576261a7ca57ab1f031224f0bcabbf0599b210672050266bdd1",
+      "step": 9,
+      "kind": "observation",
+      "text": "Attach a legible log with reading units and equipment identification; cropped photos delayed exercise review.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-electrical-2-11",
+      "source": "demo-watch-electrical-2",
+      "revision_hash": "6cbcb289a6819576261a7ca57ab1f031224f0bcabbf0599b210672050266bdd1",
+      "step": 10,
+      "kind": "observation",
+      "text": "Keep unresolved discrepancies visible in the handoff; a checked step does not clear a restriction.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-electrical-2-12",
+      "source": "demo-watch-electrical-2",
+      "revision_hash": "6cbcb289a6819576261a7ca57ab1f031224f0bcabbf0599b210672050266bdd1",
+      "step": 11,
+      "kind": "observation",
+      "text": "Verify parts usage, evidence and follow-up notes before submitting the exercise completion.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "RUN-demo-watch-electrical-2-Ochoa-1",
+      "source": "demo-watch-electrical-2",
+      "revision_hash": "6cbcb289a6819576261a7ca57ab1f031224f0bcabbf0599b210672050266bdd1",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-01",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-electrical-2-Ochoa-2",
+      "source": "demo-watch-electrical-2",
+      "revision_hash": "6cbcb289a6819576261a7ca57ab1f031224f0bcabbf0599b210672050266bdd1",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-02",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-electrical-2-Ochoa-3",
+      "source": "demo-watch-electrical-2",
+      "revision_hash": "6cbcb289a6819576261a7ca57ab1f031224f0bcabbf0599b210672050266bdd1",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-03",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-electrical-2-Ochoa-4",
+      "source": "demo-watch-electrical-2",
+      "revision_hash": "6cbcb289a6819576261a7ca57ab1f031224f0bcabbf0599b210672050266bdd1",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-04",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-electrical-2-Ochoa-5",
+      "source": "demo-watch-electrical-2",
+      "revision_hash": "6cbcb289a6819576261a7ca57ab1f031224f0bcabbf0599b210672050266bdd1",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-05",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-electrical-2-Ochoa-6",
+      "source": "demo-watch-electrical-2",
+      "revision_hash": "6cbcb289a6819576261a7ca57ab1f031224f0bcabbf0599b210672050266bdd1",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-06",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-electrical-2-Ochoa-7",
+      "source": "demo-watch-electrical-2",
+      "revision_hash": "6cbcb289a6819576261a7ca57ab1f031224f0bcabbf0599b210672050266bdd1",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-07",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-electrical-2-Ochoa-8",
+      "source": "demo-watch-electrical-2",
+      "revision_hash": "6cbcb289a6819576261a7ca57ab1f031224f0bcabbf0599b210672050266bdd1",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-08",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-electrical-2-Ochoa-9",
+      "source": "demo-watch-electrical-2",
+      "revision_hash": "6cbcb289a6819576261a7ca57ab1f031224f0bcabbf0599b210672050266bdd1",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-09",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-electrical-2-Ochoa-10",
+      "source": "demo-watch-electrical-2",
+      "revision_hash": "6cbcb289a6819576261a7ca57ab1f031224f0bcabbf0599b210672050266bdd1",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-10",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-electrical-2-Ochoa-11",
+      "source": "demo-watch-electrical-2",
+      "revision_hash": "6cbcb289a6819576261a7ca57ab1f031224f0bcabbf0599b210672050266bdd1",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-11",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-electrical-2-Ochoa-12",
+      "source": "demo-watch-electrical-2",
+      "revision_hash": "6cbcb289a6819576261a7ca57ab1f031224f0bcabbf0599b210672050266bdd1",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-12",
+      "outcome": "Completed"
+    },
+    {
+      "id": "CORRECTION-demo-watch-electrical-2-Ochoa",
+      "source": "demo-watch-electrical-2",
+      "revision_hash": "6cbcb289a6819576261a7ca57ab1f031224f0bcabbf0599b210672050266bdd1",
+      "sailor": "FC1 Ochoa",
+      "kind": "correction",
+      "step": 9,
+      "recorded": "2026-10-02",
+      "text": "Exercise log omitted the reading units; corrected before submission.",
+      "outcome": "Corrected during training"
+    },
+    {
+      "id": "RUN-demo-watch-electrical-2-Donohue-1",
+      "source": "demo-watch-electrical-2",
+      "revision_hash": "6cbcb289a6819576261a7ca57ab1f031224f0bcabbf0599b210672050266bdd1",
+      "sailor": "FC2 Donohue",
+      "kind": "completion",
+      "recorded": "2026-10-01",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-electrical-2-Donohue-2",
+      "source": "demo-watch-electrical-2",
+      "revision_hash": "6cbcb289a6819576261a7ca57ab1f031224f0bcabbf0599b210672050266bdd1",
+      "sailor": "FC2 Donohue",
+      "kind": "completion",
+      "recorded": "2026-10-02",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-electrical-2-Donohue-3",
+      "source": "demo-watch-electrical-2",
+      "revision_hash": "6cbcb289a6819576261a7ca57ab1f031224f0bcabbf0599b210672050266bdd1",
+      "sailor": "FC2 Donohue",
+      "kind": "completion",
+      "recorded": "2026-10-03",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-electrical-2-Donohue-4",
+      "source": "demo-watch-electrical-2",
+      "revision_hash": "6cbcb289a6819576261a7ca57ab1f031224f0bcabbf0599b210672050266bdd1",
+      "sailor": "FC2 Donohue",
+      "kind": "completion",
+      "recorded": "2026-10-04",
+      "outcome": "Completed"
+    },
+    {
+      "id": "CORRECTION-demo-watch-electrical-2-Donohue",
+      "source": "demo-watch-electrical-2",
+      "revision_hash": "6cbcb289a6819576261a7ca57ab1f031224f0bcabbf0599b210672050266bdd1",
+      "sailor": "FC2 Donohue",
+      "kind": "correction",
+      "step": 5,
+      "recorded": "2026-10-02",
+      "text": "Selected the wrong indicator or item during this checkpoint. Instructor prompted a full tag read-back; selection corrected before continuing.",
+      "outcome": "Corrected during training"
+    },
+    {
+      "id": "LESSON-demo-watch-electrical-3-1",
+      "source": "demo-watch-electrical-3",
+      "revision_hash": "9b0002e9efb3b1878b71f3ea6a35e35a6c0b4b5e7ac95721a981de47d5e388ee",
+      "step": 0,
+      "kind": "observation",
+      "text": "Confirm the equipment tag and compartment before starting; similar equipment names caused wrong-asset selections in the exercise.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-electrical-3-2",
+      "source": "demo-watch-electrical-3",
+      "revision_hash": "9b0002e9efb3b1878b71f3ea6a35e35a6c0b4b5e7ac95721a981de47d5e388ee",
+      "step": 1,
+      "kind": "observation",
+      "text": "Check the task-card revision before following a remembered sequence. An older exercise card had different control labels.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-electrical-3-3",
+      "source": "demo-watch-electrical-3",
+      "revision_hash": "9b0002e9efb3b1878b71f3ea6a35e35a6c0b4b5e7ac95721a981de47d5e388ee",
+      "step": 2,
+      "kind": "observation",
+      "text": "Read back the isolation boundary and required verification; a switch position alone did not establish isolation in the exercise.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-electrical-3-4",
+      "source": "demo-watch-electrical-3",
+      "revision_hash": "9b0002e9efb3b1878b71f3ea6a35e35a6c0b4b5e7ac95721a981de47d5e388ee",
+      "step": 3,
+      "kind": "observation",
+      "text": "Check the exact part identifier and available quantity, not just the item description.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-electrical-3-5",
+      "source": "demo-watch-electrical-3",
+      "revision_hash": "9b0002e9efb3b1878b71f3ea6a35e35a6c0b4b5e7ac95721a981de47d5e388ee",
+      "step": 4,
+      "kind": "observation",
+      "text": "Read the complete control tag aloud before changing its position. Adjacent controls have similar labels.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-electrical-3-6",
+      "source": "demo-watch-electrical-3",
+      "revision_hash": "9b0002e9efb3b1878b71f3ea6a35e35a6c0b4b5e7ac95721a981de47d5e388ee",
+      "step": 5,
+      "kind": "observation",
+      "text": "Record the gauge identifier and units with the reading. Zero on the wrong gauge is not the required verification.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-electrical-3-7",
+      "source": "demo-watch-electrical-3",
+      "revision_hash": "9b0002e9efb3b1878b71f3ea6a35e35a6c0b4b5e7ac95721a981de47d5e388ee",
+      "step": 6,
+      "kind": "observation",
+      "text": "Match replacement identifiers or sample labels before proceeding. Similar labels caused a mix-up in a prior exercise.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-electrical-3-8",
+      "source": "demo-watch-electrical-3",
+      "revision_hash": "9b0002e9efb3b1878b71f3ea6a35e35a6c0b4b5e7ac95721a981de47d5e388ee",
+      "step": 7,
+      "kind": "observation",
+      "text": "Record the actual displayed result before judging pass/fail; do not copy the exercise target into the result field.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-electrical-3-9",
+      "source": "demo-watch-electrical-3",
+      "revision_hash": "9b0002e9efb3b1878b71f3ea6a35e35a6c0b4b5e7ac95721a981de47d5e388ee",
+      "step": 8,
+      "kind": "observation",
+      "text": "Confirm every specified restoration indication. A normal main display can hide a remaining exercise alarm.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-electrical-3-10",
+      "source": "demo-watch-electrical-3",
+      "revision_hash": "9b0002e9efb3b1878b71f3ea6a35e35a6c0b4b5e7ac95721a981de47d5e388ee",
+      "step": 9,
+      "kind": "observation",
+      "text": "Attach a legible log with reading units and equipment identification; cropped photos delayed exercise review.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-electrical-3-11",
+      "source": "demo-watch-electrical-3",
+      "revision_hash": "9b0002e9efb3b1878b71f3ea6a35e35a6c0b4b5e7ac95721a981de47d5e388ee",
+      "step": 10,
+      "kind": "observation",
+      "text": "Keep unresolved discrepancies visible in the handoff; a checked step does not clear a restriction.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-electrical-3-12",
+      "source": "demo-watch-electrical-3",
+      "revision_hash": "9b0002e9efb3b1878b71f3ea6a35e35a6c0b4b5e7ac95721a981de47d5e388ee",
+      "step": 11,
+      "kind": "observation",
+      "text": "Verify parts usage, evidence and follow-up notes before submitting the exercise completion.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "RUN-demo-watch-electrical-3-Ochoa-1",
+      "source": "demo-watch-electrical-3",
+      "revision_hash": "9b0002e9efb3b1878b71f3ea6a35e35a6c0b4b5e7ac95721a981de47d5e388ee",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-01",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-electrical-3-Ochoa-2",
+      "source": "demo-watch-electrical-3",
+      "revision_hash": "9b0002e9efb3b1878b71f3ea6a35e35a6c0b4b5e7ac95721a981de47d5e388ee",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-02",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-electrical-3-Ochoa-3",
+      "source": "demo-watch-electrical-3",
+      "revision_hash": "9b0002e9efb3b1878b71f3ea6a35e35a6c0b4b5e7ac95721a981de47d5e388ee",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-03",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-electrical-3-Ochoa-4",
+      "source": "demo-watch-electrical-3",
+      "revision_hash": "9b0002e9efb3b1878b71f3ea6a35e35a6c0b4b5e7ac95721a981de47d5e388ee",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-04",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-electrical-3-Ochoa-5",
+      "source": "demo-watch-electrical-3",
+      "revision_hash": "9b0002e9efb3b1878b71f3ea6a35e35a6c0b4b5e7ac95721a981de47d5e388ee",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-05",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-electrical-3-Ochoa-6",
+      "source": "demo-watch-electrical-3",
+      "revision_hash": "9b0002e9efb3b1878b71f3ea6a35e35a6c0b4b5e7ac95721a981de47d5e388ee",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-06",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-electrical-3-Ochoa-7",
+      "source": "demo-watch-electrical-3",
+      "revision_hash": "9b0002e9efb3b1878b71f3ea6a35e35a6c0b4b5e7ac95721a981de47d5e388ee",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-07",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-electrical-3-Ochoa-8",
+      "source": "demo-watch-electrical-3",
+      "revision_hash": "9b0002e9efb3b1878b71f3ea6a35e35a6c0b4b5e7ac95721a981de47d5e388ee",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-08",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-electrical-3-Ochoa-9",
+      "source": "demo-watch-electrical-3",
+      "revision_hash": "9b0002e9efb3b1878b71f3ea6a35e35a6c0b4b5e7ac95721a981de47d5e388ee",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-09",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-electrical-3-Ochoa-10",
+      "source": "demo-watch-electrical-3",
+      "revision_hash": "9b0002e9efb3b1878b71f3ea6a35e35a6c0b4b5e7ac95721a981de47d5e388ee",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-10",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-electrical-3-Ochoa-11",
+      "source": "demo-watch-electrical-3",
+      "revision_hash": "9b0002e9efb3b1878b71f3ea6a35e35a6c0b4b5e7ac95721a981de47d5e388ee",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-11",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-electrical-3-Ochoa-12",
+      "source": "demo-watch-electrical-3",
+      "revision_hash": "9b0002e9efb3b1878b71f3ea6a35e35a6c0b4b5e7ac95721a981de47d5e388ee",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-12",
+      "outcome": "Completed"
+    },
+    {
+      "id": "CORRECTION-demo-watch-electrical-3-Ochoa",
+      "source": "demo-watch-electrical-3",
+      "revision_hash": "9b0002e9efb3b1878b71f3ea6a35e35a6c0b4b5e7ac95721a981de47d5e388ee",
+      "sailor": "FC1 Ochoa",
+      "kind": "correction",
+      "step": 9,
+      "recorded": "2026-10-02",
+      "text": "Exercise log omitted the reading units; corrected before submission.",
+      "outcome": "Corrected during training"
+    },
+    {
+      "id": "RUN-demo-watch-electrical-3-Donohue-1",
+      "source": "demo-watch-electrical-3",
+      "revision_hash": "9b0002e9efb3b1878b71f3ea6a35e35a6c0b4b5e7ac95721a981de47d5e388ee",
+      "sailor": "FC2 Donohue",
+      "kind": "completion",
+      "recorded": "2026-10-01",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-electrical-3-Donohue-2",
+      "source": "demo-watch-electrical-3",
+      "revision_hash": "9b0002e9efb3b1878b71f3ea6a35e35a6c0b4b5e7ac95721a981de47d5e388ee",
+      "sailor": "FC2 Donohue",
+      "kind": "completion",
+      "recorded": "2026-10-02",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-electrical-3-Donohue-3",
+      "source": "demo-watch-electrical-3",
+      "revision_hash": "9b0002e9efb3b1878b71f3ea6a35e35a6c0b4b5e7ac95721a981de47d5e388ee",
+      "sailor": "FC2 Donohue",
+      "kind": "completion",
+      "recorded": "2026-10-03",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-electrical-3-Donohue-4",
+      "source": "demo-watch-electrical-3",
+      "revision_hash": "9b0002e9efb3b1878b71f3ea6a35e35a6c0b4b5e7ac95721a981de47d5e388ee",
+      "sailor": "FC2 Donohue",
+      "kind": "completion",
+      "recorded": "2026-10-04",
+      "outcome": "Completed"
+    },
+    {
+      "id": "CORRECTION-demo-watch-electrical-3-Donohue",
+      "source": "demo-watch-electrical-3",
+      "revision_hash": "9b0002e9efb3b1878b71f3ea6a35e35a6c0b4b5e7ac95721a981de47d5e388ee",
+      "sailor": "FC2 Donohue",
+      "kind": "correction",
+      "step": 5,
+      "recorded": "2026-10-02",
+      "text": "Selected the wrong indicator or item during this checkpoint. Instructor prompted a full tag read-back; selection corrected before continuing.",
+      "outcome": "Corrected during training"
+    },
+    {
+      "id": "LESSON-demo-watch-mechanical-1",
+      "source": "demo-watch-mechanical",
+      "revision_hash": "b00fe3b55844d61f8e5f0f58277c056b9e7b67d40e43ae82b3de9cd5662cf23f",
+      "step": 0,
+      "kind": "observation",
+      "text": "Confirm the equipment tag and compartment before starting; similar equipment names caused wrong-asset selections in the exercise.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-mechanical-2",
+      "source": "demo-watch-mechanical",
+      "revision_hash": "b00fe3b55844d61f8e5f0f58277c056b9e7b67d40e43ae82b3de9cd5662cf23f",
+      "step": 1,
+      "kind": "observation",
+      "text": "Check the task-card revision before following a remembered sequence. An older exercise card had different control labels.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-mechanical-3",
+      "source": "demo-watch-mechanical",
+      "revision_hash": "b00fe3b55844d61f8e5f0f58277c056b9e7b67d40e43ae82b3de9cd5662cf23f",
+      "step": 2,
+      "kind": "observation",
+      "text": "Read back the isolation boundary and required verification; a switch position alone did not establish isolation in the exercise.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-mechanical-4",
+      "source": "demo-watch-mechanical",
+      "revision_hash": "b00fe3b55844d61f8e5f0f58277c056b9e7b67d40e43ae82b3de9cd5662cf23f",
+      "step": 3,
+      "kind": "observation",
+      "text": "Check the exact part identifier and available quantity, not just the item description.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-mechanical-5",
+      "source": "demo-watch-mechanical",
+      "revision_hash": "b00fe3b55844d61f8e5f0f58277c056b9e7b67d40e43ae82b3de9cd5662cf23f",
+      "step": 4,
+      "kind": "observation",
+      "text": "Read the complete control tag aloud before changing its position. Adjacent controls have similar labels.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-mechanical-6",
+      "source": "demo-watch-mechanical",
+      "revision_hash": "b00fe3b55844d61f8e5f0f58277c056b9e7b67d40e43ae82b3de9cd5662cf23f",
+      "step": 5,
+      "kind": "observation",
+      "text": "Record the gauge identifier and units with the reading. Zero on the wrong gauge is not the required verification.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-mechanical-7",
+      "source": "demo-watch-mechanical",
+      "revision_hash": "b00fe3b55844d61f8e5f0f58277c056b9e7b67d40e43ae82b3de9cd5662cf23f",
+      "step": 6,
+      "kind": "observation",
+      "text": "Match replacement identifiers or sample labels before proceeding. Similar labels caused a mix-up in a prior exercise.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-mechanical-8",
+      "source": "demo-watch-mechanical",
+      "revision_hash": "b00fe3b55844d61f8e5f0f58277c056b9e7b67d40e43ae82b3de9cd5662cf23f",
+      "step": 7,
+      "kind": "observation",
+      "text": "Record the actual displayed result before judging pass/fail; do not copy the exercise target into the result field.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-mechanical-9",
+      "source": "demo-watch-mechanical",
+      "revision_hash": "b00fe3b55844d61f8e5f0f58277c056b9e7b67d40e43ae82b3de9cd5662cf23f",
+      "step": 8,
+      "kind": "observation",
+      "text": "Confirm every specified restoration indication. A normal main display can hide a remaining exercise alarm.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-mechanical-10",
+      "source": "demo-watch-mechanical",
+      "revision_hash": "b00fe3b55844d61f8e5f0f58277c056b9e7b67d40e43ae82b3de9cd5662cf23f",
+      "step": 9,
+      "kind": "observation",
+      "text": "Attach a legible log with reading units and equipment identification; cropped photos delayed exercise review.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-mechanical-11",
+      "source": "demo-watch-mechanical",
+      "revision_hash": "b00fe3b55844d61f8e5f0f58277c056b9e7b67d40e43ae82b3de9cd5662cf23f",
+      "step": 10,
+      "kind": "observation",
+      "text": "Keep unresolved discrepancies visible in the handoff; a checked step does not clear a restriction.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-mechanical-12",
+      "source": "demo-watch-mechanical",
+      "revision_hash": "b00fe3b55844d61f8e5f0f58277c056b9e7b67d40e43ae82b3de9cd5662cf23f",
+      "step": 11,
+      "kind": "observation",
+      "text": "Verify parts usage, evidence and follow-up notes before submitting the exercise completion.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "RUN-demo-watch-mechanical-Ochoa-1",
+      "source": "demo-watch-mechanical",
+      "revision_hash": "b00fe3b55844d61f8e5f0f58277c056b9e7b67d40e43ae82b3de9cd5662cf23f",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-01",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-mechanical-Ochoa-2",
+      "source": "demo-watch-mechanical",
+      "revision_hash": "b00fe3b55844d61f8e5f0f58277c056b9e7b67d40e43ae82b3de9cd5662cf23f",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-02",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-mechanical-Ochoa-3",
+      "source": "demo-watch-mechanical",
+      "revision_hash": "b00fe3b55844d61f8e5f0f58277c056b9e7b67d40e43ae82b3de9cd5662cf23f",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-03",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-mechanical-Ochoa-4",
+      "source": "demo-watch-mechanical",
+      "revision_hash": "b00fe3b55844d61f8e5f0f58277c056b9e7b67d40e43ae82b3de9cd5662cf23f",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-04",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-mechanical-Ochoa-5",
+      "source": "demo-watch-mechanical",
+      "revision_hash": "b00fe3b55844d61f8e5f0f58277c056b9e7b67d40e43ae82b3de9cd5662cf23f",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-05",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-mechanical-Ochoa-6",
+      "source": "demo-watch-mechanical",
+      "revision_hash": "b00fe3b55844d61f8e5f0f58277c056b9e7b67d40e43ae82b3de9cd5662cf23f",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-06",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-mechanical-Ochoa-7",
+      "source": "demo-watch-mechanical",
+      "revision_hash": "b00fe3b55844d61f8e5f0f58277c056b9e7b67d40e43ae82b3de9cd5662cf23f",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-07",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-mechanical-Ochoa-8",
+      "source": "demo-watch-mechanical",
+      "revision_hash": "b00fe3b55844d61f8e5f0f58277c056b9e7b67d40e43ae82b3de9cd5662cf23f",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-08",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-mechanical-Ochoa-9",
+      "source": "demo-watch-mechanical",
+      "revision_hash": "b00fe3b55844d61f8e5f0f58277c056b9e7b67d40e43ae82b3de9cd5662cf23f",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-09",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-mechanical-Ochoa-10",
+      "source": "demo-watch-mechanical",
+      "revision_hash": "b00fe3b55844d61f8e5f0f58277c056b9e7b67d40e43ae82b3de9cd5662cf23f",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-10",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-mechanical-Ochoa-11",
+      "source": "demo-watch-mechanical",
+      "revision_hash": "b00fe3b55844d61f8e5f0f58277c056b9e7b67d40e43ae82b3de9cd5662cf23f",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-11",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-mechanical-Ochoa-12",
+      "source": "demo-watch-mechanical",
+      "revision_hash": "b00fe3b55844d61f8e5f0f58277c056b9e7b67d40e43ae82b3de9cd5662cf23f",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-12",
+      "outcome": "Completed"
+    },
+    {
+      "id": "CORRECTION-demo-watch-mechanical-Ochoa",
+      "source": "demo-watch-mechanical",
+      "revision_hash": "b00fe3b55844d61f8e5f0f58277c056b9e7b67d40e43ae82b3de9cd5662cf23f",
+      "sailor": "FC1 Ochoa",
+      "kind": "correction",
+      "step": 9,
+      "recorded": "2026-10-02",
+      "text": "Exercise log omitted the reading units; corrected before submission.",
+      "outcome": "Corrected during training"
+    },
+    {
+      "id": "RUN-demo-watch-mechanical-Donohue-1",
+      "source": "demo-watch-mechanical",
+      "revision_hash": "b00fe3b55844d61f8e5f0f58277c056b9e7b67d40e43ae82b3de9cd5662cf23f",
+      "sailor": "FC2 Donohue",
+      "kind": "completion",
+      "recorded": "2026-10-01",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-mechanical-Donohue-2",
+      "source": "demo-watch-mechanical",
+      "revision_hash": "b00fe3b55844d61f8e5f0f58277c056b9e7b67d40e43ae82b3de9cd5662cf23f",
+      "sailor": "FC2 Donohue",
+      "kind": "completion",
+      "recorded": "2026-10-02",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-mechanical-Donohue-3",
+      "source": "demo-watch-mechanical",
+      "revision_hash": "b00fe3b55844d61f8e5f0f58277c056b9e7b67d40e43ae82b3de9cd5662cf23f",
+      "sailor": "FC2 Donohue",
+      "kind": "completion",
+      "recorded": "2026-10-03",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-mechanical-Donohue-4",
+      "source": "demo-watch-mechanical",
+      "revision_hash": "b00fe3b55844d61f8e5f0f58277c056b9e7b67d40e43ae82b3de9cd5662cf23f",
+      "sailor": "FC2 Donohue",
+      "kind": "completion",
+      "recorded": "2026-10-04",
+      "outcome": "Completed"
+    },
+    {
+      "id": "CORRECTION-demo-watch-mechanical-Donohue",
+      "source": "demo-watch-mechanical",
+      "revision_hash": "b00fe3b55844d61f8e5f0f58277c056b9e7b67d40e43ae82b3de9cd5662cf23f",
+      "sailor": "FC2 Donohue",
+      "kind": "correction",
+      "step": 5,
+      "recorded": "2026-10-02",
+      "text": "Selected the wrong indicator or item during this checkpoint. Instructor prompted a full tag read-back; selection corrected before continuing.",
+      "outcome": "Corrected during training"
+    },
+    {
+      "id": "LESSON-demo-watch-mechanical-2-1",
+      "source": "demo-watch-mechanical-2",
+      "revision_hash": "e16913d84c337437cfd1023a229d8e1fd8f3351e2f01efdf312d1c9245f67e41",
+      "step": 0,
+      "kind": "observation",
+      "text": "Confirm the equipment tag and compartment before starting; similar equipment names caused wrong-asset selections in the exercise.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-mechanical-2-2",
+      "source": "demo-watch-mechanical-2",
+      "revision_hash": "e16913d84c337437cfd1023a229d8e1fd8f3351e2f01efdf312d1c9245f67e41",
+      "step": 1,
+      "kind": "observation",
+      "text": "Check the task-card revision before following a remembered sequence. An older exercise card had different control labels.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-mechanical-2-3",
+      "source": "demo-watch-mechanical-2",
+      "revision_hash": "e16913d84c337437cfd1023a229d8e1fd8f3351e2f01efdf312d1c9245f67e41",
+      "step": 2,
+      "kind": "observation",
+      "text": "Read back the isolation boundary and required verification; a switch position alone did not establish isolation in the exercise.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-mechanical-2-4",
+      "source": "demo-watch-mechanical-2",
+      "revision_hash": "e16913d84c337437cfd1023a229d8e1fd8f3351e2f01efdf312d1c9245f67e41",
+      "step": 3,
+      "kind": "observation",
+      "text": "Check the exact part identifier and available quantity, not just the item description.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-mechanical-2-5",
+      "source": "demo-watch-mechanical-2",
+      "revision_hash": "e16913d84c337437cfd1023a229d8e1fd8f3351e2f01efdf312d1c9245f67e41",
+      "step": 4,
+      "kind": "observation",
+      "text": "Read the complete control tag aloud before changing its position. Adjacent controls have similar labels.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-mechanical-2-6",
+      "source": "demo-watch-mechanical-2",
+      "revision_hash": "e16913d84c337437cfd1023a229d8e1fd8f3351e2f01efdf312d1c9245f67e41",
+      "step": 5,
+      "kind": "observation",
+      "text": "Record the gauge identifier and units with the reading. Zero on the wrong gauge is not the required verification.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-mechanical-2-7",
+      "source": "demo-watch-mechanical-2",
+      "revision_hash": "e16913d84c337437cfd1023a229d8e1fd8f3351e2f01efdf312d1c9245f67e41",
+      "step": 6,
+      "kind": "observation",
+      "text": "Match replacement identifiers or sample labels before proceeding. Similar labels caused a mix-up in a prior exercise.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-mechanical-2-8",
+      "source": "demo-watch-mechanical-2",
+      "revision_hash": "e16913d84c337437cfd1023a229d8e1fd8f3351e2f01efdf312d1c9245f67e41",
+      "step": 7,
+      "kind": "observation",
+      "text": "Record the actual displayed result before judging pass/fail; do not copy the exercise target into the result field.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-mechanical-2-9",
+      "source": "demo-watch-mechanical-2",
+      "revision_hash": "e16913d84c337437cfd1023a229d8e1fd8f3351e2f01efdf312d1c9245f67e41",
+      "step": 8,
+      "kind": "observation",
+      "text": "Confirm every specified restoration indication. A normal main display can hide a remaining exercise alarm.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-mechanical-2-10",
+      "source": "demo-watch-mechanical-2",
+      "revision_hash": "e16913d84c337437cfd1023a229d8e1fd8f3351e2f01efdf312d1c9245f67e41",
+      "step": 9,
+      "kind": "observation",
+      "text": "Attach a legible log with reading units and equipment identification; cropped photos delayed exercise review.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-mechanical-2-11",
+      "source": "demo-watch-mechanical-2",
+      "revision_hash": "e16913d84c337437cfd1023a229d8e1fd8f3351e2f01efdf312d1c9245f67e41",
+      "step": 10,
+      "kind": "observation",
+      "text": "Keep unresolved discrepancies visible in the handoff; a checked step does not clear a restriction.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-mechanical-2-12",
+      "source": "demo-watch-mechanical-2",
+      "revision_hash": "e16913d84c337437cfd1023a229d8e1fd8f3351e2f01efdf312d1c9245f67e41",
+      "step": 11,
+      "kind": "observation",
+      "text": "Verify parts usage, evidence and follow-up notes before submitting the exercise completion.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "RUN-demo-watch-mechanical-2-Ochoa-1",
+      "source": "demo-watch-mechanical-2",
+      "revision_hash": "e16913d84c337437cfd1023a229d8e1fd8f3351e2f01efdf312d1c9245f67e41",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-01",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-mechanical-2-Ochoa-2",
+      "source": "demo-watch-mechanical-2",
+      "revision_hash": "e16913d84c337437cfd1023a229d8e1fd8f3351e2f01efdf312d1c9245f67e41",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-02",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-mechanical-2-Ochoa-3",
+      "source": "demo-watch-mechanical-2",
+      "revision_hash": "e16913d84c337437cfd1023a229d8e1fd8f3351e2f01efdf312d1c9245f67e41",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-03",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-mechanical-2-Ochoa-4",
+      "source": "demo-watch-mechanical-2",
+      "revision_hash": "e16913d84c337437cfd1023a229d8e1fd8f3351e2f01efdf312d1c9245f67e41",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-04",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-mechanical-2-Ochoa-5",
+      "source": "demo-watch-mechanical-2",
+      "revision_hash": "e16913d84c337437cfd1023a229d8e1fd8f3351e2f01efdf312d1c9245f67e41",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-05",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-mechanical-2-Ochoa-6",
+      "source": "demo-watch-mechanical-2",
+      "revision_hash": "e16913d84c337437cfd1023a229d8e1fd8f3351e2f01efdf312d1c9245f67e41",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-06",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-mechanical-2-Ochoa-7",
+      "source": "demo-watch-mechanical-2",
+      "revision_hash": "e16913d84c337437cfd1023a229d8e1fd8f3351e2f01efdf312d1c9245f67e41",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-07",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-mechanical-2-Ochoa-8",
+      "source": "demo-watch-mechanical-2",
+      "revision_hash": "e16913d84c337437cfd1023a229d8e1fd8f3351e2f01efdf312d1c9245f67e41",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-08",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-mechanical-2-Ochoa-9",
+      "source": "demo-watch-mechanical-2",
+      "revision_hash": "e16913d84c337437cfd1023a229d8e1fd8f3351e2f01efdf312d1c9245f67e41",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-09",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-mechanical-2-Ochoa-10",
+      "source": "demo-watch-mechanical-2",
+      "revision_hash": "e16913d84c337437cfd1023a229d8e1fd8f3351e2f01efdf312d1c9245f67e41",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-10",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-mechanical-2-Ochoa-11",
+      "source": "demo-watch-mechanical-2",
+      "revision_hash": "e16913d84c337437cfd1023a229d8e1fd8f3351e2f01efdf312d1c9245f67e41",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-11",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-mechanical-2-Ochoa-12",
+      "source": "demo-watch-mechanical-2",
+      "revision_hash": "e16913d84c337437cfd1023a229d8e1fd8f3351e2f01efdf312d1c9245f67e41",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-12",
+      "outcome": "Completed"
+    },
+    {
+      "id": "CORRECTION-demo-watch-mechanical-2-Ochoa",
+      "source": "demo-watch-mechanical-2",
+      "revision_hash": "e16913d84c337437cfd1023a229d8e1fd8f3351e2f01efdf312d1c9245f67e41",
+      "sailor": "FC1 Ochoa",
+      "kind": "correction",
+      "step": 9,
+      "recorded": "2026-10-02",
+      "text": "Exercise log omitted the reading units; corrected before submission.",
+      "outcome": "Corrected during training"
+    },
+    {
+      "id": "RUN-demo-watch-mechanical-2-Donohue-1",
+      "source": "demo-watch-mechanical-2",
+      "revision_hash": "e16913d84c337437cfd1023a229d8e1fd8f3351e2f01efdf312d1c9245f67e41",
+      "sailor": "FC2 Donohue",
+      "kind": "completion",
+      "recorded": "2026-10-01",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-mechanical-2-Donohue-2",
+      "source": "demo-watch-mechanical-2",
+      "revision_hash": "e16913d84c337437cfd1023a229d8e1fd8f3351e2f01efdf312d1c9245f67e41",
+      "sailor": "FC2 Donohue",
+      "kind": "completion",
+      "recorded": "2026-10-02",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-mechanical-2-Donohue-3",
+      "source": "demo-watch-mechanical-2",
+      "revision_hash": "e16913d84c337437cfd1023a229d8e1fd8f3351e2f01efdf312d1c9245f67e41",
+      "sailor": "FC2 Donohue",
+      "kind": "completion",
+      "recorded": "2026-10-03",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-mechanical-2-Donohue-4",
+      "source": "demo-watch-mechanical-2",
+      "revision_hash": "e16913d84c337437cfd1023a229d8e1fd8f3351e2f01efdf312d1c9245f67e41",
+      "sailor": "FC2 Donohue",
+      "kind": "completion",
+      "recorded": "2026-10-04",
+      "outcome": "Completed"
+    },
+    {
+      "id": "CORRECTION-demo-watch-mechanical-2-Donohue",
+      "source": "demo-watch-mechanical-2",
+      "revision_hash": "e16913d84c337437cfd1023a229d8e1fd8f3351e2f01efdf312d1c9245f67e41",
+      "sailor": "FC2 Donohue",
+      "kind": "correction",
+      "step": 5,
+      "recorded": "2026-10-02",
+      "text": "Selected the wrong indicator or item during this checkpoint. Instructor prompted a full tag read-back; selection corrected before continuing.",
+      "outcome": "Corrected during training"
+    },
+    {
+      "id": "LESSON-demo-watch-mechanical-3-1",
+      "source": "demo-watch-mechanical-3",
+      "revision_hash": "fcee55d444f03cceacbb82fac8ef9acce9ec14cefb60a4e73fdb0c63b83fe6fb",
+      "step": 0,
+      "kind": "observation",
+      "text": "Confirm the equipment tag and compartment before starting; similar equipment names caused wrong-asset selections in the exercise.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-mechanical-3-2",
+      "source": "demo-watch-mechanical-3",
+      "revision_hash": "fcee55d444f03cceacbb82fac8ef9acce9ec14cefb60a4e73fdb0c63b83fe6fb",
+      "step": 1,
+      "kind": "observation",
+      "text": "Check the task-card revision before following a remembered sequence. An older exercise card had different control labels.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-mechanical-3-3",
+      "source": "demo-watch-mechanical-3",
+      "revision_hash": "fcee55d444f03cceacbb82fac8ef9acce9ec14cefb60a4e73fdb0c63b83fe6fb",
+      "step": 2,
+      "kind": "observation",
+      "text": "Read back the isolation boundary and required verification; a switch position alone did not establish isolation in the exercise.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-mechanical-3-4",
+      "source": "demo-watch-mechanical-3",
+      "revision_hash": "fcee55d444f03cceacbb82fac8ef9acce9ec14cefb60a4e73fdb0c63b83fe6fb",
+      "step": 3,
+      "kind": "observation",
+      "text": "Check the exact part identifier and available quantity, not just the item description.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-mechanical-3-5",
+      "source": "demo-watch-mechanical-3",
+      "revision_hash": "fcee55d444f03cceacbb82fac8ef9acce9ec14cefb60a4e73fdb0c63b83fe6fb",
+      "step": 4,
+      "kind": "observation",
+      "text": "Read the complete control tag aloud before changing its position. Adjacent controls have similar labels.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-mechanical-3-6",
+      "source": "demo-watch-mechanical-3",
+      "revision_hash": "fcee55d444f03cceacbb82fac8ef9acce9ec14cefb60a4e73fdb0c63b83fe6fb",
+      "step": 5,
+      "kind": "observation",
+      "text": "Record the gauge identifier and units with the reading. Zero on the wrong gauge is not the required verification.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-mechanical-3-7",
+      "source": "demo-watch-mechanical-3",
+      "revision_hash": "fcee55d444f03cceacbb82fac8ef9acce9ec14cefb60a4e73fdb0c63b83fe6fb",
+      "step": 6,
+      "kind": "observation",
+      "text": "Match replacement identifiers or sample labels before proceeding. Similar labels caused a mix-up in a prior exercise.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-mechanical-3-8",
+      "source": "demo-watch-mechanical-3",
+      "revision_hash": "fcee55d444f03cceacbb82fac8ef9acce9ec14cefb60a4e73fdb0c63b83fe6fb",
+      "step": 7,
+      "kind": "observation",
+      "text": "Record the actual displayed result before judging pass/fail; do not copy the exercise target into the result field.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-mechanical-3-9",
+      "source": "demo-watch-mechanical-3",
+      "revision_hash": "fcee55d444f03cceacbb82fac8ef9acce9ec14cefb60a4e73fdb0c63b83fe6fb",
+      "step": 8,
+      "kind": "observation",
+      "text": "Confirm every specified restoration indication. A normal main display can hide a remaining exercise alarm.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-mechanical-3-10",
+      "source": "demo-watch-mechanical-3",
+      "revision_hash": "fcee55d444f03cceacbb82fac8ef9acce9ec14cefb60a4e73fdb0c63b83fe6fb",
+      "step": 9,
+      "kind": "observation",
+      "text": "Attach a legible log with reading units and equipment identification; cropped photos delayed exercise review.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-mechanical-3-11",
+      "source": "demo-watch-mechanical-3",
+      "revision_hash": "fcee55d444f03cceacbb82fac8ef9acce9ec14cefb60a4e73fdb0c63b83fe6fb",
+      "step": 10,
+      "kind": "observation",
+      "text": "Keep unresolved discrepancies visible in the handoff; a checked step does not clear a restriction.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-mechanical-3-12",
+      "source": "demo-watch-mechanical-3",
+      "revision_hash": "fcee55d444f03cceacbb82fac8ef9acce9ec14cefb60a4e73fdb0c63b83fe6fb",
+      "step": 11,
+      "kind": "observation",
+      "text": "Verify parts usage, evidence and follow-up notes before submitting the exercise completion.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "RUN-demo-watch-mechanical-3-Ochoa-1",
+      "source": "demo-watch-mechanical-3",
+      "revision_hash": "fcee55d444f03cceacbb82fac8ef9acce9ec14cefb60a4e73fdb0c63b83fe6fb",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-01",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-mechanical-3-Ochoa-2",
+      "source": "demo-watch-mechanical-3",
+      "revision_hash": "fcee55d444f03cceacbb82fac8ef9acce9ec14cefb60a4e73fdb0c63b83fe6fb",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-02",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-mechanical-3-Ochoa-3",
+      "source": "demo-watch-mechanical-3",
+      "revision_hash": "fcee55d444f03cceacbb82fac8ef9acce9ec14cefb60a4e73fdb0c63b83fe6fb",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-03",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-mechanical-3-Ochoa-4",
+      "source": "demo-watch-mechanical-3",
+      "revision_hash": "fcee55d444f03cceacbb82fac8ef9acce9ec14cefb60a4e73fdb0c63b83fe6fb",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-04",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-mechanical-3-Ochoa-5",
+      "source": "demo-watch-mechanical-3",
+      "revision_hash": "fcee55d444f03cceacbb82fac8ef9acce9ec14cefb60a4e73fdb0c63b83fe6fb",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-05",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-mechanical-3-Ochoa-6",
+      "source": "demo-watch-mechanical-3",
+      "revision_hash": "fcee55d444f03cceacbb82fac8ef9acce9ec14cefb60a4e73fdb0c63b83fe6fb",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-06",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-mechanical-3-Ochoa-7",
+      "source": "demo-watch-mechanical-3",
+      "revision_hash": "fcee55d444f03cceacbb82fac8ef9acce9ec14cefb60a4e73fdb0c63b83fe6fb",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-07",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-mechanical-3-Ochoa-8",
+      "source": "demo-watch-mechanical-3",
+      "revision_hash": "fcee55d444f03cceacbb82fac8ef9acce9ec14cefb60a4e73fdb0c63b83fe6fb",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-08",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-mechanical-3-Ochoa-9",
+      "source": "demo-watch-mechanical-3",
+      "revision_hash": "fcee55d444f03cceacbb82fac8ef9acce9ec14cefb60a4e73fdb0c63b83fe6fb",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-09",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-mechanical-3-Ochoa-10",
+      "source": "demo-watch-mechanical-3",
+      "revision_hash": "fcee55d444f03cceacbb82fac8ef9acce9ec14cefb60a4e73fdb0c63b83fe6fb",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-10",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-mechanical-3-Ochoa-11",
+      "source": "demo-watch-mechanical-3",
+      "revision_hash": "fcee55d444f03cceacbb82fac8ef9acce9ec14cefb60a4e73fdb0c63b83fe6fb",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-11",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-mechanical-3-Ochoa-12",
+      "source": "demo-watch-mechanical-3",
+      "revision_hash": "fcee55d444f03cceacbb82fac8ef9acce9ec14cefb60a4e73fdb0c63b83fe6fb",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-12",
+      "outcome": "Completed"
+    },
+    {
+      "id": "CORRECTION-demo-watch-mechanical-3-Ochoa",
+      "source": "demo-watch-mechanical-3",
+      "revision_hash": "fcee55d444f03cceacbb82fac8ef9acce9ec14cefb60a4e73fdb0c63b83fe6fb",
+      "sailor": "FC1 Ochoa",
+      "kind": "correction",
+      "step": 9,
+      "recorded": "2026-10-02",
+      "text": "Exercise log omitted the reading units; corrected before submission.",
+      "outcome": "Corrected during training"
+    },
+    {
+      "id": "RUN-demo-watch-mechanical-3-Donohue-1",
+      "source": "demo-watch-mechanical-3",
+      "revision_hash": "fcee55d444f03cceacbb82fac8ef9acce9ec14cefb60a4e73fdb0c63b83fe6fb",
+      "sailor": "FC2 Donohue",
+      "kind": "completion",
+      "recorded": "2026-10-01",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-mechanical-3-Donohue-2",
+      "source": "demo-watch-mechanical-3",
+      "revision_hash": "fcee55d444f03cceacbb82fac8ef9acce9ec14cefb60a4e73fdb0c63b83fe6fb",
+      "sailor": "FC2 Donohue",
+      "kind": "completion",
+      "recorded": "2026-10-02",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-mechanical-3-Donohue-3",
+      "source": "demo-watch-mechanical-3",
+      "revision_hash": "fcee55d444f03cceacbb82fac8ef9acce9ec14cefb60a4e73fdb0c63b83fe6fb",
+      "sailor": "FC2 Donohue",
+      "kind": "completion",
+      "recorded": "2026-10-03",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-mechanical-3-Donohue-4",
+      "source": "demo-watch-mechanical-3",
+      "revision_hash": "fcee55d444f03cceacbb82fac8ef9acce9ec14cefb60a4e73fdb0c63b83fe6fb",
+      "sailor": "FC2 Donohue",
+      "kind": "completion",
+      "recorded": "2026-10-04",
+      "outcome": "Completed"
+    },
+    {
+      "id": "CORRECTION-demo-watch-mechanical-3-Donohue",
+      "source": "demo-watch-mechanical-3",
+      "revision_hash": "fcee55d444f03cceacbb82fac8ef9acce9ec14cefb60a4e73fdb0c63b83fe6fb",
+      "sailor": "FC2 Donohue",
+      "kind": "correction",
+      "step": 5,
+      "recorded": "2026-10-02",
+      "text": "Selected the wrong indicator or item during this checkpoint. Instructor prompted a full tag read-back; selection corrected before continuing.",
+      "outcome": "Corrected during training"
+    },
+    {
+      "id": "LESSON-demo-watch-sonar-1",
+      "source": "demo-watch-sonar",
+      "revision_hash": "28b7acd1b8265ad307d70899f0224bffa01d8bf20219f10d90b6412fc110f2b1",
+      "step": 0,
+      "kind": "observation",
+      "text": "Confirm the equipment tag and compartment before starting; similar equipment names caused wrong-asset selections in the exercise.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-sonar-2",
+      "source": "demo-watch-sonar",
+      "revision_hash": "28b7acd1b8265ad307d70899f0224bffa01d8bf20219f10d90b6412fc110f2b1",
+      "step": 1,
+      "kind": "observation",
+      "text": "Check the task-card revision before following a remembered sequence. An older exercise card had different control labels.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-sonar-3",
+      "source": "demo-watch-sonar",
+      "revision_hash": "28b7acd1b8265ad307d70899f0224bffa01d8bf20219f10d90b6412fc110f2b1",
+      "step": 2,
+      "kind": "observation",
+      "text": "Read back the isolation boundary and required verification; a switch position alone did not establish isolation in the exercise.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-sonar-4",
+      "source": "demo-watch-sonar",
+      "revision_hash": "28b7acd1b8265ad307d70899f0224bffa01d8bf20219f10d90b6412fc110f2b1",
+      "step": 3,
+      "kind": "observation",
+      "text": "Check the exact part identifier and available quantity, not just the item description.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-sonar-5",
+      "source": "demo-watch-sonar",
+      "revision_hash": "28b7acd1b8265ad307d70899f0224bffa01d8bf20219f10d90b6412fc110f2b1",
+      "step": 4,
+      "kind": "observation",
+      "text": "Read the complete control tag aloud before changing its position. Adjacent controls have similar labels.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-sonar-6",
+      "source": "demo-watch-sonar",
+      "revision_hash": "28b7acd1b8265ad307d70899f0224bffa01d8bf20219f10d90b6412fc110f2b1",
+      "step": 5,
+      "kind": "observation",
+      "text": "Record the gauge identifier and units with the reading. Zero on the wrong gauge is not the required verification.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-sonar-7",
+      "source": "demo-watch-sonar",
+      "revision_hash": "28b7acd1b8265ad307d70899f0224bffa01d8bf20219f10d90b6412fc110f2b1",
+      "step": 6,
+      "kind": "observation",
+      "text": "Match replacement identifiers or sample labels before proceeding. Similar labels caused a mix-up in a prior exercise.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-sonar-8",
+      "source": "demo-watch-sonar",
+      "revision_hash": "28b7acd1b8265ad307d70899f0224bffa01d8bf20219f10d90b6412fc110f2b1",
+      "step": 7,
+      "kind": "observation",
+      "text": "Record the actual displayed result before judging pass/fail; do not copy the exercise target into the result field.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-sonar-9",
+      "source": "demo-watch-sonar",
+      "revision_hash": "28b7acd1b8265ad307d70899f0224bffa01d8bf20219f10d90b6412fc110f2b1",
+      "step": 8,
+      "kind": "observation",
+      "text": "Confirm every specified restoration indication. A normal main display can hide a remaining exercise alarm.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-sonar-10",
+      "source": "demo-watch-sonar",
+      "revision_hash": "28b7acd1b8265ad307d70899f0224bffa01d8bf20219f10d90b6412fc110f2b1",
+      "step": 9,
+      "kind": "observation",
+      "text": "Attach a legible log with reading units and equipment identification; cropped photos delayed exercise review.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-sonar-11",
+      "source": "demo-watch-sonar",
+      "revision_hash": "28b7acd1b8265ad307d70899f0224bffa01d8bf20219f10d90b6412fc110f2b1",
+      "step": 10,
+      "kind": "observation",
+      "text": "Keep unresolved discrepancies visible in the handoff; a checked step does not clear a restriction.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-sonar-12",
+      "source": "demo-watch-sonar",
+      "revision_hash": "28b7acd1b8265ad307d70899f0224bffa01d8bf20219f10d90b6412fc110f2b1",
+      "step": 11,
+      "kind": "observation",
+      "text": "Verify parts usage, evidence and follow-up notes before submitting the exercise completion.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "RUN-demo-watch-sonar-Ochoa-1",
+      "source": "demo-watch-sonar",
+      "revision_hash": "28b7acd1b8265ad307d70899f0224bffa01d8bf20219f10d90b6412fc110f2b1",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-01",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-sonar-Ochoa-2",
+      "source": "demo-watch-sonar",
+      "revision_hash": "28b7acd1b8265ad307d70899f0224bffa01d8bf20219f10d90b6412fc110f2b1",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-02",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-sonar-Ochoa-3",
+      "source": "demo-watch-sonar",
+      "revision_hash": "28b7acd1b8265ad307d70899f0224bffa01d8bf20219f10d90b6412fc110f2b1",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-03",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-sonar-Ochoa-4",
+      "source": "demo-watch-sonar",
+      "revision_hash": "28b7acd1b8265ad307d70899f0224bffa01d8bf20219f10d90b6412fc110f2b1",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-04",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-sonar-Ochoa-5",
+      "source": "demo-watch-sonar",
+      "revision_hash": "28b7acd1b8265ad307d70899f0224bffa01d8bf20219f10d90b6412fc110f2b1",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-05",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-sonar-Ochoa-6",
+      "source": "demo-watch-sonar",
+      "revision_hash": "28b7acd1b8265ad307d70899f0224bffa01d8bf20219f10d90b6412fc110f2b1",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-06",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-sonar-Ochoa-7",
+      "source": "demo-watch-sonar",
+      "revision_hash": "28b7acd1b8265ad307d70899f0224bffa01d8bf20219f10d90b6412fc110f2b1",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-07",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-sonar-Ochoa-8",
+      "source": "demo-watch-sonar",
+      "revision_hash": "28b7acd1b8265ad307d70899f0224bffa01d8bf20219f10d90b6412fc110f2b1",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-08",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-sonar-Ochoa-9",
+      "source": "demo-watch-sonar",
+      "revision_hash": "28b7acd1b8265ad307d70899f0224bffa01d8bf20219f10d90b6412fc110f2b1",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-09",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-sonar-Ochoa-10",
+      "source": "demo-watch-sonar",
+      "revision_hash": "28b7acd1b8265ad307d70899f0224bffa01d8bf20219f10d90b6412fc110f2b1",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-10",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-sonar-Ochoa-11",
+      "source": "demo-watch-sonar",
+      "revision_hash": "28b7acd1b8265ad307d70899f0224bffa01d8bf20219f10d90b6412fc110f2b1",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-11",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-sonar-Ochoa-12",
+      "source": "demo-watch-sonar",
+      "revision_hash": "28b7acd1b8265ad307d70899f0224bffa01d8bf20219f10d90b6412fc110f2b1",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-12",
+      "outcome": "Completed"
+    },
+    {
+      "id": "CORRECTION-demo-watch-sonar-Ochoa",
+      "source": "demo-watch-sonar",
+      "revision_hash": "28b7acd1b8265ad307d70899f0224bffa01d8bf20219f10d90b6412fc110f2b1",
+      "sailor": "FC1 Ochoa",
+      "kind": "correction",
+      "step": 9,
+      "recorded": "2026-10-02",
+      "text": "Exercise log omitted the reading units; corrected before submission.",
+      "outcome": "Corrected during training"
+    },
+    {
+      "id": "RUN-demo-watch-sonar-Donohue-1",
+      "source": "demo-watch-sonar",
+      "revision_hash": "28b7acd1b8265ad307d70899f0224bffa01d8bf20219f10d90b6412fc110f2b1",
+      "sailor": "FC2 Donohue",
+      "kind": "completion",
+      "recorded": "2026-10-01",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-sonar-Donohue-2",
+      "source": "demo-watch-sonar",
+      "revision_hash": "28b7acd1b8265ad307d70899f0224bffa01d8bf20219f10d90b6412fc110f2b1",
+      "sailor": "FC2 Donohue",
+      "kind": "completion",
+      "recorded": "2026-10-02",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-sonar-Donohue-3",
+      "source": "demo-watch-sonar",
+      "revision_hash": "28b7acd1b8265ad307d70899f0224bffa01d8bf20219f10d90b6412fc110f2b1",
+      "sailor": "FC2 Donohue",
+      "kind": "completion",
+      "recorded": "2026-10-03",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-sonar-Donohue-4",
+      "source": "demo-watch-sonar",
+      "revision_hash": "28b7acd1b8265ad307d70899f0224bffa01d8bf20219f10d90b6412fc110f2b1",
+      "sailor": "FC2 Donohue",
+      "kind": "completion",
+      "recorded": "2026-10-04",
+      "outcome": "Completed"
+    },
+    {
+      "id": "CORRECTION-demo-watch-sonar-Donohue",
+      "source": "demo-watch-sonar",
+      "revision_hash": "28b7acd1b8265ad307d70899f0224bffa01d8bf20219f10d90b6412fc110f2b1",
+      "sailor": "FC2 Donohue",
+      "kind": "correction",
+      "step": 5,
+      "recorded": "2026-10-02",
+      "text": "Selected the wrong indicator or item during this checkpoint. Instructor prompted a full tag read-back; selection corrected before continuing.",
+      "outcome": "Corrected during training"
+    },
+    {
+      "id": "LESSON-demo-watch-sonar-2-1",
+      "source": "demo-watch-sonar-2",
+      "revision_hash": "fa3f0be376e08552a5a28b185c0729dc42467324bee7d7a4b440ec6fe74862cf",
+      "step": 0,
+      "kind": "observation",
+      "text": "Confirm the equipment tag and compartment before starting; similar equipment names caused wrong-asset selections in the exercise.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-sonar-2-2",
+      "source": "demo-watch-sonar-2",
+      "revision_hash": "fa3f0be376e08552a5a28b185c0729dc42467324bee7d7a4b440ec6fe74862cf",
+      "step": 1,
+      "kind": "observation",
+      "text": "Check the task-card revision before following a remembered sequence. An older exercise card had different control labels.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-sonar-2-3",
+      "source": "demo-watch-sonar-2",
+      "revision_hash": "fa3f0be376e08552a5a28b185c0729dc42467324bee7d7a4b440ec6fe74862cf",
+      "step": 2,
+      "kind": "observation",
+      "text": "Read back the isolation boundary and required verification; a switch position alone did not establish isolation in the exercise.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-sonar-2-4",
+      "source": "demo-watch-sonar-2",
+      "revision_hash": "fa3f0be376e08552a5a28b185c0729dc42467324bee7d7a4b440ec6fe74862cf",
+      "step": 3,
+      "kind": "observation",
+      "text": "Check the exact part identifier and available quantity, not just the item description.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-sonar-2-5",
+      "source": "demo-watch-sonar-2",
+      "revision_hash": "fa3f0be376e08552a5a28b185c0729dc42467324bee7d7a4b440ec6fe74862cf",
+      "step": 4,
+      "kind": "observation",
+      "text": "Read the complete control tag aloud before changing its position. Adjacent controls have similar labels.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-sonar-2-6",
+      "source": "demo-watch-sonar-2",
+      "revision_hash": "fa3f0be376e08552a5a28b185c0729dc42467324bee7d7a4b440ec6fe74862cf",
+      "step": 5,
+      "kind": "observation",
+      "text": "Record the gauge identifier and units with the reading. Zero on the wrong gauge is not the required verification.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-sonar-2-7",
+      "source": "demo-watch-sonar-2",
+      "revision_hash": "fa3f0be376e08552a5a28b185c0729dc42467324bee7d7a4b440ec6fe74862cf",
+      "step": 6,
+      "kind": "observation",
+      "text": "Match replacement identifiers or sample labels before proceeding. Similar labels caused a mix-up in a prior exercise.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-sonar-2-8",
+      "source": "demo-watch-sonar-2",
+      "revision_hash": "fa3f0be376e08552a5a28b185c0729dc42467324bee7d7a4b440ec6fe74862cf",
+      "step": 7,
+      "kind": "observation",
+      "text": "Record the actual displayed result before judging pass/fail; do not copy the exercise target into the result field.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-sonar-2-9",
+      "source": "demo-watch-sonar-2",
+      "revision_hash": "fa3f0be376e08552a5a28b185c0729dc42467324bee7d7a4b440ec6fe74862cf",
+      "step": 8,
+      "kind": "observation",
+      "text": "Confirm every specified restoration indication. A normal main display can hide a remaining exercise alarm.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-sonar-2-10",
+      "source": "demo-watch-sonar-2",
+      "revision_hash": "fa3f0be376e08552a5a28b185c0729dc42467324bee7d7a4b440ec6fe74862cf",
+      "step": 9,
+      "kind": "observation",
+      "text": "Attach a legible log with reading units and equipment identification; cropped photos delayed exercise review.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-sonar-2-11",
+      "source": "demo-watch-sonar-2",
+      "revision_hash": "fa3f0be376e08552a5a28b185c0729dc42467324bee7d7a4b440ec6fe74862cf",
+      "step": 10,
+      "kind": "observation",
+      "text": "Keep unresolved discrepancies visible in the handoff; a checked step does not clear a restriction.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-sonar-2-12",
+      "source": "demo-watch-sonar-2",
+      "revision_hash": "fa3f0be376e08552a5a28b185c0729dc42467324bee7d7a4b440ec6fe74862cf",
+      "step": 11,
+      "kind": "observation",
+      "text": "Verify parts usage, evidence and follow-up notes before submitting the exercise completion.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "RUN-demo-watch-sonar-2-Ochoa-1",
+      "source": "demo-watch-sonar-2",
+      "revision_hash": "fa3f0be376e08552a5a28b185c0729dc42467324bee7d7a4b440ec6fe74862cf",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-01",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-sonar-2-Ochoa-2",
+      "source": "demo-watch-sonar-2",
+      "revision_hash": "fa3f0be376e08552a5a28b185c0729dc42467324bee7d7a4b440ec6fe74862cf",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-02",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-sonar-2-Ochoa-3",
+      "source": "demo-watch-sonar-2",
+      "revision_hash": "fa3f0be376e08552a5a28b185c0729dc42467324bee7d7a4b440ec6fe74862cf",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-03",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-sonar-2-Ochoa-4",
+      "source": "demo-watch-sonar-2",
+      "revision_hash": "fa3f0be376e08552a5a28b185c0729dc42467324bee7d7a4b440ec6fe74862cf",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-04",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-sonar-2-Ochoa-5",
+      "source": "demo-watch-sonar-2",
+      "revision_hash": "fa3f0be376e08552a5a28b185c0729dc42467324bee7d7a4b440ec6fe74862cf",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-05",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-sonar-2-Ochoa-6",
+      "source": "demo-watch-sonar-2",
+      "revision_hash": "fa3f0be376e08552a5a28b185c0729dc42467324bee7d7a4b440ec6fe74862cf",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-06",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-sonar-2-Ochoa-7",
+      "source": "demo-watch-sonar-2",
+      "revision_hash": "fa3f0be376e08552a5a28b185c0729dc42467324bee7d7a4b440ec6fe74862cf",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-07",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-sonar-2-Ochoa-8",
+      "source": "demo-watch-sonar-2",
+      "revision_hash": "fa3f0be376e08552a5a28b185c0729dc42467324bee7d7a4b440ec6fe74862cf",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-08",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-sonar-2-Ochoa-9",
+      "source": "demo-watch-sonar-2",
+      "revision_hash": "fa3f0be376e08552a5a28b185c0729dc42467324bee7d7a4b440ec6fe74862cf",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-09",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-sonar-2-Ochoa-10",
+      "source": "demo-watch-sonar-2",
+      "revision_hash": "fa3f0be376e08552a5a28b185c0729dc42467324bee7d7a4b440ec6fe74862cf",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-10",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-sonar-2-Ochoa-11",
+      "source": "demo-watch-sonar-2",
+      "revision_hash": "fa3f0be376e08552a5a28b185c0729dc42467324bee7d7a4b440ec6fe74862cf",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-11",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-sonar-2-Ochoa-12",
+      "source": "demo-watch-sonar-2",
+      "revision_hash": "fa3f0be376e08552a5a28b185c0729dc42467324bee7d7a4b440ec6fe74862cf",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-12",
+      "outcome": "Completed"
+    },
+    {
+      "id": "CORRECTION-demo-watch-sonar-2-Ochoa",
+      "source": "demo-watch-sonar-2",
+      "revision_hash": "fa3f0be376e08552a5a28b185c0729dc42467324bee7d7a4b440ec6fe74862cf",
+      "sailor": "FC1 Ochoa",
+      "kind": "correction",
+      "step": 9,
+      "recorded": "2026-10-02",
+      "text": "Exercise log omitted the reading units; corrected before submission.",
+      "outcome": "Corrected during training"
+    },
+    {
+      "id": "RUN-demo-watch-sonar-2-Donohue-1",
+      "source": "demo-watch-sonar-2",
+      "revision_hash": "fa3f0be376e08552a5a28b185c0729dc42467324bee7d7a4b440ec6fe74862cf",
+      "sailor": "FC2 Donohue",
+      "kind": "completion",
+      "recorded": "2026-10-01",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-sonar-2-Donohue-2",
+      "source": "demo-watch-sonar-2",
+      "revision_hash": "fa3f0be376e08552a5a28b185c0729dc42467324bee7d7a4b440ec6fe74862cf",
+      "sailor": "FC2 Donohue",
+      "kind": "completion",
+      "recorded": "2026-10-02",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-sonar-2-Donohue-3",
+      "source": "demo-watch-sonar-2",
+      "revision_hash": "fa3f0be376e08552a5a28b185c0729dc42467324bee7d7a4b440ec6fe74862cf",
+      "sailor": "FC2 Donohue",
+      "kind": "completion",
+      "recorded": "2026-10-03",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-sonar-2-Donohue-4",
+      "source": "demo-watch-sonar-2",
+      "revision_hash": "fa3f0be376e08552a5a28b185c0729dc42467324bee7d7a4b440ec6fe74862cf",
+      "sailor": "FC2 Donohue",
+      "kind": "completion",
+      "recorded": "2026-10-04",
+      "outcome": "Completed"
+    },
+    {
+      "id": "CORRECTION-demo-watch-sonar-2-Donohue",
+      "source": "demo-watch-sonar-2",
+      "revision_hash": "fa3f0be376e08552a5a28b185c0729dc42467324bee7d7a4b440ec6fe74862cf",
+      "sailor": "FC2 Donohue",
+      "kind": "correction",
+      "step": 5,
+      "recorded": "2026-10-02",
+      "text": "Selected the wrong indicator or item during this checkpoint. Instructor prompted a full tag read-back; selection corrected before continuing.",
+      "outcome": "Corrected during training"
+    },
+    {
+      "id": "LESSON-demo-watch-sonar-3-1",
+      "source": "demo-watch-sonar-3",
+      "revision_hash": "cd61ab6019c473b6764d4e8038d105761e321fcd2082e045ad2d0735a7b24aac",
+      "step": 0,
+      "kind": "observation",
+      "text": "Confirm the equipment tag and compartment before starting; similar equipment names caused wrong-asset selections in the exercise.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-sonar-3-2",
+      "source": "demo-watch-sonar-3",
+      "revision_hash": "cd61ab6019c473b6764d4e8038d105761e321fcd2082e045ad2d0735a7b24aac",
+      "step": 1,
+      "kind": "observation",
+      "text": "Check the task-card revision before following a remembered sequence. An older exercise card had different control labels.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-sonar-3-3",
+      "source": "demo-watch-sonar-3",
+      "revision_hash": "cd61ab6019c473b6764d4e8038d105761e321fcd2082e045ad2d0735a7b24aac",
+      "step": 2,
+      "kind": "observation",
+      "text": "Read back the isolation boundary and required verification; a switch position alone did not establish isolation in the exercise.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-sonar-3-4",
+      "source": "demo-watch-sonar-3",
+      "revision_hash": "cd61ab6019c473b6764d4e8038d105761e321fcd2082e045ad2d0735a7b24aac",
+      "step": 3,
+      "kind": "observation",
+      "text": "Check the exact part identifier and available quantity, not just the item description.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-sonar-3-5",
+      "source": "demo-watch-sonar-3",
+      "revision_hash": "cd61ab6019c473b6764d4e8038d105761e321fcd2082e045ad2d0735a7b24aac",
+      "step": 4,
+      "kind": "observation",
+      "text": "Read the complete control tag aloud before changing its position. Adjacent controls have similar labels.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-sonar-3-6",
+      "source": "demo-watch-sonar-3",
+      "revision_hash": "cd61ab6019c473b6764d4e8038d105761e321fcd2082e045ad2d0735a7b24aac",
+      "step": 5,
+      "kind": "observation",
+      "text": "Record the gauge identifier and units with the reading. Zero on the wrong gauge is not the required verification.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-sonar-3-7",
+      "source": "demo-watch-sonar-3",
+      "revision_hash": "cd61ab6019c473b6764d4e8038d105761e321fcd2082e045ad2d0735a7b24aac",
+      "step": 6,
+      "kind": "observation",
+      "text": "Match replacement identifiers or sample labels before proceeding. Similar labels caused a mix-up in a prior exercise.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-sonar-3-8",
+      "source": "demo-watch-sonar-3",
+      "revision_hash": "cd61ab6019c473b6764d4e8038d105761e321fcd2082e045ad2d0735a7b24aac",
+      "step": 7,
+      "kind": "observation",
+      "text": "Record the actual displayed result before judging pass/fail; do not copy the exercise target into the result field.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-sonar-3-9",
+      "source": "demo-watch-sonar-3",
+      "revision_hash": "cd61ab6019c473b6764d4e8038d105761e321fcd2082e045ad2d0735a7b24aac",
+      "step": 8,
+      "kind": "observation",
+      "text": "Confirm every specified restoration indication. A normal main display can hide a remaining exercise alarm.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-sonar-3-10",
+      "source": "demo-watch-sonar-3",
+      "revision_hash": "cd61ab6019c473b6764d4e8038d105761e321fcd2082e045ad2d0735a7b24aac",
+      "step": 9,
+      "kind": "observation",
+      "text": "Attach a legible log with reading units and equipment identification; cropped photos delayed exercise review.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-sonar-3-11",
+      "source": "demo-watch-sonar-3",
+      "revision_hash": "cd61ab6019c473b6764d4e8038d105761e321fcd2082e045ad2d0735a7b24aac",
+      "step": 10,
+      "kind": "observation",
+      "text": "Keep unresolved discrepancies visible in the handoff; a checked step does not clear a restriction.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "LESSON-demo-watch-sonar-3-12",
+      "source": "demo-watch-sonar-3",
+      "revision_hash": "cd61ab6019c473b6764d4e8038d105761e321fcd2082e045ad2d0735a7b24aac",
+      "step": 11,
+      "kind": "observation",
+      "text": "Verify parts usage, evidence and follow-up notes before submitting the exercise completion.",
+      "recorded": "2026-10-20",
+      "sailor": null
+    },
+    {
+      "id": "RUN-demo-watch-sonar-3-Ochoa-1",
+      "source": "demo-watch-sonar-3",
+      "revision_hash": "cd61ab6019c473b6764d4e8038d105761e321fcd2082e045ad2d0735a7b24aac",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-01",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-sonar-3-Ochoa-2",
+      "source": "demo-watch-sonar-3",
+      "revision_hash": "cd61ab6019c473b6764d4e8038d105761e321fcd2082e045ad2d0735a7b24aac",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-02",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-sonar-3-Ochoa-3",
+      "source": "demo-watch-sonar-3",
+      "revision_hash": "cd61ab6019c473b6764d4e8038d105761e321fcd2082e045ad2d0735a7b24aac",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-03",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-sonar-3-Ochoa-4",
+      "source": "demo-watch-sonar-3",
+      "revision_hash": "cd61ab6019c473b6764d4e8038d105761e321fcd2082e045ad2d0735a7b24aac",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-04",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-sonar-3-Ochoa-5",
+      "source": "demo-watch-sonar-3",
+      "revision_hash": "cd61ab6019c473b6764d4e8038d105761e321fcd2082e045ad2d0735a7b24aac",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-05",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-sonar-3-Ochoa-6",
+      "source": "demo-watch-sonar-3",
+      "revision_hash": "cd61ab6019c473b6764d4e8038d105761e321fcd2082e045ad2d0735a7b24aac",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-06",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-sonar-3-Ochoa-7",
+      "source": "demo-watch-sonar-3",
+      "revision_hash": "cd61ab6019c473b6764d4e8038d105761e321fcd2082e045ad2d0735a7b24aac",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-07",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-sonar-3-Ochoa-8",
+      "source": "demo-watch-sonar-3",
+      "revision_hash": "cd61ab6019c473b6764d4e8038d105761e321fcd2082e045ad2d0735a7b24aac",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-08",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-sonar-3-Ochoa-9",
+      "source": "demo-watch-sonar-3",
+      "revision_hash": "cd61ab6019c473b6764d4e8038d105761e321fcd2082e045ad2d0735a7b24aac",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-09",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-sonar-3-Ochoa-10",
+      "source": "demo-watch-sonar-3",
+      "revision_hash": "cd61ab6019c473b6764d4e8038d105761e321fcd2082e045ad2d0735a7b24aac",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-10",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-sonar-3-Ochoa-11",
+      "source": "demo-watch-sonar-3",
+      "revision_hash": "cd61ab6019c473b6764d4e8038d105761e321fcd2082e045ad2d0735a7b24aac",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-11",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-sonar-3-Ochoa-12",
+      "source": "demo-watch-sonar-3",
+      "revision_hash": "cd61ab6019c473b6764d4e8038d105761e321fcd2082e045ad2d0735a7b24aac",
+      "sailor": "FC1 Ochoa",
+      "kind": "completion",
+      "recorded": "2026-10-12",
+      "outcome": "Completed"
+    },
+    {
+      "id": "CORRECTION-demo-watch-sonar-3-Ochoa",
+      "source": "demo-watch-sonar-3",
+      "revision_hash": "cd61ab6019c473b6764d4e8038d105761e321fcd2082e045ad2d0735a7b24aac",
+      "sailor": "FC1 Ochoa",
+      "kind": "correction",
+      "step": 9,
+      "recorded": "2026-10-02",
+      "text": "Exercise log omitted the reading units; corrected before submission.",
+      "outcome": "Corrected during training"
+    },
+    {
+      "id": "RUN-demo-watch-sonar-3-Donohue-1",
+      "source": "demo-watch-sonar-3",
+      "revision_hash": "cd61ab6019c473b6764d4e8038d105761e321fcd2082e045ad2d0735a7b24aac",
+      "sailor": "FC2 Donohue",
+      "kind": "completion",
+      "recorded": "2026-10-01",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-sonar-3-Donohue-2",
+      "source": "demo-watch-sonar-3",
+      "revision_hash": "cd61ab6019c473b6764d4e8038d105761e321fcd2082e045ad2d0735a7b24aac",
+      "sailor": "FC2 Donohue",
+      "kind": "completion",
+      "recorded": "2026-10-02",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-sonar-3-Donohue-3",
+      "source": "demo-watch-sonar-3",
+      "revision_hash": "cd61ab6019c473b6764d4e8038d105761e321fcd2082e045ad2d0735a7b24aac",
+      "sailor": "FC2 Donohue",
+      "kind": "completion",
+      "recorded": "2026-10-03",
+      "outcome": "Completed"
+    },
+    {
+      "id": "RUN-demo-watch-sonar-3-Donohue-4",
+      "source": "demo-watch-sonar-3",
+      "revision_hash": "cd61ab6019c473b6764d4e8038d105761e321fcd2082e045ad2d0735a7b24aac",
+      "sailor": "FC2 Donohue",
+      "kind": "completion",
+      "recorded": "2026-10-04",
+      "outcome": "Completed"
+    },
+    {
+      "id": "CORRECTION-demo-watch-sonar-3-Donohue",
+      "source": "demo-watch-sonar-3",
+      "revision_hash": "cd61ab6019c473b6764d4e8038d105761e321fcd2082e045ad2d0735a7b24aac",
+      "sailor": "FC2 Donohue",
+      "kind": "correction",
+      "step": 5,
+      "recorded": "2026-10-02",
+      "text": "Selected the wrong indicator or item during this checkpoint. Instructor prompted a full tag read-back; selection corrected before continuing.",
+      "outcome": "Corrected during training"
+    }
+  ]
+}

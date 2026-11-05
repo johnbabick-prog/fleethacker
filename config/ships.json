@@ -1,0 +1,4156 @@
+{
+  "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+  "retrieved": "2026-11-04T21:32:50.300Z",
+  "scope": "Current-ships tables: commissioned, non-commissioned, support, Ready Reserve Force and reserve fleet. Excludes future and historical ships outside those tables. Public-source snapshot, not an authoritative operational status feed.",
+  "ships": [
+    {
+      "id": "T-AK-3011",
+      "name": "USNS 1st Lt. Jack Lummus",
+      "hull_number": "T-AK-3011",
+      "class_name": "2nd Lt. John P. Bobo",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Bobo (T-AK)"
+    },
+    {
+      "id": "T-AGOS-20",
+      "name": "USNS Able",
+      "hull_number": "T-AGOS-20",
+      "class_name": "Victorious",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Victorious (T-AGOS)"
+    },
+    {
+      "id": "CVN-72",
+      "name": "USS Abraham Lincoln",
+      "hull_number": "CVN-72",
+      "class_name": "Nimitz",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Nimitz (CVN)"
+    },
+    {
+      "id": "T-AKR-1001",
+      "name": "GTS Admiral W. M. Callaghan",
+      "hull_number": "T-AKR-1001",
+      "class_name": "Cape O",
+      "status": "Ready Reserve Force",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Cape O"
+    },
+    {
+      "id": "YT-809",
+      "name": "Agamenticus",
+      "hull_number": "YT-809",
+      "class_name": "Rainier",
+      "status": "Support",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Rainier"
+    },
+    {
+      "id": "SSBN-731",
+      "name": "USS Alabama",
+      "hull_number": "SSBN-731",
+      "class_name": "Ohio",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Ohio (SSBN / SSGN)"
+    },
+    {
+      "id": "T-AKE-3",
+      "name": "USNS Alan Shepard",
+      "hull_number": "T-AKE-3",
+      "class_name": "Lewis and Clark",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Lewis and Clark (T-AKE)"
+    },
+    {
+      "id": "SSBN-732",
+      "name": "USS Alaska",
+      "hull_number": "SSBN-732",
+      "class_name": "Ohio",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Ohio (SSBN / SSGN)"
+    },
+    {
+      "id": "SSN-753",
+      "name": "USS Albany",
+      "hull_number": "SSN-753",
+      "class_name": "Los Angeles",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Los Angeles (SSN)"
+    },
+    {
+      "id": "T-AKR-287",
+      "name": "SS Algol",
+      "hull_number": "T-AKR-287",
+      "class_name": "Algol",
+      "status": "Ready Reserve Force",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Algol"
+    },
+    {
+      "id": "T-AKR-291",
+      "name": "SS Altair",
+      "hull_number": "T-AKR-291",
+      "class_name": "Algol",
+      "status": "Ready Reserve Force",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Algol"
+    },
+    {
+      "id": "T-AKE-6",
+      "name": "USNS Amelia Earhart",
+      "hull_number": "T-AKE-6",
+      "class_name": "Lewis and Clark",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Lewis and Clark (T-AKE)"
+    },
+    {
+      "id": "LHA-6",
+      "name": "USS America",
+      "hull_number": "LHA-6",
+      "class_name": "America",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "America (LHA)"
+    },
+    {
+      "id": "LPD-23",
+      "name": "USS Anchorage",
+      "hull_number": "LPD-23",
+      "class_name": "San Antonio",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "San Antonio (LPD)"
+    },
+    {
+      "id": "SSN-760",
+      "name": "USS Annapolis",
+      "hull_number": "SSN-760",
+      "class_name": "Los Angeles",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Los Angeles (SSN)"
+    },
+    {
+      "id": "T-AKR-294",
+      "name": "SS Antares",
+      "hull_number": "T-AKR-294",
+      "class_name": "Algol",
+      "status": "Ready Reserve Force",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Algol"
+    },
+    {
+      "id": "CG-54",
+      "name": "Antietam",
+      "hull_number": "CG-54",
+      "class_name": "Ticonderoga",
+      "status": "Reserve fleet",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Ticonderoga (CG)"
+    },
+    {
+      "id": "CG-68",
+      "name": "Anzio",
+      "hull_number": "CG-68",
+      "class_name": "Ticonderoga",
+      "status": "Reserve fleet",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Ticonderoga (CG)"
+    },
+    {
+      "id": "T-EPF-13",
+      "name": "USNS Apalachicola",
+      "hull_number": "T-EPF-13",
+      "class_name": "Spearhead",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Spearhead (EPF)"
+    },
+    {
+      "id": "APL-15",
+      "name": "APL-15",
+      "hull_number": "APL-15",
+      "class_name": "APL-2",
+      "status": "Support",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "APL-2"
+    },
+    {
+      "id": "APL-18",
+      "name": "APL-18",
+      "hull_number": "APL-18",
+      "class_name": "APL-17",
+      "status": "Support",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "APL-17"
+    },
+    {
+      "id": "APL-2",
+      "name": "APL-2",
+      "hull_number": "APL-2",
+      "class_name": "APL-2",
+      "status": "Support",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "APL-2"
+    },
+    {
+      "id": "APL-29",
+      "name": "APL-29",
+      "hull_number": "APL-29",
+      "class_name": "APL-17",
+      "status": "Support",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "APL-17"
+    },
+    {
+      "id": "APL-32",
+      "name": "APL-32",
+      "hull_number": "APL-32",
+      "class_name": "APL-17",
+      "status": "Support",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "APL-17"
+    },
+    {
+      "id": "APL-4",
+      "name": "APL-4",
+      "hull_number": "APL-4",
+      "class_name": "APL-2",
+      "status": "Support",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "APL-2"
+    },
+    {
+      "id": "APL-42",
+      "name": "APL-42",
+      "hull_number": "APL-42",
+      "class_name": "APL-41",
+      "status": "Support",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "APL-41"
+    },
+    {
+      "id": "APL-45",
+      "name": "APL-45",
+      "hull_number": "APL-45",
+      "class_name": "APL-41",
+      "status": "Support",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "APL-41"
+    },
+    {
+      "id": "APL-5",
+      "name": "APL-5",
+      "hull_number": "APL-5",
+      "class_name": "APL-2",
+      "status": "Support",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "APL-2"
+    },
+    {
+      "id": "APL-50",
+      "name": "APL-50",
+      "hull_number": "APL-50",
+      "class_name": "APL-41",
+      "status": "Support",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "APL-41"
+    },
+    {
+      "id": "APL-58",
+      "name": "APL-58",
+      "hull_number": "APL-58",
+      "class_name": "APL-53",
+      "status": "Support",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "APL-53"
+    },
+    {
+      "id": "APL-61",
+      "name": "APL-61",
+      "hull_number": "APL-61",
+      "class_name": "APL-61",
+      "status": "Support",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "APL-61"
+    },
+    {
+      "id": "APL-62",
+      "name": "APL-62",
+      "hull_number": "APL-62",
+      "class_name": "APL-61",
+      "status": "Support",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "APL-61"
+    },
+    {
+      "id": "APL-65",
+      "name": "APL-65",
+      "hull_number": "APL-65",
+      "class_name": "APL-65",
+      "status": "Support",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "APL-65"
+    },
+    {
+      "id": "APL-66",
+      "name": "APL-66",
+      "hull_number": "APL-66",
+      "class_name": "APL-65",
+      "status": "Support",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "APL-65"
+    },
+    {
+      "id": "APL-67",
+      "name": "APL-67",
+      "hull_number": "APL-67",
+      "class_name": "APL-67",
+      "status": "Support",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "APL-67"
+    },
+    {
+      "id": "APL-68",
+      "name": "APL-68",
+      "hull_number": "APL-68",
+      "class_name": "APL-67",
+      "status": "Support",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "APL-67"
+    },
+    {
+      "id": "APL-69",
+      "name": "APL-69",
+      "hull_number": "APL-69",
+      "class_name": "APL-67",
+      "status": "Support",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "APL-67"
+    },
+    {
+      "id": "APL-70",
+      "name": "APL-70",
+      "hull_number": "APL-70",
+      "class_name": "APL-67",
+      "status": "Support",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "APL-67"
+    },
+    {
+      "id": "APL-71",
+      "name": "APL-71",
+      "hull_number": "APL-71",
+      "class_name": "APL-67",
+      "status": "Support",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "APL-67"
+    },
+    {
+      "id": "ARDM-5",
+      "name": "Arco",
+      "hull_number": "ARDM-5",
+      "class_name": "ARDM-5",
+      "status": "Support",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "ARDM-5"
+    },
+    {
+      "id": "T-AOE-8",
+      "name": "USNS Arctic",
+      "hull_number": "T-AOE-8",
+      "class_name": "Supply",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Supply (T-AOE)"
+    },
+    {
+      "id": "DDG-51",
+      "name": "USS Arleigh Burke",
+      "hull_number": "DDG-51",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "LPD-24",
+      "name": "USS Arlington",
+      "hull_number": "LPD-24",
+      "class_name": "San Antonio",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "San Antonio (LPD)"
+    },
+    {
+      "id": "T-AGSE-4",
+      "name": "USNS Arrowhead",
+      "hull_number": "T-AGSE-4",
+      "class_name": "Black Powder",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Black Powder"
+    },
+    {
+      "id": "SSN-758",
+      "name": "USS Asheville",
+      "hull_number": "SSN-758",
+      "class_name": "Los Angeles",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Los Angeles (SSN)"
+    },
+    {
+      "id": "LSD-48",
+      "name": "USS Ashland",
+      "hull_number": "LSD-48",
+      "class_name": "Whidbey Island",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Whidbey Island (LSD)"
+    },
+    {
+      "id": "LCS-34",
+      "name": "USS Augusta",
+      "hull_number": "LCS-34",
+      "class_name": "Independence",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Independence (LCS)"
+    },
+    {
+      "id": "DDG-96",
+      "name": "USS Bainbridge",
+      "hull_number": "DDG-96",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "YT-812",
+      "name": "Baker",
+      "hull_number": "YT-812",
+      "class_name": "Rainier",
+      "status": "Support",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Rainier"
+    },
+    {
+      "id": "DDG-52",
+      "name": "USS Barry",
+      "hull_number": "DDG-52",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "LHD-5",
+      "name": "USS Bataan",
+      "hull_number": "LHD-5",
+      "class_name": "Wasp",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Wasp (LHD)"
+    },
+    {
+      "id": "YTT-10",
+      "name": "Battle Point",
+      "hull_number": "YTT-10",
+      "class_name": "Cape Flattery",
+      "status": "Support",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Cape Flattery"
+    },
+    {
+      "id": "T-AKR-288",
+      "name": "SS Bellatrix",
+      "hull_number": "T-AKR-288",
+      "class_name": "Algol",
+      "status": "Ready Reserve Force",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Algol"
+    },
+    {
+      "id": "LCS-29",
+      "name": "USS Beloit",
+      "hull_number": "LCS-29",
+      "class_name": "Freedom",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Freedom (LCS)"
+    },
+    {
+      "id": "DDG-65",
+      "name": "USS Benfold",
+      "hull_number": "DDG-65",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "T-AO-198",
+      "name": "Big Horn",
+      "hull_number": "T-AO-198",
+      "class_name": "Henry J. Kaiser",
+      "status": "Reserve fleet",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Henry J. Kaiser (T-AO)"
+    },
+    {
+      "id": "LCS-15",
+      "name": "USS Billings",
+      "hull_number": "LCS-15",
+      "class_name": "Freedom",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Freedom (LCS)"
+    },
+    {
+      "id": "T-AGSE-1",
+      "name": "USNS Black Powder",
+      "hull_number": "T-AGSE-1",
+      "class_name": "Black Powder",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Black Powder"
+    },
+    {
+      "id": "LCC-19",
+      "name": "USS Blue Ridge",
+      "hull_number": "LCC-19",
+      "class_name": "Blue Ridge",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Blue Ridge (LCC)"
+    },
+    {
+      "id": "T-AKR-300",
+      "name": "MV Bob Hope",
+      "hull_number": "T-AKR-300",
+      "class_name": "Bob Hope",
+      "status": "Ready Reserve Force",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Bob Hope (T-AKR)"
+    },
+    {
+      "id": "T-AGS-62",
+      "name": "USNS Bowditch",
+      "hull_number": "T-AGS-62",
+      "class_name": "Pathfinder",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Pathfinder (T-AGS)"
+    },
+    {
+      "id": "LHD-4",
+      "name": "USS Boxer",
+      "hull_number": "LHD-4",
+      "class_name": "Wasp",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Wasp (LHD)"
+    },
+    {
+      "id": "T-AGS-64",
+      "name": "USNS Bruce C. Heezen",
+      "hull_number": "T-AGS-64",
+      "class_name": "Pathfinder",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Pathfinder (T-AGS)"
+    },
+    {
+      "id": "T-EPF-6",
+      "name": "USNS Brunswick",
+      "hull_number": "T-EPF-6",
+      "class_name": "Spearhead",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Spearhead (EPF)"
+    },
+    {
+      "id": "DDG-84",
+      "name": "USS Bulkeley",
+      "hull_number": "DDG-84",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "CG-52",
+      "name": "Bunker Hill",
+      "hull_number": "CG-52",
+      "class_name": "Ticonderoga",
+      "status": "Reserve fleet",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Ticonderoga (CG)"
+    },
+    {
+      "id": "T-EPF-10",
+      "name": "USNS Burlington",
+      "hull_number": "T-EPF-10",
+      "class_name": "Spearhead",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Spearhead (EPF)"
+    },
+    {
+      "id": "name-mv-c-ocean-trader",
+      "name": "MV C Ocean Trader",
+      "hull_number": "No hull number",
+      "class_name": "C Ocean Trader",
+      "status": "Support",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "C Ocean Trader"
+    },
+    {
+      "id": "SSN-781",
+      "name": "USS California",
+      "hull_number": "SSN-781",
+      "class_name": "Virginia",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Virginia (SSN)"
+    },
+    {
+      "id": "LCS-30",
+      "name": "USS Canberra",
+      "hull_number": "LCS-30",
+      "class_name": "Independence",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Independence (LCS)"
+    },
+    {
+      "id": "T-AKR-1214",
+      "name": "MV Cape Arundel",
+      "hull_number": "T-AKR-1214",
+      "class_name": "Cape Arundel",
+      "status": "Ready Reserve Force",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Cape Arundel"
+    },
+    {
+      "id": "T-AKR-1215",
+      "name": "MV Cape Cortes",
+      "hull_number": "T-AKR-1215",
+      "class_name": "Cape Arundel",
+      "status": "Ready Reserve Force",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Cape Arundel"
+    },
+    {
+      "id": "T-AKR-5054",
+      "name": "MV Cape Decision",
+      "hull_number": "T-AKR-5054",
+      "class_name": "Cape Ducato",
+      "status": "Ready Reserve Force",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Cape Ducato"
+    },
+    {
+      "id": "T-AKR-5055",
+      "name": "MV Cape Diamond",
+      "hull_number": "T-AKR-5055",
+      "class_name": "Cape Ducato",
+      "status": "Ready Reserve Force",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Cape Ducato"
+    },
+    {
+      "id": "T-AKR-5053",
+      "name": "MV Cape Domingo",
+      "hull_number": "T-AKR-5053",
+      "class_name": "Cape Ducato",
+      "status": "Ready Reserve Force",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Cape Ducato"
+    },
+    {
+      "id": "T-AKR-5052",
+      "name": "MV Cape Douglas",
+      "hull_number": "T-AKR-5052",
+      "class_name": "Cape Ducato",
+      "status": "Ready Reserve Force",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Cape Ducato"
+    },
+    {
+      "id": "T-AKR-5051",
+      "name": "MV Cape Ducato",
+      "hull_number": "T-AKR-5051",
+      "class_name": "Cape Ducato",
+      "status": "Ready Reserve Force",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Cape Ducato"
+    },
+    {
+      "id": "AKR-5069",
+      "name": "MV Cape Edmont",
+      "hull_number": "AKR-5069",
+      "class_name": "Cape E",
+      "status": "Ready Reserve Force",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Cape E"
+    },
+    {
+      "id": "AKR-5067",
+      "name": "MV Cape Henry",
+      "hull_number": "AKR-5067",
+      "class_name": "Cape H",
+      "status": "Ready Reserve Force",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Cape H"
+    },
+    {
+      "id": "AKR-5068",
+      "name": "MV Cape Horn",
+      "hull_number": "AKR-5068",
+      "class_name": "Cape H",
+      "status": "Ready Reserve Force",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Cape H"
+    },
+    {
+      "id": "AKR-5066",
+      "name": "MV Cape Hudson",
+      "hull_number": "AKR-5066",
+      "class_name": "Cape H",
+      "status": "Ready Reserve Force",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Cape H"
+    },
+    {
+      "id": "T-AKR-5076",
+      "name": "SS Cape Inscription",
+      "hull_number": "T-AKR-5076",
+      "class_name": "Cape I",
+      "status": "Ready Reserve Force",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Cape I"
+    },
+    {
+      "id": "T-AKR-11",
+      "name": "SS Cape Intrepid",
+      "hull_number": "T-AKR-11",
+      "class_name": "Cape Island",
+      "status": "Ready Reserve Force",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Cape Island"
+    },
+    {
+      "id": "T-AKR-5062",
+      "name": "SS Cape Isabel",
+      "hull_number": "T-AKR-5062",
+      "class_name": "Cape I",
+      "status": "Ready Reserve Force",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Cape I"
+    },
+    {
+      "id": "T-AKR-10",
+      "name": "SS Cape Island",
+      "hull_number": "T-AKR-10",
+      "class_name": "Cape Island",
+      "status": "Ready Reserve Force",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Cape Island"
+    },
+    {
+      "id": "T-AKR-5083",
+      "name": "MV Cape Kennedy",
+      "hull_number": "T-AKR-5083",
+      "class_name": "Cape K",
+      "status": "Ready Reserve Force",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Cape K"
+    },
+    {
+      "id": "T-AKR-5082",
+      "name": "MV Cape Knox",
+      "hull_number": "T-AKR-5082",
+      "class_name": "Cape K",
+      "status": "Ready Reserve Force",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Cape K"
+    },
+    {
+      "id": "T-AKR-2044",
+      "name": "MV Cape Orlando",
+      "hull_number": "T-AKR-2044",
+      "class_name": "Cape O",
+      "status": "Ready Reserve Force",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Cape O"
+    },
+    {
+      "id": "T-AKR-9960",
+      "name": "MV Cape Race",
+      "hull_number": "T-AKR-9960",
+      "class_name": "Cape R",
+      "status": "Ready Reserve Force",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Cape R"
+    },
+    {
+      "id": "T-AKR-9679",
+      "name": "MV Cape Ray",
+      "hull_number": "T-AKR-9679",
+      "class_name": "Cape R",
+      "status": "Ready Reserve Force",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Cape R"
+    },
+    {
+      "id": "T-AKR-9678",
+      "name": "MV Cape Rise",
+      "hull_number": "T-AKR-9678",
+      "class_name": "Cape R",
+      "status": "Ready Reserve Force",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Cape R"
+    },
+    {
+      "id": "T-AKR-5586",
+      "name": "MV Cape Sable",
+      "hull_number": "T-AKR-5586",
+      "class_name": "Cape S",
+      "status": "Ready Reserve Force",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Cape S"
+    },
+    {
+      "id": "T-AKR-5587",
+      "name": "MV Cape San Juan",
+      "hull_number": "T-AKR-5587",
+      "class_name": "Cape S",
+      "status": "Ready Reserve Force",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Cape S"
+    },
+    {
+      "id": "CG-71",
+      "name": "USS Cape St. George",
+      "hull_number": "CG-71",
+      "class_name": "Ticonderoga",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Ticonderoga (CG)"
+    },
+    {
+      "id": "T-AKR-5588",
+      "name": "MV Cape Starr",
+      "hull_number": "T-AKR-5588",
+      "class_name": "Cape S",
+      "status": "Ready Reserve Force",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Cape S"
+    },
+    {
+      "id": "T-AKR-113",
+      "name": "MV Cape Taylor",
+      "hull_number": "T-AKR-113",
+      "class_name": "Cape T",
+      "status": "Ready Reserve Force",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Cape T"
+    },
+    {
+      "id": "T-AKR-112",
+      "name": "MV Cape Texas",
+      "hull_number": "T-AKR-112",
+      "class_name": "Cape T",
+      "status": "Ready Reserve Force",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Cape T"
+    },
+    {
+      "id": "T-AKR-9711",
+      "name": "MV Cape Trinity",
+      "hull_number": "T-AKR-9711",
+      "class_name": "Cape T",
+      "status": "Ready Reserve Force",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Cape T"
+    },
+    {
+      "id": "T-AKR-9701",
+      "name": "MV Cape Victory",
+      "hull_number": "T-AKR-9701",
+      "class_name": "Cape V",
+      "status": "Ready Reserve Force",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Cape V"
+    },
+    {
+      "id": "T-AKR-9666",
+      "name": "MV Cape Vincent",
+      "hull_number": "T-AKR-9666",
+      "class_name": "Cape V",
+      "status": "Ready Reserve Force",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Cape V"
+    },
+    {
+      "id": "AKR-9961",
+      "name": "MV Cape Washington",
+      "hull_number": "AKR-9961",
+      "class_name": "Cape W",
+      "status": "Ready Reserve Force",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Cape W"
+    },
+    {
+      "id": "T-AKR-9962",
+      "name": "MV Cape Wrath",
+      "hull_number": "T-AKR-9962",
+      "class_name": "Cape W",
+      "status": "Ready Reserve Force",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Cape W"
+    },
+    {
+      "id": "T-AKR-293",
+      "name": "SS Capella",
+      "hull_number": "T-AKR-293",
+      "class_name": "Algol",
+      "status": "Ready Reserve Force",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Algol"
+    },
+    {
+      "id": "T-AK-5362",
+      "name": "MV Capt. David I. Lyon",
+      "hull_number": "T-AK-5362",
+      "class_name": "Capt. David I. Lyon",
+      "status": "Support",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Capt. David I. Lyon"
+    },
+    {
+      "id": "T-AKE-7",
+      "name": "USNS Carl Brashear",
+      "hull_number": "T-AKE-7",
+      "class_name": "Lewis and Clark",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Lewis and Clark (T-AKE)"
+    },
+    {
+      "id": "DDG-120",
+      "name": "USS Carl M. Levin",
+      "hull_number": "DDG-120",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "CVN-70",
+      "name": "USS Carl Vinson",
+      "hull_number": "CVN-70",
+      "class_name": "Nimitz",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Nimitz (CVN)"
+    },
+    {
+      "id": "DDG-64",
+      "name": "USS Carney",
+      "hull_number": "DDG-64",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "T-EPF-7",
+      "name": "USNS Carson City",
+      "hull_number": "T-EPF-7",
+      "class_name": "Spearhead",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Spearhead (EPF)"
+    },
+    {
+      "id": "LSD-50",
+      "name": "USS Carter Hall",
+      "hull_number": "LSD-50",
+      "class_name": "Harpers Ferry",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Harpers Ferry (LSD)"
+    },
+    {
+      "id": "T-ATF-168",
+      "name": "USNS Catawba",
+      "hull_number": "T-ATF-168",
+      "class_name": "Powhatan",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Powhatan (T-ATF)"
+    },
+    {
+      "id": "T-AKE-14",
+      "name": "USNS Cesar Chavez",
+      "hull_number": "T-AKE-14",
+      "class_name": "Lewis and Clark",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Lewis and Clark (T-AKE)"
+    },
+    {
+      "id": "DDG-90",
+      "name": "USS Chafee",
+      "hull_number": "DDG-90",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "T-AKE-10",
+      "name": "USNS Charles Drew",
+      "hull_number": "T-AKE-10",
+      "class_name": "Lewis and Clark",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Lewis and Clark (T-AKE)"
+    },
+    {
+      "id": "T-AKR-298",
+      "name": "MV Charles L. Gilliland",
+      "hull_number": "T-AKR-298",
+      "class_name": "Gordon",
+      "status": "Ready Reserve Force",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Gordon (T-AKR)"
+    },
+    {
+      "id": "LCS-18",
+      "name": "USS Charleston",
+      "hull_number": "LCS-18",
+      "class_name": "Independence",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Independence (LCS)"
+    },
+    {
+      "id": "SSN-766",
+      "name": "USS Charlotte",
+      "hull_number": "SSN-766",
+      "class_name": "Los Angeles",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Los Angeles (SSN)"
+    },
+    {
+      "id": "SSN-773",
+      "name": "USS Cheyenne",
+      "hull_number": "SSN-773",
+      "class_name": "Los Angeles",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Los Angeles (SSN)"
+    },
+    {
+      "id": "MCM-14",
+      "name": "USS Chief",
+      "hull_number": "MCM-14",
+      "class_name": "Avenger",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Avenger (MCM)"
+    },
+    {
+      "id": "T-EPF-2",
+      "name": "Choctaw County",
+      "hull_number": "T-EPF-2",
+      "class_name": "Spearhead",
+      "status": "Reserve fleet",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Spearhead (EPF)"
+    },
+    {
+      "id": "CG-65",
+      "name": "USS Chosin",
+      "hull_number": "CG-65",
+      "class_name": "Ticonderoga",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Ticonderoga (CG)"
+    },
+    {
+      "id": "DDG-93",
+      "name": "USS Chung-Hoon",
+      "hull_number": "DDG-93",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "LCS-20",
+      "name": "USS Cincinnati",
+      "hull_number": "LCS-20",
+      "class_name": "Independence",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Independence (LCS)"
+    },
+    {
+      "id": "T-EPF-9",
+      "name": "USNS City of Bismarck",
+      "hull_number": "T-EPF-9",
+      "class_name": "Spearhead",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Spearhead (EPF)"
+    },
+    {
+      "id": "LCS-31",
+      "name": "USS Cleveland",
+      "hull_number": "LCS-31",
+      "class_name": "Freedom",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Freedom (LCS)"
+    },
+    {
+      "id": "T-EPF-14",
+      "name": "USNS Cody",
+      "hull_number": "T-EPF-14",
+      "class_name": "Spearhead",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Spearhead (EPF)"
+    },
+    {
+      "id": "DDG-67",
+      "name": "USS Cole",
+      "hull_number": "DDG-67",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "SSN-788",
+      "name": "USS Colorado",
+      "hull_number": "SSN-788",
+      "class_name": "Virginia",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Virginia (SSN)"
+    },
+    {
+      "id": "SSN-771",
+      "name": "USS Columbia",
+      "hull_number": "SSN-771",
+      "class_name": "Los Angeles",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Los Angeles (SSN)"
+    },
+    {
+      "id": "SSN-762",
+      "name": "USS Columbus",
+      "hull_number": "SSN-762",
+      "class_name": "Los Angeles",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Los Angeles (SSN)"
+    },
+    {
+      "id": "T-AH-20",
+      "name": "USNS Comfort",
+      "hull_number": "T-AH-20",
+      "class_name": "Mercy",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Mercy (T-AH)"
+    },
+    {
+      "id": "LSD-45",
+      "name": "USS Comstock",
+      "hull_number": "LSD-45",
+      "class_name": "Whidbey Island",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Whidbey Island (LSD)"
+    },
+    {
+      "id": "SSN-22",
+      "name": "USS Connecticut",
+      "hull_number": "SSN-22",
+      "class_name": "Seawolf",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Seawolf (SSN)"
+    },
+    {
+      "id": "name-uss-constitution",
+      "name": "USS Constitution",
+      "hull_number": "No hull number",
+      "class_name": "Original six frigates",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Original six frigates"
+    },
+    {
+      "id": "LCS-23",
+      "name": "USS Cooperstown",
+      "hull_number": "LCS-23",
+      "class_name": "Freedom",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Freedom (LCS)"
+    },
+    {
+      "id": "T-AKR-314",
+      "name": "MV Cornelius H. Charlton",
+      "hull_number": "T-AKR-314",
+      "class_name": "Watson",
+      "status": "Ready Reserve Force",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Watson (T-AKR)"
+    },
+    {
+      "id": "T-ACS-6",
+      "name": "SS Cornhusker State",
+      "hull_number": "T-ACS-6",
+      "class_name": "Gopher State",
+      "status": "Ready Reserve Force",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Gopher State"
+    },
+    {
+      "id": "LCS-4",
+      "name": "Coronado",
+      "hull_number": "LCS-4",
+      "class_name": "Independence",
+      "status": "Reserve fleet",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Independence (LCS)"
+    },
+    {
+      "id": "CG-63",
+      "name": "Cowpens",
+      "hull_number": "CG-63",
+      "class_name": "Ticonderoga",
+      "status": "Reserve fleet",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Ticonderoga (CG)"
+    },
+    {
+      "id": "DDG-54",
+      "name": "USS Curtis Wilbur",
+      "hull_number": "DDG-54",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "T-AVB-4",
+      "name": "SS Curtiss",
+      "hull_number": "T-AVB-4",
+      "class_name": "Wright",
+      "status": "Ready Reserve Force",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Wright"
+    },
+    {
+      "id": "T-AKR-312",
+      "name": "USNS Dahl",
+      "hull_number": "T-AKR-312",
+      "class_name": "Watson",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Watson (T-AKR)"
+    },
+    {
+      "id": "DDG-118",
+      "name": "USS Daniel Inouye",
+      "hull_number": "DDG-118",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "DDG-73",
+      "name": "USS Decatur",
+      "hull_number": "DDG-73",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "YT-810",
+      "name": "Deception",
+      "hull_number": "YT-810",
+      "class_name": "Rainier",
+      "status": "Support",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Rainier"
+    },
+    {
+      "id": "YT-804",
+      "name": "Defiant",
+      "hull_number": "YT-804",
+      "class_name": "Valiant",
+      "status": "Support",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Valiant"
+    },
+    {
+      "id": "YTB-831",
+      "name": "Dekanawida",
+      "hull_number": "YTB-831",
+      "class_name": "Natick",
+      "status": "Support",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Natick"
+    },
+    {
+      "id": "SSN-791",
+      "name": "USS Delaware",
+      "hull_number": "SSN-791",
+      "class_name": "Virginia",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Virginia (SSN)"
+    },
+    {
+      "id": "DDG-119",
+      "name": "USS Delbert D. Black",
+      "hull_number": "DDG-119",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "T-AKR-289",
+      "name": "SS Denebola",
+      "hull_number": "T-AKR-289",
+      "class_name": "Algol",
+      "status": "Ready Reserve Force",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Algol"
+    },
+    {
+      "id": "LCS-7",
+      "name": "Detroit",
+      "hull_number": "LCS-7",
+      "class_name": "Freedom",
+      "status": "Reserve fleet",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Freedom (LCS)"
+    },
+    {
+      "id": "DDG-105",
+      "name": "USS Dewey",
+      "hull_number": "DDG-105",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "YTT-11",
+      "name": "Discovery Bay",
+      "hull_number": "YTT-11",
+      "class_name": "Cape Flattery",
+      "status": "Support",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Cape Flattery"
+    },
+    {
+      "id": "DDG-75",
+      "name": "USS Donald Cook",
+      "hull_number": "DDG-75",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "CVN-69",
+      "name": "USS Dwight D. Eisenhower",
+      "hull_number": "CVN-69",
+      "class_name": "Nimitz",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Nimitz (CVN)"
+    },
+    {
+      "id": "T-AGSE-3",
+      "name": "USNS Eagleview",
+      "hull_number": "T-AGSE-3",
+      "class_name": "Black Powder",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Black Powder"
+    },
+    {
+      "id": "T-AO-207",
+      "name": "USNS Earl Warren",
+      "hull_number": "T-AO-207",
+      "class_name": "John Lewis",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "John Lewis (T-AO)"
+    },
+    {
+      "id": "T-AGOS-21",
+      "name": "USNS Effective",
+      "hull_number": "T-AGOS-21",
+      "class_name": "Victorious",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Victorious (T-AGOS)"
+    },
+    {
+      "id": "AS-39",
+      "name": "USS Emory S. Land",
+      "hull_number": "AS-39",
+      "class_name": "Emory S. Land",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Emory S. Land (AS)"
+    },
+    {
+      "id": "LHD-2",
+      "name": "USS Essex",
+      "hull_number": "LHD-2",
+      "class_name": "Wasp",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Wasp (LHD)"
+    },
+    {
+      "id": "EDD-964",
+      "name": "Ex-Paul F. Foster",
+      "hull_number": "EDD-964",
+      "class_name": "Spruance",
+      "status": "Support",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Spruance (DD — legacy)"
+    },
+    {
+      "id": "DDG-99",
+      "name": "USS Farragut",
+      "hull_number": "DDG-99",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "name-usns-fast-tempo",
+      "name": "USNS Fast Tempo",
+      "hull_number": "No hull number",
+      "class_name": "Fast Tempo",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Fast Tempo"
+    },
+    {
+      "id": "T-AKR-301",
+      "name": "MV Fisher",
+      "hull_number": "T-AKR-301",
+      "class_name": "Bob Hope",
+      "status": "Ready Reserve Force",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Bob Hope (T-AKR)"
+    },
+    {
+      "id": "DDG-62",
+      "name": "USS Fitzgerald",
+      "hull_number": "DDG-62",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "SSGN-728",
+      "name": "USS Florida",
+      "hull_number": "SSGN-728",
+      "class_name": "Ohio",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Ohio (SSBN / SSGN)"
+    },
+    {
+      "id": "DDG-98",
+      "name": "USS Forrest Sherman",
+      "hull_number": "DDG-98",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "LPD-28",
+      "name": "USS Fort Lauderdale",
+      "hull_number": "LPD-28",
+      "class_name": "San Antonio",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "San Antonio (LPD)"
+    },
+    {
+      "id": "AS-40",
+      "name": "USS Frank Cable",
+      "hull_number": "AS-40",
+      "class_name": "Emory S. Land",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Emory S. Land (AS)"
+    },
+    {
+      "id": "DDG-121",
+      "name": "USS Frank E. Petersen Jr.",
+      "hull_number": "DDG-121",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "LCS-10",
+      "name": "USS Gabrielle Giffords",
+      "hull_number": "LCS-10",
+      "class_name": "Independence",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Independence (LCS)"
+    },
+    {
+      "id": "T-AKR-296",
+      "name": "MV Gary I. Gordon",
+      "hull_number": "T-AKR-296",
+      "class_name": "Gordon",
+      "status": "Ready Reserve Force",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Gordon (T-AKR)"
+    },
+    {
+      "id": "T-ACS-2",
+      "name": "SS Gem State",
+      "hull_number": "T-ACS-2",
+      "class_name": "Keystone State",
+      "status": "Ready Reserve Force",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Keystone State"
+    },
+    {
+      "id": "CVN-77",
+      "name": "USS George H.W. Bush",
+      "hull_number": "CVN-77",
+      "class_name": "Nimitz",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Nimitz (CVN)"
+    },
+    {
+      "id": "CVN-73",
+      "name": "USS George Washington",
+      "hull_number": "CVN-73",
+      "class_name": "Nimitz",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Nimitz (CVN)"
+    },
+    {
+      "id": "T-AKR-310",
+      "name": "MV George Watson",
+      "hull_number": "T-AKR-310",
+      "class_name": "Watson",
+      "status": "Ready Reserve Force",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Watson (T-AKR)"
+    },
+    {
+      "id": "CVN-78",
+      "name": "USS Gerald R. Ford",
+      "hull_number": "CVN-78",
+      "class_name": "Gerald R. Ford",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Gerald R. Ford (CVN)"
+    },
+    {
+      "id": "CG-64",
+      "name": "USS Gettysburg",
+      "hull_number": "CG-64",
+      "class_name": "Ticonderoga",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Ticonderoga (CG)"
+    },
+    {
+      "id": "DDG-66",
+      "name": "USS Gonzalez",
+      "hull_number": "DDG-66",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "T-ACS-4",
+      "name": "SS Gopher State",
+      "hull_number": "T-ACS-4",
+      "class_name": "Gopher State",
+      "status": "Ready Reserve Force",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Gopher State"
+    },
+    {
+      "id": "T-ARS-53",
+      "name": "Grapple",
+      "hull_number": "T-ARS-53",
+      "class_name": "Safeguard",
+      "status": "Reserve fleet",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Safeguard (T-ARS)"
+    },
+    {
+      "id": "T-ARS-51",
+      "name": "USNS Grasp",
+      "hull_number": "T-ARS-51",
+      "class_name": "Safeguard",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Safeguard (T-ARS)"
+    },
+    {
+      "id": "DDG-107",
+      "name": "USS Gravely",
+      "hull_number": "DDG-107",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "LPD-20",
+      "name": "USS Green Bay",
+      "hull_number": "LPD-20",
+      "class_name": "San Antonio",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "San Antonio (LPD)"
+    },
+    {
+      "id": "SSN-772",
+      "name": "USS Greeneville",
+      "hull_number": "SSN-772",
+      "class_name": "Los Angeles",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Los Angeles (SSN)"
+    },
+    {
+      "id": "DDG-101",
+      "name": "USS Gridley",
+      "hull_number": "DDG-101",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "T-AO-200",
+      "name": "USNS Guadalupe",
+      "hull_number": "T-AO-200",
+      "class_name": "Henry J. Kaiser",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Henry J. Kaiser (T-AO)"
+    },
+    {
+      "id": "T-HST-1",
+      "name": "USNS Guam",
+      "hull_number": "T-HST-1",
+      "class_name": "Guam",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Guam"
+    },
+    {
+      "id": "LSD-44",
+      "name": "USS Gunston Hall",
+      "hull_number": "LSD-44",
+      "class_name": "Whidbey Island",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Whidbey Island (LSD)"
+    },
+    {
+      "id": "DDG-97",
+      "name": "USS Halsey",
+      "hull_number": "DDG-97",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "SSN-767",
+      "name": "USS Hampton",
+      "hull_number": "SSN-767",
+      "class_name": "Los Angeles",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Los Angeles (SSN)"
+    },
+    {
+      "id": "LSD-49",
+      "name": "USS Harpers Ferry",
+      "hull_number": "LSD-49",
+      "class_name": "Harpers Ferry",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Harpers Ferry (LSD)"
+    },
+    {
+      "id": "CVN-75",
+      "name": "USS Harry S. Truman",
+      "hull_number": "CVN-75",
+      "class_name": "Nimitz",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Nimitz (CVN)"
+    },
+    {
+      "id": "SSN-768",
+      "name": "USS Hartford",
+      "hull_number": "SSN-768",
+      "class_name": "Los Angeles",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Los Angeles (SSN)"
+    },
+    {
+      "id": "DDG-124",
+      "name": "USS Harvey C. Barnum Jr.",
+      "hull_number": "DDG-124",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "SSN-776",
+      "name": "USS Hawaii",
+      "hull_number": "SSN-776",
+      "class_name": "Virginia",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Virginia (SSN)"
+    },
+    {
+      "id": "T-AO-187",
+      "name": "USNS Henry J. Kaiser",
+      "hull_number": "T-AO-187",
+      "class_name": "Henry J. Kaiser",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Henry J. Kaiser (T-AO)"
+    },
+    {
+      "id": "SSBN-730",
+      "name": "USS Henry M. Jackson",
+      "hull_number": "SSBN-730",
+      "class_name": "Ohio",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Ohio (SSBN / SSGN)"
+    },
+    {
+      "id": "T-AGS-63",
+      "name": "USNS Henson",
+      "hull_number": "T-AGS-63",
+      "class_name": "Pathfinder",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Pathfinder (T-AGS)"
+    },
+    {
+      "id": "ESB-4",
+      "name": "USS Hershel \"Woody\" Williams",
+      "hull_number": "ESB-4",
+      "class_name": "Lewis B. Puller",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Lewis B. Puller (ESB)"
+    },
+    {
+      "id": "DDG-76",
+      "name": "USS Higgins",
+      "hull_number": "DDG-76",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "DDG-70",
+      "name": "USS Hopper",
+      "hull_number": "DDG-70",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "name-mv-hos-dominator",
+      "name": "MV HOS Dominator",
+      "hull_number": "No hull number",
+      "class_name": "HOS Dominator",
+      "status": "Support",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "HOS Dominator"
+    },
+    {
+      "id": "DDG-83",
+      "name": "USS Howard",
+      "hull_number": "DDG-83",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "T-AGM-25",
+      "name": "USNS Howard O. Lorenzen",
+      "hull_number": "T-AGM-25",
+      "class_name": "Howard O. Lorenzen",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Howard O. Lorenzen (T-AGM)"
+    },
+    {
+      "id": "CG-66",
+      "name": "Hué City",
+      "hull_number": "CG-66",
+      "class_name": "Ticonderoga",
+      "status": "Reserve fleet",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Ticonderoga (CG)"
+    },
+    {
+      "id": "SSN-795",
+      "name": "USS Hyman G. Rickover",
+      "hull_number": "SSN-795",
+      "class_name": "Virginia",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Virginia (SSN)"
+    },
+    {
+      "id": "SSN-799",
+      "name": "USS Idaho",
+      "hull_number": "SSN-799",
+      "class_name": "Virginia",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Virginia (SSN)"
+    },
+    {
+      "id": "SSN-786",
+      "name": "USS Illinois",
+      "hull_number": "SSN-786",
+      "class_name": "Virginia",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Virginia (SSN)"
+    },
+    {
+      "id": "T-AGOS-23",
+      "name": "USNS Impeccable",
+      "hull_number": "T-AGOS-23",
+      "class_name": "Impeccable",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Impeccable (T-AGOS)"
+    },
+    {
+      "id": "SSN-789",
+      "name": "USS Indiana",
+      "hull_number": "SSN-789",
+      "class_name": "Virginia",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Virginia (SSN)"
+    },
+    {
+      "id": "LCS-17",
+      "name": "USS Indianapolis",
+      "hull_number": "LCS-17",
+      "class_name": "Freedom",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Freedom (LCS)"
+    },
+    {
+      "id": "T-AGM-24",
+      "name": "Invincible",
+      "hull_number": "T-AGM-24",
+      "class_name": "Stalwart",
+      "status": "Reserve fleet",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Stalwart"
+    },
+    {
+      "id": "SSN-797",
+      "name": "USS Iowa",
+      "hull_number": "SSN-797",
+      "class_name": "Virginia",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Virginia (SSN)"
+    },
+    {
+      "id": "LHD-7",
+      "name": "USS Iwo Jima",
+      "hull_number": "LHD-7",
+      "class_name": "Wasp",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Wasp (LHD)"
+    },
+    {
+      "id": "DDG-125",
+      "name": "USS Jack H. Lucas",
+      "hull_number": "DDG-125",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "LCS-6",
+      "name": "USS Jackson",
+      "hull_number": "LCS-6",
+      "class_name": "Independence",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Independence (LCS)"
+    },
+    {
+      "id": "DDG-95",
+      "name": "USS James E. Williams",
+      "hull_number": "DDG-95",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "DDG-109",
+      "name": "USS Jason Dunham",
+      "hull_number": "DDG-109",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "SSN-759",
+      "name": "USS Jefferson City",
+      "hull_number": "SSN-759",
+      "class_name": "Los Angeles",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Los Angeles (SSN)"
+    },
+    {
+      "id": "SSN-23",
+      "name": "USS Jimmy Carter",
+      "hull_number": "SSN-23",
+      "class_name": "Seawolf",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Seawolf (SSN)"
+    },
+    {
+      "id": "DDG-122",
+      "name": "USS John Basilone",
+      "hull_number": "DDG-122",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "CVN-74",
+      "name": "USS John C. Stennis",
+      "hull_number": "CVN-74",
+      "class_name": "Nimitz",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Nimitz (CVN)"
+    },
+    {
+      "id": "DDG-113",
+      "name": "USS John Finn",
+      "hull_number": "DDG-113",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "T-ESD-2",
+      "name": "USNS John Glenn",
+      "hull_number": "T-ESD-2",
+      "class_name": "Montford Point",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Montford Point (ESD)"
+    },
+    {
+      "id": "ESB-6",
+      "name": "USS John L. Canley",
+      "hull_number": "ESB-6",
+      "class_name": "Lewis B. Puller",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Lewis B. Puller (ESB)"
+    },
+    {
+      "id": "T-AO-189",
+      "name": "USNS John Lenthall",
+      "hull_number": "T-AO-189",
+      "class_name": "Henry J. Kaiser",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Henry J. Kaiser (T-AO)"
+    },
+    {
+      "id": "T-AO-205",
+      "name": "USNS John Lewis",
+      "hull_number": "T-AO-205",
+      "class_name": "John Lewis",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "John Lewis (T-AO)"
+    },
+    {
+      "id": "LPD-26",
+      "name": "USS John P. Murtha",
+      "hull_number": "LPD-26",
+      "class_name": "San Antonio",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "San Antonio (LPD)"
+    },
+    {
+      "id": "DDG-53",
+      "name": "USS John Paul Jones",
+      "hull_number": "DDG-53",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "DDG-56",
+      "name": "USS John S. McCain",
+      "hull_number": "DDG-56",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "SSN-785",
+      "name": "USS John Warner",
+      "hull_number": "SSN-785",
+      "class_name": "Virginia",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Virginia (SSN)"
+    },
+    {
+      "id": "T-AO-188",
+      "name": "USNS Joshua Humphreys",
+      "hull_number": "T-AO-188",
+      "class_name": "Henry J. Kaiser",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Henry J. Kaiser (T-AO)"
+    },
+    {
+      "id": "T-AO-196",
+      "name": "USNS Kanawha",
+      "hull_number": "T-AO-196",
+      "class_name": "Henry J. Kaiser",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Henry J. Kaiser (T-AO)"
+    },
+    {
+      "id": "LCS-22",
+      "name": "USS Kansas City",
+      "hull_number": "LCS-22",
+      "class_name": "Independence",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Independence (LCS)"
+    },
+    {
+      "id": "LHD-3",
+      "name": "USS Kearsarge",
+      "hull_number": "LHD-3",
+      "class_name": "Wasp",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Wasp (LHD)"
+    },
+    {
+      "id": "name-mv-kellie-chouest",
+      "name": "MV Kellie Chouest",
+      "hull_number": "No hull number",
+      "class_name": "Kellie Chouest",
+      "status": "Support",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Kellie Chouest"
+    },
+    {
+      "id": "SSBN-737",
+      "name": "USS Kentucky",
+      "hull_number": "SSBN-737",
+      "class_name": "Ohio",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Ohio (SSBN / SSGN)"
+    },
+    {
+      "id": "T-ACS-1",
+      "name": "SS Keystone State",
+      "hull_number": "T-ACS-1",
+      "class_name": "Keystone State",
+      "status": "Ready Reserve Force",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Keystone State"
+    },
+    {
+      "id": "DDG-100",
+      "name": "USS Kidd",
+      "hull_number": "DDG-100",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "LCS-36",
+      "name": "USS Kingsville",
+      "hull_number": "LCS-36",
+      "class_name": "Independence",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Independence (LCS)"
+    },
+    {
+      "id": "DDG-58",
+      "name": "USS Laboon",
+      "hull_number": "DDG-58",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "CG-57",
+      "name": "Lake Champlain",
+      "hull_number": "CG-57",
+      "class_name": "Ticonderoga",
+      "status": "Reserve fleet",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Ticonderoga (CG)"
+    },
+    {
+      "id": "CG-70",
+      "name": "Lake Erie",
+      "hull_number": "CG-70",
+      "class_name": "Ticonderoga",
+      "status": "Reserve fleet",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Ticonderoga (CG)"
+    },
+    {
+      "id": "T-AO-203",
+      "name": "USNS Laramie",
+      "hull_number": "T-AO-203",
+      "class_name": "Henry J. Kaiser",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Henry J. Kaiser (T-AO)"
+    },
+    {
+      "id": "DDG-82",
+      "name": "USS Lassen",
+      "hull_number": "DDG-82",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "DDG-123",
+      "name": "USS Lenah Sutcliffe Higbee",
+      "hull_number": "DDG-123",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "T-AKR-303",
+      "name": "MV Leroy A. Mendonca",
+      "hull_number": "T-AKR-303",
+      "class_name": "Bob Hope",
+      "status": "Ready Reserve Force",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Bob Hope (T-AKR)"
+    },
+    {
+      "id": "T-AO-195",
+      "name": "USNS Leroy Grumman",
+      "hull_number": "T-AO-195",
+      "class_name": "Henry J. Kaiser",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Henry J. Kaiser (T-AO)"
+    },
+    {
+      "id": "T-AKE-1",
+      "name": "USNS Lewis and Clark",
+      "hull_number": "T-AKE-1",
+      "class_name": "Lewis and Clark",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Lewis and Clark (T-AKE)"
+    },
+    {
+      "id": "ESB-3",
+      "name": "USS Lewis B. Puller",
+      "hull_number": "ESB-3",
+      "class_name": "Lewis B. Puller",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Lewis B. Puller (ESB)"
+    },
+    {
+      "id": "CG-55",
+      "name": "Leyte Gulf",
+      "hull_number": "CG-55",
+      "class_name": "Ticonderoga",
+      "status": "Reserve fleet",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Ticonderoga (CG)"
+    },
+    {
+      "id": "LCS-9",
+      "name": "Little Rock",
+      "hull_number": "LCS-9",
+      "class_name": "Freedom",
+      "status": "Reserve fleet",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Freedom (LCS)"
+    },
+    {
+      "id": "SSBN-743",
+      "name": "USS Louisiana",
+      "hull_number": "SSBN-743",
+      "class_name": "Ohio",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Ohio (SSBN / SSGN)"
+    },
+    {
+      "id": "T-AGOS-22",
+      "name": "USNS Loyal",
+      "hull_number": "T-AGOS-22",
+      "class_name": "Victorious",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Victorious (T-AGOS)"
+    },
+    {
+      "id": "T-AO-209",
+      "name": "USNS Lucy Stone",
+      "hull_number": "T-AO-209",
+      "class_name": "John Lewis",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "John Lewis (T-AO)"
+    },
+    {
+      "id": "DDG-72",
+      "name": "USS Mahan",
+      "hull_number": "DDG-72",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "SSBN-741",
+      "name": "USS Maine",
+      "hull_number": "SSBN-741",
+      "class_name": "Ohio",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Ohio (SSBN / SSGN)"
+    },
+    {
+      "id": "T-AK-4396",
+      "name": "MV Maj. Bernard F. Fisher",
+      "hull_number": "T-AK-4396",
+      "class_name": "LTC Calvin P. Titus",
+      "status": "Support",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "LTC Calvin P. Titus"
+    },
+    {
+      "id": "LHD-8",
+      "name": "USS Makin Island",
+      "hull_number": "LHD-8",
+      "class_name": "Wasp",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Wasp (LHD)"
+    },
+    {
+      "id": "name-mv-malama",
+      "name": "MV Malama",
+      "hull_number": "No hull number",
+      "class_name": "Malama",
+      "status": "Support",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Malama"
+    },
+    {
+      "id": "LCS-14",
+      "name": "USS Manchester",
+      "hull_number": "LCS-14",
+      "class_name": "Independence",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Independence (LCS)"
+    },
+    {
+      "id": "T-AGS-66",
+      "name": "USNS Marie Tharp",
+      "hull_number": "T-AGS-66",
+      "class_name": "Pathfinder",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Pathfinder (T-AGS)"
+    },
+    {
+      "id": "LCS-25",
+      "name": "USS Marinette",
+      "hull_number": "LCS-25",
+      "class_name": "Freedom",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Freedom (LCS)"
+    },
+    {
+      "id": "T-AGS-65",
+      "name": "USNS Mary Sears",
+      "hull_number": "T-AGS-65",
+      "class_name": "Pathfinder",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Pathfinder (T-AGS)"
+    },
+    {
+      "id": "SSBN-738",
+      "name": "USS Maryland",
+      "hull_number": "SSBN-738",
+      "class_name": "Ohio",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Ohio (SSBN / SSGN)"
+    },
+    {
+      "id": "DDG-87",
+      "name": "USS Mason",
+      "hull_number": "DDG-87",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "SSN-798",
+      "name": "USS Massachusetts",
+      "hull_number": "SSN-798",
+      "class_name": "Virginia",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Virginia (SSN)"
+    },
+    {
+      "id": "T-AKE-9",
+      "name": "USNS Matthew Perry",
+      "hull_number": "T-AKE-9",
+      "class_name": "Lewis and Clark",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Lewis and Clark (T-AKE)"
+    },
+    {
+      "id": "DDG-85",
+      "name": "USS McCampbell",
+      "hull_number": "DDG-85",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "DDG-74",
+      "name": "USS McFaul",
+      "hull_number": "DDG-74",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "T-AKE-13",
+      "name": "USNS Medgar Evers",
+      "hull_number": "T-AKE-13",
+      "class_name": "Lewis and Clark",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Lewis and Clark (T-AKE)"
+    },
+    {
+      "id": "YT-807",
+      "name": "Menominee",
+      "hull_number": "YT-807",
+      "class_name": "Valiant",
+      "status": "Support",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Valiant"
+    },
+    {
+      "id": "T-AH-19",
+      "name": "USNS Mercy",
+      "hull_number": "T-AH-19",
+      "class_name": "Mercy",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Mercy (T-AH)"
+    },
+    {
+      "id": "LPD-19",
+      "name": "USS Mesa Verde",
+      "hull_number": "LPD-19",
+      "class_name": "San Antonio",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "San Antonio (LPD)"
+    },
+    {
+      "id": "DDG-1001",
+      "name": "USS Michael Monsoor",
+      "hull_number": "DDG-1001",
+      "class_name": "Zumwalt",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Zumwalt (DDG)"
+    },
+    {
+      "id": "DDG-112",
+      "name": "USS Michael Murphy",
+      "hull_number": "DDG-112",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "SSGN-727",
+      "name": "USS Michigan",
+      "hull_number": "SSGN-727",
+      "class_name": "Ohio",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Ohio (SSBN / SSGN)"
+    },
+    {
+      "id": "ESB-5",
+      "name": "USS Miguel Keith",
+      "hull_number": "ESB-5",
+      "class_name": "Lewis B. Puller",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Lewis B. Puller (ESB)"
+    },
+    {
+      "id": "DDG-69",
+      "name": "USS Milius",
+      "hull_number": "DDG-69",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "T-EPF-3",
+      "name": "Millinocket",
+      "hull_number": "T-EPF-3",
+      "class_name": "Spearhead",
+      "status": "Reserve fleet",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Spearhead (EPF)"
+    },
+    {
+      "id": "LCS-5",
+      "name": "Milwaukee",
+      "hull_number": "LCS-5",
+      "class_name": "Freedom",
+      "status": "Reserve fleet",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Freedom (LCS)"
+    },
+    {
+      "id": "LCS-21",
+      "name": "USS Minneapolis-Saint Paul",
+      "hull_number": "LCS-21",
+      "class_name": "Freedom",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Freedom (LCS)"
+    },
+    {
+      "id": "SSN-783",
+      "name": "USS Minnesota",
+      "hull_number": "SSN-783",
+      "class_name": "Virginia",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Virginia (SSN)"
+    },
+    {
+      "id": "SSN-782",
+      "name": "USS Mississippi",
+      "hull_number": "SSN-782",
+      "class_name": "Virginia",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Virginia (SSN)"
+    },
+    {
+      "id": "SSN-780",
+      "name": "USS Missouri",
+      "hull_number": "SSN-780",
+      "class_name": "Virginia",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Virginia (SSN)"
+    },
+    {
+      "id": "DDG-57",
+      "name": "USS Mitscher",
+      "hull_number": "DDG-57",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "LCS-26",
+      "name": "USS Mobile",
+      "hull_number": "LCS-26",
+      "class_name": "Independence",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Independence (LCS)"
+    },
+    {
+      "id": "DDG-92",
+      "name": "USS Momsen",
+      "hull_number": "DDG-92",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "SSN-794",
+      "name": "USS Montana",
+      "hull_number": "SSN-794",
+      "class_name": "Virginia",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Virginia (SSN)"
+    },
+    {
+      "id": "CG-61",
+      "name": "Monterey",
+      "hull_number": "CG-61",
+      "class_name": "Ticonderoga",
+      "status": "Reserve fleet",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Ticonderoga (CG)"
+    },
+    {
+      "id": "T-ESD-1",
+      "name": "USNS Montford Point",
+      "hull_number": "T-ESD-1",
+      "class_name": "Montford Point",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Montford Point (ESD)"
+    },
+    {
+      "id": "LCS-8",
+      "name": "USS Montgomery",
+      "hull_number": "LCS-8",
+      "class_name": "Independence",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Independence (LCS)"
+    },
+    {
+      "id": "SSN-765",
+      "name": "USS Montpelier",
+      "hull_number": "SSN-765",
+      "class_name": "Los Angeles",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Los Angeles (SSN)"
+    },
+    {
+      "id": "LCC-20",
+      "name": "USS Mount Whitney",
+      "hull_number": "LCC-20",
+      "class_name": "Blue Ridge",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Blue Ridge (LCC)"
+    },
+    {
+      "id": "T-AOT-5193",
+      "name": "MT Empire State",
+      "hull_number": "T-AOT-5193",
+      "class_name": "Empire State",
+      "status": "Support",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Empire State"
+    },
+    {
+      "id": "name-mt-evergreen-state",
+      "name": "MT Evergreen State",
+      "hull_number": "No hull number",
+      "class_name": "Empire State",
+      "status": "Support",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Empire State"
+    },
+    {
+      "id": "T-AK-5423",
+      "name": "MT SLNC Corsica",
+      "hull_number": "T-AK-5423",
+      "class_name": "SLNC Corsica",
+      "status": "Support",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "SLNC Corsica"
+    },
+    {
+      "id": "T-AOT-5419",
+      "name": "MT SLNC Goodwill",
+      "hull_number": "T-AOT-5419",
+      "class_name": "SLNC Goodwill",
+      "status": "Support",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "SLNC Goodwill"
+    },
+    {
+      "id": "T-AOT-5356",
+      "name": "MT SLNC Pax",
+      "hull_number": "T-AOT-5356",
+      "class_name": "SLNC Pax",
+      "status": "Support",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "SLNC Pax"
+    },
+    {
+      "id": "T-AOT-5563",
+      "name": "MT Stena Polaris",
+      "hull_number": "T-AOT-5563",
+      "class_name": "Stena Polaris",
+      "status": "Support",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Stena Polaris"
+    },
+    {
+      "id": "DDG-89",
+      "name": "USS Mustin",
+      "hull_number": "DDG-89",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "LCS-27",
+      "name": "USS Nantucket",
+      "hull_number": "LCS-27",
+      "class_name": "Freedom",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Freedom (LCS)"
+    },
+    {
+      "id": "SSBN-739",
+      "name": "USS Nebraska",
+      "hull_number": "SSBN-739",
+      "class_name": "Ohio",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Ohio (SSBN / SSGN)"
+    },
+    {
+      "id": "T-AKR-305",
+      "name": "MV Nelson V. Brittin",
+      "hull_number": "T-AKR-305",
+      "class_name": "Bob Hope",
+      "status": "Ready Reserve Force",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Bob Hope (T-AKR)"
+    },
+    {
+      "id": "SSBN-733",
+      "name": "USS Nevada",
+      "hull_number": "SSBN-733",
+      "class_name": "Ohio",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Ohio (SSBN / SSGN)"
+    },
+    {
+      "id": "SSN-778",
+      "name": "USS New Hampshire",
+      "hull_number": "SSN-778",
+      "class_name": "Virginia",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Virginia (SSN)"
+    },
+    {
+      "id": "SSN-796",
+      "name": "USS New Jersey",
+      "hull_number": "SSN-796",
+      "class_name": "Virginia",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Virginia (SSN)"
+    },
+    {
+      "id": "SSN-779",
+      "name": "USS New Mexico",
+      "hull_number": "SSN-779",
+      "class_name": "Virginia",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Virginia (SSN)"
+    },
+    {
+      "id": "LPD-18",
+      "name": "USS New Orleans",
+      "hull_number": "LPD-18",
+      "class_name": "San Antonio",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "San Antonio (LPD)"
+    },
+    {
+      "id": "LPD-21",
+      "name": "USS New York",
+      "hull_number": "LPD-21",
+      "class_name": "San Antonio",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "San Antonio (LPD)"
+    },
+    {
+      "id": "T-EPF-12",
+      "name": "USNS Newport",
+      "hull_number": "T-EPF-12",
+      "class_name": "Spearhead",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Spearhead (EPF)"
+    },
+    {
+      "id": "CVN-68",
+      "name": "USS Nimitz",
+      "hull_number": "CVN-68",
+      "class_name": "Nimitz",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Nimitz (CVN)"
+    },
+    {
+      "id": "DDG-94",
+      "name": "USS Nitze",
+      "hull_number": "DDG-94",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "CG-60",
+      "name": "Normandy",
+      "hull_number": "CG-60",
+      "class_name": "Ticonderoga",
+      "status": "Reserve fleet",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Ticonderoga (CG)"
+    },
+    {
+      "id": "SSN-777",
+      "name": "USS North Carolina",
+      "hull_number": "SSN-777",
+      "class_name": "Virginia",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Virginia (SSN)"
+    },
+    {
+      "id": "SSN-784",
+      "name": "USS North Dakota",
+      "hull_number": "SSN-784",
+      "class_name": "Virginia",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Virginia (SSN)"
+    },
+    {
+      "id": "APL-40",
+      "name": "Nueces",
+      "hull_number": "APL-40",
+      "class_name": "Benewah",
+      "status": "Support",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Benewah"
+    },
+    {
+      "id": "DDG-77",
+      "name": "USS O'Kane",
+      "hull_number": "DDG-77",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "LSD-51",
+      "name": "USS Oak Hill",
+      "hull_number": "LSD-51",
+      "class_name": "Harpers Ferry",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Harpers Ferry (LSD)"
+    },
+    {
+      "id": "LCS-24",
+      "name": "USS Oakland",
+      "hull_number": "LCS-24",
+      "class_name": "Independence",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Independence (LCS)"
+    },
+    {
+      "id": "SSGN-726",
+      "name": "USS Ohio",
+      "hull_number": "SSGN-726",
+      "class_name": "Ohio",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Ohio (SSBN / SSGN)"
+    },
+    {
+      "id": "YT-811",
+      "name": "Olympus",
+      "hull_number": "YT-811",
+      "class_name": "Rainier",
+      "status": "Support",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Rainier"
+    },
+    {
+      "id": "LCS-12",
+      "name": "USS Omaha",
+      "hull_number": "LCS-12",
+      "class_name": "Independence",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Independence (LCS)"
+    },
+    {
+      "id": "SSN-793",
+      "name": "USS Oregon",
+      "hull_number": "SSN-793",
+      "class_name": "Virginia",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Virginia (SSN)"
+    },
+    {
+      "id": "DDG-79",
+      "name": "USS Oscar Austin",
+      "hull_number": "DDG-79",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "T-AO-206",
+      "name": "USNS Oscar V. Peterson",
+      "hull_number": "T-AO-206",
+      "class_name": "John Lewis",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "John Lewis (T-AO)"
+    },
+    {
+      "id": "SSN-752",
+      "name": "USS Pasadena",
+      "hull_number": "SSN-752",
+      "class_name": "Los Angeles",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Los Angeles (SSN)"
+    },
+    {
+      "id": "T-AGS-60",
+      "name": "USNS Pathfinder",
+      "hull_number": "T-AGS-60",
+      "class_name": "Pathfinder",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Pathfinder (T-AGS)"
+    },
+    {
+      "id": "MCM-7",
+      "name": "USS Patriot",
+      "hull_number": "MCM-7",
+      "class_name": "Avenger",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Avenger (MCM)"
+    },
+    {
+      "id": "T-AO-201",
+      "name": "USNS Patuxent",
+      "hull_number": "T-AO-201",
+      "class_name": "Henry J. Kaiser",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Henry J. Kaiser (T-AO)"
+    },
+    {
+      "id": "DDG-60",
+      "name": "USS Paul Hamilton",
+      "hull_number": "DDG-60",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "DDG-117",
+      "name": "USS Paul Ignatius",
+      "hull_number": "DDG-117",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "LSD-52",
+      "name": "USS Pearl Harbor",
+      "hull_number": "LSD-52",
+      "class_name": "Harpers Ferry",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Harpers Ferry (LSD)"
+    },
+    {
+      "id": "SSBN-735",
+      "name": "USS Pennsylvania",
+      "hull_number": "SSBN-735",
+      "class_name": "Ohio",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Ohio (SSBN / SSGN)"
+    },
+    {
+      "id": "T-AK-3009",
+      "name": "USNS PFC Dewayne T. Williams",
+      "hull_number": "T-AK-3009",
+      "class_name": "2nd Lt. John P. Bobo",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Bobo (T-AK)"
+    },
+    {
+      "id": "CG-58",
+      "name": "Philippine Sea",
+      "hull_number": "CG-58",
+      "class_name": "Ticonderoga",
+      "status": "Reserve fleet",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Ticonderoga (CG)"
+    },
+    {
+      "id": "LCS-38",
+      "name": "USS Pierre",
+      "hull_number": "LCS-38",
+      "class_name": "Independence",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Independence (LCS)"
+    },
+    {
+      "id": "T-AKR-304",
+      "name": "USNS Pililaau",
+      "hull_number": "T-AKR-304",
+      "class_name": "Bob Hope",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Bob Hope (T-AKR)"
+    },
+    {
+      "id": "DDG-91",
+      "name": "USS Pinckney",
+      "hull_number": "DDG-91",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "MCM-9",
+      "name": "USS Pioneer",
+      "hull_number": "MCM-9",
+      "class_name": "Avenger",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Avenger (MCM)"
+    },
+    {
+      "id": "T-EPF-15",
+      "name": "USNS Point Loma",
+      "hull_number": "T-EPF-15",
+      "class_name": "Spearhead",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Spearhead (EPF)"
+    },
+    {
+      "id": "T-AKR-290",
+      "name": "SS Pollux",
+      "hull_number": "T-AKR-290",
+      "class_name": "Algol",
+      "status": "Ready Reserve Force",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Algol"
+    },
+    {
+      "id": "T-AKR-316",
+      "name": "USNS Pomeroy",
+      "hull_number": "T-AKR-316",
+      "class_name": "Watson",
+      "status": "Ready Reserve Force",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Watson (T-AKR)"
+    },
+    {
+      "id": "CG-73",
+      "name": "Port Royal",
+      "hull_number": "CG-73",
+      "class_name": "Ticonderoga",
+      "status": "Reserve fleet",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Ticonderoga (CG)"
+    },
+    {
+      "id": "DDG-78",
+      "name": "USS Porter",
+      "hull_number": "DDG-78",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "LPD-27",
+      "name": "USS Portland",
+      "hull_number": "LPD-27",
+      "class_name": "San Antonio",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "San Antonio (LPD)"
+    },
+    {
+      "id": "DDG-88",
+      "name": "USS Preble",
+      "hull_number": "DDG-88",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "IX-537",
+      "name": "Prevail",
+      "hull_number": "IX-537",
+      "class_name": "Stalwart",
+      "status": "Support",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Stalwart"
+    },
+    {
+      "id": "CG-59",
+      "name": "USS Princeton",
+      "hull_number": "CG-59",
+      "class_name": "Ticonderoga",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Ticonderoga (CG)"
+    },
+    {
+      "id": "AGER-2",
+      "name": "USS Pueblo",
+      "hull_number": "AGER-2",
+      "class_name": "Banner",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Banner (AGER — historic)"
+    },
+    {
+      "id": "T-EPF-11",
+      "name": "USNS Puerto Rico",
+      "hull_number": "T-EPF-11",
+      "class_name": "Spearhead",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Spearhead (EPF)"
+    },
+    {
+      "id": "YT-806",
+      "name": "Puyallup",
+      "hull_number": "YT-806",
+      "class_name": "Valiant",
+      "status": "Support",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Valiant"
+    },
+    {
+      "id": "DDG-115",
+      "name": "USS Rafael Peralta",
+      "hull_number": "DDG-115",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "YT-808",
+      "name": "Rainier",
+      "hull_number": "YT-808",
+      "class_name": "Rainier",
+      "status": "Support",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Rainier"
+    },
+    {
+      "id": "DDG-114",
+      "name": "USS Ralph Johnson",
+      "hull_number": "DDG-114",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "DDG-61",
+      "name": "USS Ramage",
+      "hull_number": "DDG-61",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "T-AO-204",
+      "name": "USNS Rappahannock",
+      "hull_number": "T-AO-204",
+      "class_name": "Henry J. Kaiser",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Henry J. Kaiser (T-AO)"
+    },
+    {
+      "id": "T-AKR-313",
+      "name": "USNS Red Cloud",
+      "hull_number": "T-AKR-313",
+      "class_name": "Watson",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Watson (T-AKR)"
+    },
+    {
+      "id": "T-AKR-292",
+      "name": "SS Regulus",
+      "hull_number": "T-AKR-292",
+      "class_name": "Algol",
+      "status": "Ready Reserve Force",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Algol"
+    },
+    {
+      "id": "YT-803",
+      "name": "Reliant",
+      "hull_number": "YT-803",
+      "class_name": "Valiant",
+      "status": "Support",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Valiant"
+    },
+    {
+      "id": "AFDM-10",
+      "name": "Resolute",
+      "hull_number": "AFDM-10",
+      "class_name": "AFDM-3",
+      "status": "Reserve fleet",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "AFDM-3"
+    },
+    {
+      "id": "SSBN-740",
+      "name": "USS Rhode Island",
+      "hull_number": "SSBN-740",
+      "class_name": "Ohio",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Ohio (SSBN / SSGN)"
+    },
+    {
+      "id": "T-AKE-4",
+      "name": "USNS Richard E. Byrd",
+      "hull_number": "T-AKE-4",
+      "class_name": "Lewis and Clark",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Lewis and Clark (T-AKE)"
+    },
+    {
+      "id": "LPD-29",
+      "name": "USS Richard M. McCool Jr.",
+      "hull_number": "LPD-29",
+      "class_name": "San Antonio",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "San Antonio (LPD)"
+    },
+    {
+      "id": "T-AKE-5",
+      "name": "USNS Robert E. Peary",
+      "hull_number": "T-AKE-5",
+      "class_name": "Lewis and Clark",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Lewis and Clark (T-AKE)"
+    },
+    {
+      "id": "T-AO-208",
+      "name": "USNS Robert F. Kennedy",
+      "hull_number": "T-AO-208",
+      "class_name": "John Lewis",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "John Lewis (T-AO)"
+    },
+    {
+      "id": "CG-62",
+      "name": "USS Robert Smalls",
+      "hull_number": "CG-62",
+      "class_name": "Ticonderoga",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Ticonderoga (CG)"
+    },
+    {
+      "id": "CVN-76",
+      "name": "USS Ronald Reagan",
+      "hull_number": "CVN-76",
+      "class_name": "Nimitz",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Nimitz (CVN)"
+    },
+    {
+      "id": "DDG-80",
+      "name": "USS Roosevelt",
+      "hull_number": "DDG-80",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "DDG-71",
+      "name": "USS Ross",
+      "hull_number": "DDG-71",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "T-AKR-306",
+      "name": "MV Roy P. Benavidez",
+      "hull_number": "T-AKR-306",
+      "class_name": "Bob Hope",
+      "status": "Ready Reserve Force",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Bob Hope (T-AKR)"
+    },
+    {
+      "id": "LSD-47",
+      "name": "USS Rushmore",
+      "hull_number": "LSD-47",
+      "class_name": "Whidbey Island",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Whidbey Island (LSD)"
+    },
+    {
+      "id": "DDG-59",
+      "name": "USS Russell",
+      "hull_number": "DDG-59",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "AGOR-25",
+      "name": "RV Atlantis",
+      "hull_number": "AGOR-25",
+      "class_name": "Thomas G. Thompson",
+      "status": "Support",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Thomas G. Thompson (AGOR)"
+    },
+    {
+      "id": "T-AGOR-26",
+      "name": "RV Kilo Moana",
+      "hull_number": "T-AGOR-26",
+      "class_name": "Kilo Moana",
+      "status": "Support",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Kilo Moana"
+    },
+    {
+      "id": "T-AGOR-27",
+      "name": "RV Neil Armstrong",
+      "hull_number": "T-AGOR-27",
+      "class_name": "Neil Armstrong",
+      "status": "Support",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Neil Armstrong (AGOR)"
+    },
+    {
+      "id": "AGOR-24",
+      "name": "RV Roger Revelle",
+      "hull_number": "AGOR-24",
+      "class_name": "Thomas G. Thompson",
+      "status": "Support",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Thomas G. Thompson (AGOR)"
+    },
+    {
+      "id": "T-AGOR-28",
+      "name": "RV Sally Ride",
+      "hull_number": "T-AGOR-28",
+      "class_name": "Neil Armstrong",
+      "status": "Support",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Neil Armstrong (AGOR)"
+    },
+    {
+      "id": "T-AGOR-23",
+      "name": "RV Thomas G. Thompson",
+      "hull_number": "T-AGOR-23",
+      "class_name": "Thomas G. Thompson",
+      "status": "Support",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Thomas G. Thompson (AGOR)"
+    },
+    {
+      "id": "T-AKE-2",
+      "name": "USNS Sacagawea",
+      "hull_number": "T-AKE-2",
+      "class_name": "Lewis and Clark",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Lewis and Clark (T-AKE)"
+    },
+    {
+      "id": "T-ARS-50",
+      "name": "Safeguard",
+      "hull_number": "T-ARS-50",
+      "class_name": "Safeguard",
+      "status": "Reserve fleet",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Safeguard (T-ARS)"
+    },
+    {
+      "id": "T-ARS-52",
+      "name": "USNS Salvor",
+      "hull_number": "T-ARS-52",
+      "class_name": "Safeguard",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Safeguard (T-ARS)"
+    },
+    {
+      "id": "DDG-102",
+      "name": "USS Sampson",
+      "hull_number": "DDG-102",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "LPD-17",
+      "name": "USS San Antonio",
+      "hull_number": "LPD-17",
+      "class_name": "San Antonio",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "San Antonio (LPD)"
+    },
+    {
+      "id": "LPD-22",
+      "name": "USS San Diego",
+      "hull_number": "LPD-22",
+      "class_name": "San Antonio",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "San Antonio (LPD)"
+    },
+    {
+      "id": "CG-56",
+      "name": "San Jacinto",
+      "hull_number": "CG-56",
+      "class_name": "Ticonderoga",
+      "status": "Reserve fleet",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Ticonderoga (CG)"
+    },
+    {
+      "id": "LCS-32",
+      "name": "USS Santa Barbara",
+      "hull_number": "LCS-32",
+      "class_name": "Independence",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Independence (LCS)"
+    },
+    {
+      "id": "SSN-763",
+      "name": "USS Santa Fe",
+      "hull_number": "SSN-763",
+      "class_name": "Los Angeles",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Los Angeles (SSN)"
+    },
+    {
+      "id": "YTB-824",
+      "name": "Santaquin",
+      "hull_number": "YTB-824",
+      "class_name": "Natick",
+      "status": "Support",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Natick"
+    },
+    {
+      "id": "LCS-28",
+      "name": "USS Savannah",
+      "hull_number": "LCS-28",
+      "class_name": "Independence",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Independence (LCS)"
+    },
+    {
+      "id": "SSN-756",
+      "name": "USS Scranton",
+      "hull_number": "SSN-756",
+      "class_name": "Los Angeles",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Los Angeles (SSN)"
+    },
+    {
+      "id": "SBX-1",
+      "name": "Sea-based X-band Radar",
+      "hull_number": "SBX-1",
+      "class_name": "SBX-1",
+      "status": "Support",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "SBX-1"
+    },
+    {
+      "id": "SSN-21",
+      "name": "USS Seawolf",
+      "hull_number": "SSN-21",
+      "class_name": "Seawolf",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Seawolf (SSN)"
+    },
+    {
+      "id": "T-AKR-302",
+      "name": "USNS Seay",
+      "hull_number": "T-AKR-302",
+      "class_name": "Bob Hope",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Bob Hope (T-AKR)"
+    },
+    {
+      "id": "YT-805",
+      "name": "Seminole",
+      "hull_number": "YT-805",
+      "class_name": "Valiant",
+      "status": "Support",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Valiant"
+    },
+    {
+      "id": "YT-813",
+      "name": "Sentinel",
+      "hull_number": "YT-813",
+      "class_name": "Rainier",
+      "status": "Support",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Rainier"
+    },
+    {
+      "id": "T-AK-3012",
+      "name": "USNS Sgt. William R. Button",
+      "hull_number": "T-AK-3012",
+      "class_name": "2nd Lt. John P. Bobo",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Bobo (T-AK)"
+    },
+    {
+      "id": "CG-67",
+      "name": "Shiloh",
+      "hull_number": "CG-67",
+      "class_name": "Ticonderoga",
+      "status": "Reserve fleet",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Ticonderoga (CG)"
+    },
+    {
+      "id": "ARDM-4",
+      "name": "Shippingport",
+      "hull_number": "ARDM-4",
+      "class_name": "ARDM-4",
+      "status": "Support",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "ARDM-4"
+    },
+    {
+      "id": "DDG-86",
+      "name": "USS Shoup",
+      "hull_number": "DDG-86",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "LCS-11",
+      "name": "Sioux City",
+      "hull_number": "LCS-11",
+      "class_name": "Freedom",
+      "status": "Reserve fleet",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Freedom (LCS)"
+    },
+    {
+      "id": "T-AKR-311",
+      "name": "USNS Sisler",
+      "hull_number": "T-AKR-311",
+      "class_name": "Watson",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Watson (T-AKR)"
+    },
+    {
+      "id": "T-AKR-317",
+      "name": "USNS Soderman",
+      "hull_number": "T-AKR-317",
+      "class_name": "Watson",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Watson (T-AKR)"
+    },
+    {
+      "id": "T-AO-210",
+      "name": "USNS Sojourner Truth",
+      "hull_number": "T-AO-210",
+      "class_name": "John Lewis",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "John Lewis (T-AO)"
+    },
+    {
+      "id": "LPD-25",
+      "name": "USS Somerset",
+      "hull_number": "LPD-25",
+      "class_name": "San Antonio",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "San Antonio (LPD)"
+    },
+    {
+      "id": "SSN-790",
+      "name": "USS South Dakota",
+      "hull_number": "SSN-790",
+      "class_name": "Virginia",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Virginia (SSN)"
+    },
+    {
+      "id": "SSN-761",
+      "name": "USS Springfield",
+      "hull_number": "SSN-761",
+      "class_name": "Los Angeles",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Los Angeles (SSN)"
+    },
+    {
+      "id": "DDG-111",
+      "name": "USS Spruance",
+      "hull_number": "DDG-111",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "T-AK-4544",
+      "name": "MV SSG Edward A. Carter Jr.",
+      "hull_number": "T-AK-4544",
+      "class_name": "SSG Edward A. Carter Jr.",
+      "status": "Support",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "SSG Edward A. Carter Jr."
+    },
+    {
+      "id": "LCS-19",
+      "name": "USS St. Louis",
+      "hull_number": "LCS-19",
+      "class_name": "Freedom",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Freedom (LCS)"
+    },
+    {
+      "id": "DDG-104",
+      "name": "USS Sterett",
+      "hull_number": "DDG-104",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "DDG-63",
+      "name": "USS Stethem",
+      "hull_number": "DDG-63",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "DDG-106",
+      "name": "USS Stockdale",
+      "hull_number": "DDG-106",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "DDG-55",
+      "name": "USS Stout",
+      "hull_number": "DDG-55",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "T-AOE-6",
+      "name": "USNS Supply",
+      "hull_number": "T-AOE-6",
+      "class_name": "Supply",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Supply (T-AOE)"
+    },
+    {
+      "id": "DDG-128",
+      "name": "USS Ted Stevens",
+      "hull_number": "DDG-128",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "SSBN-734",
+      "name": "USS Tennessee",
+      "hull_number": "SSBN-734",
+      "class_name": "Ohio",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Ohio (SSBN / SSGN)"
+    },
+    {
+      "id": "SSN-775",
+      "name": "USS Texas",
+      "hull_number": "SSN-775",
+      "class_name": "Virginia",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Virginia (SSN)"
+    },
+    {
+      "id": "DDG-68",
+      "name": "USS The Sullivans",
+      "hull_number": "DDG-68",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "CVN-71",
+      "name": "USS Theodore Roosevelt",
+      "hull_number": "CVN-71",
+      "class_name": "Nimitz",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Nimitz (CVN)"
+    },
+    {
+      "id": "DDG-116",
+      "name": "USS Thomas Hudner",
+      "hull_number": "DDG-116",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "T-AO-199",
+      "name": "USNS Tippecanoe",
+      "hull_number": "T-AO-199",
+      "class_name": "Henry J. Kaiser",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Henry J. Kaiser (T-AO)"
+    },
+    {
+      "id": "SSN-769",
+      "name": "USS Toledo",
+      "hull_number": "SSN-769",
+      "class_name": "Los Angeles",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Los Angeles (SSN)"
+    },
+    {
+      "id": "LSD-46",
+      "name": "USS Tortuga",
+      "hull_number": "LSD-46",
+      "class_name": "Whidbey Island",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Whidbey Island (LSD)"
+    },
+    {
+      "id": "T-EPF-5",
+      "name": "USNS Trenton",
+      "hull_number": "T-EPF-5",
+      "class_name": "Spearhead",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Spearhead (EPF)"
+    },
+    {
+      "id": "LHA-7",
+      "name": "USS Tripoli",
+      "hull_number": "LHA-7",
+      "class_name": "America",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "America (LHA)"
+    },
+    {
+      "id": "DDG-103",
+      "name": "USS Truxtun",
+      "hull_number": "DDG-103",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "SSN-770",
+      "name": "USS Tucson",
+      "hull_number": "SSN-770",
+      "class_name": "Los Angeles",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Los Angeles (SSN)"
+    },
+    {
+      "id": "LCS-16",
+      "name": "USS Tulsa",
+      "hull_number": "LCS-16",
+      "class_name": "Independence",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Independence (LCS)"
+    },
+    {
+      "id": "YT-800",
+      "name": "Unnamed (ex-Manhattan)",
+      "hull_number": "YT-800",
+      "class_name": "Natick",
+      "status": "Support",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Natick"
+    },
+    {
+      "id": "HST-2",
+      "name": "Unnamed (ex-Puerto Rico))",
+      "hull_number": "HST-2",
+      "class_name": "Puerto Rico",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Puerto Rico"
+    },
+    {
+      "id": "YT-801",
+      "name": "Unnamed (ex-Washtucna)",
+      "hull_number": "YT-801",
+      "class_name": "Natick",
+      "status": "Support",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Natick"
+    },
+    {
+      "id": "T-AG-5001",
+      "name": "USNS VADM K.R. Wheeler",
+      "hull_number": "T-AG-5001",
+      "class_name": "VADM K.R. Wheeler",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "VADM K.R. Wheeler"
+    },
+    {
+      "id": "YT-802",
+      "name": "Valiant",
+      "hull_number": "YT-802",
+      "class_name": "Valiant",
+      "status": "Support",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Valiant"
+    },
+    {
+      "id": "CG-72",
+      "name": "Vella Gulf",
+      "hull_number": "CG-72",
+      "class_name": "Ticonderoga",
+      "status": "Reserve fleet",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Ticonderoga (CG)"
+    },
+    {
+      "id": "SSN-792",
+      "name": "USS Vermont",
+      "hull_number": "SSN-792",
+      "class_name": "Virginia",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Virginia (SSN)"
+    },
+    {
+      "id": "CG-69",
+      "name": "Vicksburg",
+      "hull_number": "CG-69",
+      "class_name": "Ticonderoga",
+      "status": "Reserve fleet",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Ticonderoga (CG)"
+    },
+    {
+      "id": "T-AGOS-19",
+      "name": "USNS Victorious",
+      "hull_number": "T-AGOS-19",
+      "class_name": "Victorious",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Victorious (T-AGOS)"
+    },
+    {
+      "id": "SSN-774",
+      "name": "USS Virginia",
+      "hull_number": "SSN-774",
+      "class_name": "Virginia",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Virginia (SSN)"
+    },
+    {
+      "id": "T-AKE-8",
+      "name": "USNS Wally Schirra",
+      "hull_number": "T-AKE-8",
+      "class_name": "Lewis and Clark",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Lewis and Clark (T-AKE)"
+    },
+    {
+      "id": "YTB-820",
+      "name": "Wanamassa",
+      "hull_number": "YTB-820",
+      "class_name": "Natick",
+      "status": "Support",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Natick"
+    },
+    {
+      "id": "MCM-10",
+      "name": "USS Warrior",
+      "hull_number": "MCM-10",
+      "class_name": "Avenger",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Avenger (MCM)"
+    },
+    {
+      "id": "SSN-787",
+      "name": "USS Washington",
+      "hull_number": "SSN-787",
+      "class_name": "Virginia",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Virginia (SSN)"
+    },
+    {
+      "id": "T-AKE-11",
+      "name": "USNS Washington Chambers",
+      "hull_number": "T-AKE-11",
+      "class_name": "Lewis and Clark",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Lewis and Clark (T-AKE)"
+    },
+    {
+      "id": "LHD-1",
+      "name": "USS Wasp",
+      "hull_number": "LHD-1",
+      "class_name": "Wasp",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Wasp (LHD)"
+    },
+    {
+      "id": "T-AGS-45",
+      "name": "USNS Waters",
+      "hull_number": "T-AGS-45",
+      "class_name": "Waters",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Waters"
+    },
+    {
+      "id": "T-AKR-315",
+      "name": "USNS Watkins",
+      "hull_number": "T-AKR-315",
+      "class_name": "Watson",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Watson (T-AKR)"
+    },
+    {
+      "id": "DDG-108",
+      "name": "USS Wayne E. Meyer",
+      "hull_number": "DDG-108",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "SSBN-736",
+      "name": "USS West Virginia",
+      "hull_number": "SSBN-736",
+      "class_name": "Ohio",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Ohio (SSBN / SSGN)"
+    },
+    {
+      "id": "T-AGSE-2",
+      "name": "USNS Westwind",
+      "hull_number": "T-AGSE-2",
+      "class_name": "Black Powder",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Black Powder"
+    },
+    {
+      "id": "LCS-13",
+      "name": "USS Wichita",
+      "hull_number": "LCS-13",
+      "class_name": "Freedom",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Freedom (LCS)"
+    },
+    {
+      "id": "T-AKE-12",
+      "name": "USNS William McLean",
+      "hull_number": "T-AKE-12",
+      "class_name": "Lewis and Clark",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Lewis and Clark (T-AKE)"
+    },
+    {
+      "id": "DDG-110",
+      "name": "USS William P. Lawrence",
+      "hull_number": "DDG-110",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "DDG-81",
+      "name": "USS Winston S. Churchill",
+      "hull_number": "DDG-81",
+      "class_name": "Arleigh Burke",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Arleigh Burke (DDG)"
+    },
+    {
+      "id": "T-AVB-3",
+      "name": "SS Wright",
+      "hull_number": "T-AVB-3",
+      "class_name": "Wright",
+      "status": "Ready Reserve Force",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Wright"
+    },
+    {
+      "id": "SSBN-742",
+      "name": "USS Wyoming",
+      "hull_number": "SSBN-742",
+      "class_name": "Ohio",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Ohio (SSBN / SSGN)"
+    },
+    {
+      "id": "T-AO-202",
+      "name": "USNS Yukon",
+      "hull_number": "T-AO-202",
+      "class_name": "Henry J. Kaiser",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Henry J. Kaiser (T-AO)"
+    },
+    {
+      "id": "T-EPF-8",
+      "name": "USNS Yuma",
+      "hull_number": "T-EPF-8",
+      "class_name": "Spearhead",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Spearhead (EPF)"
+    },
+    {
+      "id": "T-ARC-7",
+      "name": "USNS Zeus",
+      "hull_number": "T-ARC-7",
+      "class_name": "Zeus",
+      "status": "Non-commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Zeus (T-ARC)"
+    },
+    {
+      "id": "DDG-1000",
+      "name": "USS Zumwalt",
+      "hull_number": "DDG-1000",
+      "class_name": "Zumwalt",
+      "status": "Commissioned",
+      "source": "https://en.wikipedia.org/wiki/List_of_current_ships_of_the_United_States_Navy",
+      "ship_class": "Zumwalt (DDG)"
+    }
+  ]
+}

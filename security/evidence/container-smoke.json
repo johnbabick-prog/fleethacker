@@ -1,0 +1,17 @@
+{
+  "tested_at": "2026-11-05T14:23:40.945322+00:00",
+  "image": "fleet-tech:security-demo",
+  "network_mode": "none",
+  "scope": "Application only; no inference server/model or fleet sync transport tested",
+  "status": "passed",
+  "image_id": "sha256:32fb33f5ebba74a9163d769c96a0ff2ca838491e6c3cd3ccb812176e382e46fd",
+  "startup_seconds": 0.734,
+  "checks": {
+    "non_root": true,
+    "root_filesystem_read_only": true,
+    "completion_saved": true,
+    "event_payload_encrypted": true,
+    "device_key_mode": "0600",
+    "meter_optional": true
+  }
+}

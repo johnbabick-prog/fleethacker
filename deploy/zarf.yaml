@@ -1,0 +1,18 @@
+# Candidate definition only. Build/deploy with Zarf and UDS Core before claiming validation.
+kind: ZarfPackageConfig
+metadata:
+  name: fleet-tech
+  version: 0.1.0-demo
+  description: Fleet Tech application only; inference model and runtime not bundled
+components:
+  - name: fleet-tech
+    required: true
+    charts:
+      - name: fleet-tech
+        version: 0.1.0
+        namespace: fleet-tech
+        localPath: chart
+        valuesFiles:
+          - uds-values.yaml
+    images:
+      - fleet-tech:demo

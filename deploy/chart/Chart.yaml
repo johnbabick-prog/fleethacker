@@ -1,0 +1,6 @@
+apiVersion: v2
+name: fleet-tech
+version: 0.1.0
+appVersion: 0.1.0-demo
+description: Fleet Tech deployment candidate; not operationally authorized
+type: application

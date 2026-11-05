@@ -1,0 +1,106 @@
+{
+  "scope": "Named Navy ship and submarine classes, including MSC support classes and selected future and legacy classes. Not an authoritative readiness inventory; add a custom class if missing.",
+  "sources": [
+    "https://www.navsea.navy.mil/Resources/Naval-Vessel-Register/",
+    "https://www.msc.usff.navy.mil/Ships/Ship-Inventory/",
+    "https://en.wikipedia.org/wiki/List_of_equipment_of_the_United_States_Navy"
+  ],
+  "groups": {
+    "Ship types": [
+      "CVN",
+      "CG",
+      "DDG",
+      "LCS",
+      "SSN",
+      "SSBN",
+      "SSGN",
+      "MCM",
+      "T-AKE",
+      "T-AO",
+      "T-AS",
+      "LCC",
+      "T-ESB",
+      "AS"
+    ],
+    "Aircraft carriers": [
+      "Gerald R. Ford (CVN)",
+      "Nimitz (CVN)"
+    ],
+    "Surface combatants": [
+      "Arleigh Burke (DDG)",
+      "Zumwalt (DDG)",
+      "Ticonderoga (CG)",
+      "Freedom (LCS)",
+      "Independence (LCS)",
+      "Constellation (FFG \u2014 future)"
+    ],
+    "Amphibious and command": [
+      "America (LHA)",
+      "Wasp (LHD)",
+      "San Antonio (LPD)",
+      "Whidbey Island (LSD)",
+      "Harpers Ferry (LSD)",
+      "Blue Ridge (LCC)"
+    ],
+    "Submarines": [
+      "Los Angeles (SSN)",
+      "Seawolf (SSN)",
+      "Virginia (SSN)",
+      "Ohio (SSBN / SSGN)",
+      "Columbia (SSBN \u2014 future)"
+    ],
+    "Mine warfare and tenders": [
+      "Avenger (MCM)",
+      "Emory S. Land (AS)"
+    ],
+    "Expeditionary": [
+      "Spearhead (EPF)",
+      "Montford Point (ESD)",
+      "Lewis B. Puller (ESB)"
+    ],
+    "Logistics and medical": [
+      "Henry J. Kaiser (T-AO)",
+      "John Lewis (T-AO)",
+      "Supply (T-AOE)",
+      "Lewis and Clark (T-AKE)",
+      "Mercy (T-AH)",
+      "Bethesda (EMS \u2014 future)"
+    ],
+    "Sealift and prepositioning": [
+      "Bob Hope (T-AKR)",
+      "Watson (T-AKR)",
+      "Gordon (T-AKR)",
+      "Shughart (T-AKR)",
+      "Bobo (T-AK)",
+      "Aviation logistics support (T-AVB)"
+    ],
+    "Special mission and support": [
+      "Victorious (T-AGOS)",
+      "Impeccable (T-AGOS)",
+      "Pathfinder (T-AGS)",
+      "Thomas G. Thompson (AGOR)",
+      "Neil Armstrong (AGOR)",
+      "Safeguard (T-ARS)",
+      "Powhatan (T-ATF)",
+      "Navajo (T-ATS)",
+      "Zeus (T-ARC)",
+      "Howard O. Lorenzen (T-AGM)",
+      "Loyal (T-AGOS / special mission)"
+    ],
+    "Legacy and historic": [
+      "Oliver Hazard Perry (FFG \u2014 legacy)",
+      "Spruance (DD \u2014 legacy)",
+      "Kidd (DDG \u2014 legacy)",
+      "Tarawa (LHA \u2014 legacy)",
+      "Austin (LPD \u2014 legacy)",
+      "Newport (LST \u2014 legacy)",
+      "Iowa (BB \u2014 historic)",
+      "Enterprise (CVN-65 \u2014 legacy)",
+      "Kitty Hawk (CV \u2014 legacy)",
+      "Forrestal (CV \u2014 legacy)",
+      "Cyclone (PC \u2014 legacy)",
+      "Constitution (historic frigate)",
+      "Banner (AGER \u2014 historic)"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "generated_at": "2026-11-05T14:23:51.561430+00:00",
+  "image": "fleet-tech:security-demo",
+  "stages": [
+    {
+      "name": "build",
+      "status": "completed",
+      "exit_code": 0
+    },
+    {
+      "name": "smoke",
+      "status": "completed",
+      "exit_code": 0
+    },
+    {
+      "name": "scan",
+      "status": "completed",
+      "exit_code": 0
+    },
+    {
+      "name": "http-probes",
+      "status": "completed",
+      "exit_code": 1
+    },
+    {
+      "name": "report",
+      "status": "completed",
+      "exit_code": 0
+    }
+  ],
+  "status": "findings",
+  "image_id": "sha256:32fb33f5ebba74a9163d769c96a0ff2ca838491e6c3cd3ccb812176e382e46fd",
+  "image_findings": {
+    "HIGH": 52,
+    "LOW": 63,
+    "MEDIUM": 74,
+    "UNKNOWN": 6
+  },
+  "bandit_findings": 8,
+  "http_checks": 21,
+  "http_findings": 4
+}
