@@ -11,3 +11,7 @@ node_modules/
 .security-venv/
 security/evidence/*.tar
 security/evidence/*-cache/
+
+deploy/windows/api_key.txt
+deploy/windows/fleethacker-image.tar
+deploy/windows/FleetTech-Windows.zip

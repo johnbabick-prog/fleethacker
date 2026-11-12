@@ -1,5 +1,5 @@
 """Encrypted equipment-document repository and page-cited local text retrieval."""
-import base64,hashlib,io,re,uuid
+import base64,hashlib,io,re,uuid,math
 import pymupdf
 from functools import lru_cache
 from collections import Counter
@@ -38,6 +38,8 @@ def ingest(content,name,item,scope,revision):
         c.execute('INSERT INTO equipment_documents VALUES (?,?)',(doc['id'],store.seal(doc)))
         event={'id':str(uuid.uuid4()),'kind':'equipment_document_uploaded','time':store.now(),'distribution':{'scope':scope,'ship_id':item['ship_id'] if scope=='ship' else None,'ship_class':item['ship_class'],'model_id':item['id']},'document':doc}
         c.execute('INSERT INTO events(id,payload) VALUES (?,?)',(event['id'],store.seal(event)))
+    from .manual_analysis import start
+    start(doc['id'])
     return public(doc)
 
 @router.get('/api/equipment-documents')
@@ -118,17 +120,33 @@ def page_image(doc_id:str,page_number:int):
     return Response(png,media_type='image/png',headers={'Cache-Control':'no-store','X-Content-Type-Options':'nosniff'})
 
 
+def search_terms(query):
+    return set(re.findall(r'[a-z0-9]{3,}',query.lower()))-{'the','and','what','how','this','that','for','with','does','are','can','you','its','from','have','has','was','were','not','which','about','give','please','summarize','describe','basic','uploaded','manual','system','identify','steps','synthetic','demo','cite','pages','under','words','keep','answer'}
+
 def retrieve(ship_id,equipment_id,query,documents=None):
-    terms=set(re.findall(r'[a-z0-9]{3,}',query.lower()))-{'the','and','what','how','this','that','for','with','does','are','can','you'}
-    hits=[]
+    terms=search_terms(query);chunks=[]
+    explanation=bool(re.match(r'^(?:please\s+)?(?:what (?:is|are)\b|what does .+ mean\b|define\b|explain\b)',query.strip(),re.I))
     for d in (matching(ship_id,equipment_id) if documents is None else documents):
         for page in d['pages']:
             for offset in range(0,len(page['text']),2000):
                 excerpt=page['text'][offset:offset+2400]
-                score=sum(min(excerpt.lower().count(term),5) for term in terms)
-                if score:hits.append((score,{'citation':f"PDF-{d['id']}-p{page['page']}",'source':d['name']+' · page '+str(page['page'])+' · revision '+d['revision'],'title':d['equipment_name'],'excerpt':excerpt,'document_id':d['id'],'page':page['page'],'image_url':f"/api/equipment-documents/{d['id']}/pages/{page['page']}/image",'download_url':'/api/equipment-documents/'+d['id']+'/file'}))
+                chunks.append((d,page['page'],excerpt))
+    frequencies={term:sum(term in excerpt.lower() for _,_,excerpt in chunks) for term in terms}
+    hits=[]
+    for d,page,excerpt in chunks:
+        lower=excerpt.lower()
+        score=sum((1+math.log((1+len(chunks))/(1+frequencies[term])))*min(lower.count(term),3) for term in terms)
+        if explanation and terms and all(term in lower for term in terms):
+            if re.search(r'\b(operation|operational|description|function|overview)\b',lower):score+=8
+            if 'troubleshooting' in lower:score-=2
+        if 'maintenance' in terms:
+            # Prefer the actual maintenance section over a table-of-contents entry.
+            if 'annual maintenance' in lower and len(excerpt)>700:score+=10
+            if 'care and maintenance' in lower and len(excerpt)>700:score+=10
+        if score:hits.append((score,{'citation':f"PDF-{d['id']}-p{page}",'source':d['name']+' · PDF page '+str(page)+' · revision '+d['revision'],'title':d['equipment_name'],'excerpt':excerpt,'document_id':d['id'],'page':page,'image_url':f"/api/equipment-documents/{d['id']}/pages/{page}/image",'download_url':'/api/equipment-documents/'+d['id']+'/file'}))
     hits.sort(key=lambda x:x[0],reverse=True)
     return [r for _,r in hits[:5]]
+
 
 
 @router.get('/api/ships/{ship_id}/equipment-document-manifest')

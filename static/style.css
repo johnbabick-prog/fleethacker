@@ -106,3 +106,133 @@
 #today-schedule-menu #today-schedule{margin:0;border:0;border-top:1px solid #344553;border-radius:0}.schedule-menu-caption{font-size:12px;font-weight:400;color:#a9b9c7;margin-left:10px}
 
 #equipment-options .equipment-workload{display:block;width:fit-content;margin:7px 0;padding:3px 8px;border-radius:5px;background:#1c393b;color:#8ce6cc;font-size:12px;line-height:1.5}
+
+/* Page 03 hosts the same live chat node; no duplicate transcript or request state. */
+.chat-toolbar{display:flex;gap:8px;flex-wrap:wrap}
+.chat-heading #chat-job-context{font-size:12px;color:#86deca;margin:4px 0 12px}
+body.chat-expanded>main{margin-right:0;padding-bottom:20px;width:calc(100% - var(--left-pane-width,245px))}
+body.chat-expanded .pane-divider-right{display:none}
+#assistant .chat-pane{position:relative;inset:auto;width:100%;height:calc(100dvh - 105px);min-height:480px;max-width:1200px;margin:18px auto 0;border:1px solid #344553;border-radius:12px;overflow:hidden;z-index:auto}
+#assistant .chat-heading{padding:20px 28px}
+#assistant .chat-heading h2{font-size:28px}
+#assistant #chat-messages,#assistant #step-coach{max-width:960px;margin-left:auto;margin-right:auto}
+#assistant #chat-messages{padding:24px 28px}
+#assistant .chat-message{padding:20px 24px}
+#assistant .chat-message.user{max-width:85%;margin-left:auto;background:#193b3b}
+#assistant .chat-message p{font-size:18px;line-height:1.75}
+#assistant #side-chat{padding:16px 28px 20px}
+#assistant #side-chat>label,#assistant #chat-input,#assistant #side-chat>.actions{max-width:904px;margin-left:auto;margin-right:auto}
+#assistant #chat-input{display:block;min-height:105px;font-size:17px;resize:vertical}
+#assistant .chat-heading button{font-size:14px;min-height:42px}
+@media(min-width:601px) and (max-width:1100px){body.chat-expanded>main{width:calc(100% - 190px)}}
+@media(max-width:600px){body.chat-expanded>main{width:100%}#assistant .chat-pane{height:80dvh;min-height:480px;margin-top:10px}#assistant .chat-heading,#assistant #side-chat{padding:16px}#assistant #chat-messages{padding:16px}#assistant .chat-message{padding:14px}#assistant .chat-message.user{max-width:95%}}
+@media(min-width:951px) and (max-width:1100px){body.chat-expanded>main{width:calc(100% - 245px);margin-left:245px}}
+
+#saved-chats{margin-top:12px}#saved-chats summary{font-size:13px}#saved-chat-select{width:100%;border-radius:6px;margin:8px 0 12px}#saved-chats .chat-toolbar{margin-bottom:10px}.chat-heading #chat-save-status{font-size:12px;margin:8px 0;color:#93a8b9}
+
+.chat-heading #chat-thread-title{font-weight:600;color:#e6edf3;margin:8px 0;font-size:16px}
+.chat-page-links{display:flex;gap:8px;flex-wrap:wrap;margin:14px 0}.chat-page-links small{width:100%}.chat-page-links button{font-size:13px;padding:8px 12px;color:#8ce6cc}
+.inline-page-link{display:inline;padding:2px 6px;font-size:inherit;color:#8ce6cc;text-decoration:underline;vertical-align:baseline}
+#cited-pdf-dialog{width:96vw;max-width:1600px;height:94dvh;max-height:94dvh;padding:12px;box-sizing:border-box;overflow:hidden}
+#cited-pdf-dialog[open]{display:flex;flex-direction:column}
+.cited-pdf-header{display:flex;justify-content:space-between;align-items:center;gap:16px;background:#111e29;flex-shrink:0;padding:4px 0 10px}
+.cited-pdf-header h2{font-size:18px}.cited-pdf-header button{flex-shrink:0}
+#cited-pdf-dialog .actions{flex-wrap:wrap}
+
+/* Keep chat controls compact so the transcript owns the available height. */
+.chat-pane .chat-heading,#assistant .chat-heading{position:relative;display:flex;align-items:center;gap:10px;flex-wrap:wrap;padding:10px 14px}
+.chat-pane .chat-heading h2,#assistant .chat-heading h2{font-size:20px;line-height:1.2;margin:0;white-space:nowrap}
+.chat-pane .chat-toolbar{display:flex;gap:6px;margin:0;flex-wrap:wrap}
+.chat-pane .chat-heading button,#assistant .chat-heading button{font-size:12px;min-height:32px;padding:6px 9px;margin:0}
+.chat-pane #saved-chats,.chat-pane #chat-details{margin:0}
+.chat-pane #saved-chats>summary,.chat-pane #chat-details>summary{font-size:12px;white-space:nowrap;cursor:pointer;padding:7px 0}
+.chat-context-popover,#saved-chats[open]{position:absolute;top:calc(100% - 4px);right:12px;width:min(480px,calc(100% - 24px));background:#101c27;border:1px solid #45606e;border-radius:8px;padding:14px;box-shadow:0 8px 24px #0008;z-index:15;max-height:50vh;overflow:auto}
+#saved-chats[open]>summary{margin-bottom:8px}
+.chat-pane #side-chat,#assistant #side-chat{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:6px 10px;align-items:end;padding:10px 14px}
+.chat-pane #side-chat>label{position:absolute;width:1px;height:1px;padding:0;overflow:hidden;clip-path:inset(50%);white-space:nowrap}
+.chat-pane #chat-input,#assistant #chat-input{box-sizing:border-box;display:block;width:100%;max-width:none;margin:0;min-height:44px;height:44px;max-height:160px;padding:9px 12px;font-size:16px;line-height:24px;resize:none;overflow-y:auto}
+.chat-pane #side-chat>.actions,#assistant #side-chat>.actions{display:contents}
+.chat-pane #side-chat button{grid-column:2;grid-row:1;margin:0;min-height:44px;padding:9px 14px}
+.chat-pane #chat-status{grid-column:1 / -1;grid-row:2;font-size:11px;line-height:1.2;margin:0}
+#assistant .chat-heading{flex-wrap:nowrap}
+#assistant .chat-heading>.chat-toolbar{flex-wrap:nowrap;margin-left:auto}
+@media(max-width:900px){#assistant .chat-heading{flex-wrap:wrap}#assistant .chat-heading>.chat-toolbar{margin-left:0;flex-wrap:wrap}}
+
+#new-event-fields{border:0;padding:0;margin:0;min-width:0}#new-event-description{min-height:70px}
+
+.manual-library-toolbar{display:flex;align-items:end;gap:12px;margin:12px 0}.manual-library-toolbar label{flex:1;margin:0}.manual-library-toolbar input{margin-bottom:0}.manual-library-toolbar button{margin:0;font-size:14px;padding:12px}
+#equipment-document-list .manual-card{padding:16px;margin:12px 0}#equipment-document-list .manual-card>a{font-size:17px;font-weight:600}#equipment-document-list .manual-card>p{margin:6px 0;font-size:13px}#equipment-document-list .manual-card>small{font-size:12px}
+.manual-disclosure{margin-top:12px;padding:10px 0;border-top:1px solid #344553}.manual-disclosure>summary,.manual-card>.pdf-viewer>summary{font-size:14px;cursor:pointer}.manual-card>.pdf-viewer{margin-top:10px}.manual-card .analysis-status{font-size:13px}#manual-upload-panel form{padding-top:12px}#equipment-document-search-status:empty{display:none}
+@media(max-width:700px){.manual-library-toolbar{align-items:stretch;flex-direction:column}}
+
+.workspace-topbar{display:flex;align-items:center;justify-content:space-between;gap:16px;flex-wrap:wrap}.workspace-topbar h2{margin:0}.workspace-topbar button{margin:0;white-space:nowrap}
+
+/* Consistent disclosure arrows for every job-workspace section. */
+#procedure>details{padding:0 20px;margin:20px 0}
+#procedure>details>summary{position:relative;display:flex;align-items:center;justify-content:flex-start;gap:12px;list-style:none;padding:18px 0 18px 20px;font-size:14px;font-weight:600}
+#procedure>details>summary::-webkit-details-marker{display:none}
+#procedure>details>summary::marker{content:''}
+#procedure>details>summary::before{content:'▸';position:absolute;left:0;top:50%;transform:translateY(-50%);font-size:16px;line-height:1;color:currentColor}
+#procedure>details[open]>summary::before{content:'▾'}
+#procedure>details>summary::after{content:none}
+#procedure>#job-draft-panel>summary span{margin-left:auto}
+
+.pdf-selectors{display:flex;gap:14px;flex-wrap:wrap;align-items:center;margin:12px 0}
+.pdf-selectors label{display:flex;gap:8px;align-items:center;margin:0;font-size:13px}
+.pdf-selectors select{width:auto;max-width:100%;padding:6px 10px;font-size:13px}
+.pdf-viewer-body .pdf-find{display:flex;gap:10px;align-items:end;margin:10px 0 12px}
+.pdf-viewer-body .pdf-find label{flex:1;min-width:0;margin:0;font-size:13px}
+.pdf-viewer-body .pdf-find input{margin:5px 0 0;padding:9px 12px}
+.pdf-viewer-body .pdf-find button{margin:0;padding:10px 14px;white-space:nowrap;font-size:13px}
+.pdf-navigation{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin:12px 0 8px}
+.pdf-navigation button{font-size:14px;padding:8px 14px;margin:0}
+.pdf-navigation a{font-size:13px;margin-left:auto}.pdf-navigation .pdf-image-status{font-size:12px;color:#93a8b9}.pdf-image-status:empty{display:none}
+.pdf-viewer-body .pdf-image-scroll{margin-top:0}
+@media(max-width:600px){.pdf-selectors label{max-width:100%}.pdf-selectors select{min-width:0}.pdf-viewer-body .pdf-find{align-items:stretch;flex-direction:column}.pdf-navigation a{margin-left:0}}
+
+#recent-completed{padding:0 20px;max-height:420px;overflow-y:auto}#recent-completed-count{font-size:13px}
+
+#work #jobs{max-height:none;overflow:visible}.work-order-submenu>summary{padding:14px 18px;font-size:14px;font-weight:600;border-bottom:1px solid #344553}.work-order-sublist{max-height:672px;overflow-y:auto;overscroll-behavior:contain;scrollbar-gutter:stable}
+.sailor-picker{position:relative;min-width:0}.sailor-picker input{padding-right:42px!important;margin-bottom:0!important}.sailor-picker-toggle{position:absolute;right:3px;top:11px;padding:8px 10px;background:transparent;border:0;color:#86deca}.sailor-choices{position:absolute;top:100%;left:0;right:0;z-index:25;max-height:260px;overflow-y:auto;background:#101e28;border:1px solid #496373;border-radius:6px;box-shadow:0 8px 20px #0007}.sailor-choices button{display:block;width:100%;text-align:left;margin:0;padding:11px 14px;border:0;border-radius:0;background:transparent}.sailor-choices button:hover,.sailor-choices button.active{background:#224540}.sailor-choices button[aria-selected="true"]{color:#8ce6cc;font-weight:600}.sailor-choices p{padding:10px 14px;margin:0;font-size:13px}
+
+#troubleshooting-panel.needs-review{border:2px solid #e8bd66;box-shadow:0 0 0 3px #e8bd6622}#findings-review-banner{margin:12px 0;padding:14px;border-left:4px solid #e8bd66;background:#302b20;color:#f5dba7;line-height:1.5}#findings-review-check{padding:12px;background:#172f30}#findings-review-check input{margin-right:8px}
+
+#troubleshooting-results{max-height:420px}.solution-count{position:sticky;top:0;margin:0;padding:10px 0;background:#101a24;font-size:12px;z-index:1}.solution-record{border:1px solid #344553;border-radius:6px;margin:8px 0}.solution-record>summary{position:relative;list-style:none;padding:12px 14px 12px 30px;line-height:1.4}.solution-record>summary::-webkit-details-marker{display:none}.solution-record>summary::before{content:'▸';position:absolute;left:12px}.solution-record[open]>summary::before{content:'▾'}.solution-title{display:block;font-size:14px;font-weight:600}.solution-meta{display:block;font-size:12px;color:#a9b9c7;margin-top:4px}.solution-body{padding:0 14px 14px;border-top:1px solid #344553}.solution-body p{font-size:13px;margin:10px 0}.solution-links{display:flex;gap:8px;flex-wrap:wrap;margin:10px 0}.solution-links button{font-size:12px;padding:7px 10px}
+
+/* Cited pages fit the remaining popup area, including when the window resizes. */
+#cited-pdf-content{flex:1;min-height:0;min-width:0;position:relative}
+#cited-pdf-dialog .pdf-viewer{position:absolute;inset:0;margin:0;padding:0;border:0}
+#cited-pdf-dialog .pdf-viewer>summary{display:none}
+#cited-pdf-dialog .pdf-viewer-body{height:100%;min-height:0;display:grid;grid-template-rows:auto auto auto auto minmax(0,1fr)}
+#cited-pdf-dialog .pdf-selectors{margin:0;gap:12px}
+#cited-pdf-dialog .pdf-find{margin:6px 0;flex-direction:row;align-items:end}
+#cited-pdf-dialog .pdf-find-results{max-height:15dvh;overflow:auto}
+#cited-pdf-dialog .pdf-navigation{margin:4px 0 8px}
+#cited-pdf-dialog .pdf-image-scroll{position:relative;min-height:0;max-height:none;overflow:hidden;background:#09121a}
+#cited-pdf-dialog .pdf-page-image{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;object-position:center;min-height:0}
+#cited-pdf-dialog .cited-pdf-header h2{margin:0;overflow-wrap:anywhere}
+@media(max-width:600px){#cited-pdf-dialog{width:98vw;height:98dvh;max-height:98dvh;padding:8px}#cited-pdf-dialog .pdf-selectors{gap:4px}#cited-pdf-dialog .pdf-selectors label{min-width:0;flex:1}#cited-pdf-dialog .pdf-selectors select{width:100%;min-width:0}#cited-pdf-dialog .pdf-find label{font-size:12px}#cited-pdf-dialog .cited-pdf-header h2{font-size:14px}}
+
+/* Floating manual reference: non-modal, page-shaped and movable above the workspace. */
+#cited-pdf-dialog{position:fixed;inset:auto;margin:0;left:16px;top:16px;width:min(560px,calc(100vw - 16px));max-width:calc(100vw - 16px);height:90dvh;max-height:calc(100dvh - 16px);z-index:1000;padding:10px;box-shadow:0 12px 48px #0009}
+#cited-pdf-dialog .cited-pdf-header{cursor:move;touch-action:none;user-select:none;gap:8px}
+#cited-pdf-dialog .cited-pdf-header h2{font-size:14px}
+#cited-pdf-dialog .cited-pdf-header button{font-size:12px;padding:7px 10px}
+#cited-pdf-dialog .pdf-selectors{flex-wrap:nowrap;gap:8px}
+#cited-pdf-dialog .pdf-selectors label{min-width:0;flex:1;font-size:12px}
+#cited-pdf-dialog .pdf-selectors select{min-width:0;width:100%;font-size:12px;padding:5px}
+#cited-pdf-dialog .pdf-find label{font-size:12px}
+#cited-pdf-dialog .pdf-find input{font-size:12px;padding:6px 8px}
+#cited-pdf-dialog .pdf-find button,#cited-pdf-dialog .pdf-navigation button{font-size:12px;padding:6px 8px}
+#cited-pdf-dialog .pdf-navigation a{font-size:11px}
+
+.manual-card .manual-analysis{margin:8px 0 0}.manual-card .analysis-status{font-size:13px;color:#9db3c4;margin:6px 0}.manual-card .manual-analysis>button{font-size:12px;padding:6px 10px;margin:4px 0}.manual-card .manual-analysis>details{margin-top:8px;font-size:12px}
+
+#manual-print-page{display:none}
+@media print{
+ @page{margin:10mm}
+ body{display:block!important;margin:0!important;padding:0!important;background:white!important}
+ body>*:not(#manual-print-page){display:none!important}
+ #manual-print-page{display:block!important;position:fixed;inset:0;background:white}
+ #manual-print-page img{display:block;width:100%;height:100%;object-fit:contain}
+}

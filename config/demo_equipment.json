@@ -106,6 +106,19 @@
       "demo_part_id": "DEMO-PART-008",
       "demo_part_name": "Synthetic test kit \u2014 IPS",
       "demo_required": 2
+    },
+    {
+      "id": "water-cooler",
+      "name": "Fortis 5000 DS remote teller system",
+      "work_center": "Electrical",
+      "ship_class": "Arleigh Burke (DDG)",
+      "source": "",
+      "applicability": "Demo asset identified from the uploaded Fortis 5000 DS installation and service manual; not a verified shipboard installation.",
+      "demo_location": "Demo teller station \u2014 location to confirm",
+      "scenario": "unknown",
+      "demo_part_id": "DEMO-WC-SERVICE-KIT",
+      "demo_part_name": "Fortis 5000 DS service parts \u2014 identify from uploaded manual",
+      "demo_required": 1
     }
   ]
 }

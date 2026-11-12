@@ -138,3 +138,23 @@ Checklist navigation immediately updates the chat panel's current-step instructi
 ## Deployment candidate and security evidence
 
 The repository now includes a non-root Dockerfile, hash-locked Python dependencies, a Helm chart, a draft Zarf/UDS package definition, and a non-submittable Iron Bank manifest example. Actual local scan reports and disconnected smoke-test evidence are generated under `security/evidence`; see [security/READINESS.md](security/READINESS.md) for commands, findings and remaining gates. Open **06 Deckplate impact → View security scans & deployment evidence** for the demo. This is not Iron Bank acceptance, UDS validation or operational authorization.
+
+
+### Local whole-manual text analysis
+
+Equipment PDF uploads now queue a background analysis on the configured loopback model (`HATCH_LLM_URL`, `HATCH_MODEL`). Existing PDFs have an **Analyze entire manual locally** button inside Equipment manuals & schematics. The analyzer visits every extracted-text page, splits long text into bounded batches, validates returned page references, and stores encrypted per-batch system notes in SQLite. The panel displays batch/page progress and links each fact to its original page image. Interrupted/failed analysis can resume from saved batches; incomplete coverage is reported explicitly.
+
+Job questions use these persistent overviews plus symptom-relevant notes and original page excerpts. Prompt context is bounded for the current 8K model; this is retrieval from a local knowledge base, not model-weight training. The **Ask HATCH for manual-based steps** button produces a cited proposal in chat; it does not overwrite the checklist or completed steps. Editing a corrective report and submitting it again updates the symptom used for retrieval.
+
+Analysis is text-only. Pages without extracted text require OCR; diagram connectivity and photos are not interpreted. Model-generated notes and suggestions require verification against the cited manual and the actual equipment configuration. All analysis requests stay on loopback; there is no cloud inference fallback. A configured vision model and additional diagram validation remain future work.
+
+### Saved HATCH conversations
+
+The shared page-02/page-03 chat saves questions before inference and saves final answers, citations, timestamps, and work-order/sailor/equipment context in encrypted local SQLite records. The browser retains only the last conversation ID and view preference. Refresh restores that conversation and its work order; **Saved conversations** reopens older discussions and downloads a text transcript. **New conversation** keeps previous transcripts. Assignment transfers retain existing discussion history and snapshot the new owner on subsequent messages. Interrupted/failed answers are labeled and excluded from successful-answer context. Earlier browser-only conversations cannot be reconstructed after a refresh.
+
+
+### Troubleshooting memory from conversations
+
+HATCH retrieves completed discussion turns from the same equipment model and named ship class when a new problem is reported. It cites the prior conversation and keeps assistant suggestions explicitly separate from technician observations and recorded outcomes. The current conversation, failed/interrupted answers, unrelated models, and unrelated ship classes are excluded from this retrieval.
+
+Use **Record troubleshooting outcome** in chat to enter actions actually taken, the result, and a resolution status. Saving the troubleshooting report captures an immutable snapshot of matching conversations (including source references and original participant/equipment context), alongside photos and procedure progress. Later messages do not rewrite that report. Report snapshots are encrypted locally and included in the existing synchronization queue. This is a growing retrieval knowledge base, not automatic model-weight training or independent certification of a repair.

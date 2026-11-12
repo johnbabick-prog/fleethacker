@@ -4,6 +4,7 @@ import pymupdf as fitz
 from fastapi import APIRouter,HTTPException,Query,Request
 from fastapi.responses import Response
 from pydantic import BaseModel,Field
+from typing import Literal
 from . import store
 from .workspace import read
 router=APIRouter()
@@ -15,20 +16,21 @@ def records(ship_class,query=''):
     if not ship_class or ship_class in SHIP_TYPES:return []
     with store.connect() as c:rows=[store.unseal(r[0]) for r in c.execute('SELECT payload FROM troubleshooting ORDER BY rowid DESC')]
     words=query.lower().split()
-    return [r for r in rows if r['ship_class']==ship_class and all(w in (' '.join([r['equipment'],r['symptom'],r['actions_taken'],r['outcome']])).lower() for w in words)][:50]
+    return [r for r in rows if r['ship_class']==ship_class and all(w in (' '.join([r['equipment'],r['symptom'],r['actions_taken'],r['outcome']])).lower() for w in words)]
 def similar_records(ship_class,query,equipment_id=''):
-    # Rank local evidence by shared terms; never invent a resolved outcome.
-    ignored={'the','and','this','that','with','from','have','has','was','were','for','what','when','does','not','are','you','our','any','past','reports','problem'}
-    terms=set(re.findall(r'[a-z0-9]+',query.lower()))-ignored
-    terms={t for t in terms if len(t)>2 or any(c.isdigit() for c in t)}
-    ranked=[]
+    from .symptom_matching import match
+    ranked=[];seen=set()
     for row in records(ship_class):
-        words=set(re.findall(r'[a-z0-9]+',' '.join(row.get(k,'') for k in ('equipment','symptom','actions_taken','outcome')).lower()))
-        hits=len(terms & words)
-        if terms and not hits:continue
+        key=row['id']
+        if key in seen:continue
+        seen.add(key)
         same_model=bool(equipment_id and row.get('equipment_id','').split('::')[-1]==equipment_id.split('::')[-1])
-        ranked.append((hits+int(same_model),row))
-    return [r for _,r in sorted(ranked,key=lambda x:x[0],reverse=True)][:10]
+        if equipment_id and not same_model:continue
+        score,reason=match(query,row.get('symptom',''),row.get('equipment',''))
+        if not score:continue
+        ranked.append((score+int(same_model)+int(row.get('resolution_status')=='resolved'),{**row,'match_reason':reason}))
+    return [r for _,r in sorted(ranked,key=lambda x:x[0],reverse=True)]
+
 
 def photos(job_id):
     with store.connect() as c:rows=[store.unseal(r[0]) for r in c.execute('SELECT payload FROM problem_photos WHERE job_id=?',(job_id,))]
@@ -71,6 +73,7 @@ def get_photo(photo_id:str):
 
 class Publish(BaseModel):
     draft_version:int=Field(ge=0)
+    resolution_status:Literal['resolved','unresolved','not_verified']='not_verified'
 @router.get('/api/troubleshooting')
 def history(ship_class:str=Query(max_length=120),q:str=Query(default='',max_length=3000),similar:bool=False,equipment_id:str=Query(default='',max_length=200)):
     return similar_records(ship_class,q,equipment_id) if similar else records(ship_class,q)
@@ -85,6 +88,11 @@ def publish(job_id:str,body:Publish):
     job=next(j for j in store.jobs() if j['id']==job_id)
     progress=store.session(job_id)
     record={**{k:draft[k] for k in required},'id':str(uuid.uuid4()),'job_id':job_id,'ship_id':draft.get('ship_id',''),'equipment_id':draft.get('equipment_id',''),'technician':draft['owner'],'location':draft['location'],'notes':draft['notes'],'recorded':store.now(),'draft_version':draft['version'],'procedure':progress,'evidence':store.logs(job_id),'problem_photos':photos(job_id),'job_status':job['status'],'status':'Technician report — unverified','scope':'Class match only; verify hull, equipment configuration and procedure applicability.'}
+    from .conversations import report_transcripts
+    record['resolution_status']=body.resolution_status
+    record['conversation_context']=report_transcripts(job_id,draft['ship_class'],draft.get('equipment_id',''))
+    record['conversation_links']=[{'id':c['conversation_id'],'title':c['title']} for c in record['conversation_context']]
+    record['resolution_basis']='Technician-reported outcome; not an independently certified repair.'
     with store.connect() as c:
         c.execute('BEGIN IMMEDIATE')
         current=c.execute('SELECT payload FROM drafts WHERE job_id=?',(job_id,)).fetchone()
@@ -92,7 +100,10 @@ def publish(job_id:str,body:Publish):
         # A retried save of the same draft returns the same immutable report.
         for row in c.execute('SELECT payload FROM troubleshooting'):
             previous=store.unseal(row[0])
-            if previous['job_id']==job_id and previous['draft_version']==draft['version']:return previous
+            if previous['job_id']==job_id and previous['draft_version']==draft['version'] and previous.get('resolution_status','not_verified')==body.resolution_status:
+                old=[(x['conversation_id'],[m['turn_id']+m['role'] for m in x['messages']]) for x in previous.get('conversation_context',[])]
+                new=[(x['conversation_id'],[m['turn_id']+m['role'] for m in x['messages']]) for x in record['conversation_context']]
+                if old==new:return previous
         c.execute('INSERT INTO troubleshooting VALUES (?,?)',(record['id'],store.seal(record)))
         event={'id':str(uuid.uuid4()),'kind':'troubleshooting_recorded','time':store.now(),'record':record}
         c.execute('INSERT INTO events(id,payload) VALUES (?,?)',(event['id'],store.seal(event)))

@@ -7,7 +7,7 @@ class Equipment(unittest.TestCase):
   c=TestClient(app)
   burke=c.get('/api/ships/DDG-51/equipment').json()['items']
   zumwalt=c.get('/api/ships/DDG-1000/equipment').json()['items']
-  self.assertEqual(len(burke),6);self.assertEqual(len(zumwalt),2)
+  self.assertEqual(len(burke),7);self.assertEqual(len(zumwalt),2)
   self.assertEqual({x['inventory']['assessment'] for x in burke},{'Ready','Short','Unknown'})
   self.assertEqual(c.get('/api/ships/CVN-72/equipment').json()['items'],[])
   item=next(x for x in burke if x['id']=='spy1')

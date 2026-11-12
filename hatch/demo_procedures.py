@@ -80,6 +80,7 @@ CORRECTIVE_TASKS={
   'If the fault clears after inspection, document what was found and what changed. If it persists, record the isolation boundary for the next level of maintenance.',
   'Update the watch handoff with the fault timeline, what was checked, and what the next watch needs to verify.' ]),
 }
+CORRECTIVE_TASKS['demo-corrective-teller-system']=('Troubleshoot and repair Fortis 5000 DS teller system','Fortis 5000 DS remote teller system','corrective',[])
 TASKS.update({k:(v[0],v[1],v[3]) for k,v in CORRECTIVE_TASKS.items()})
 SIMULATOR_STEPS={
  'demo-watch-electrical':[
@@ -162,6 +163,19 @@ CORRECTIVE_STEPS={
   'Record: E101 caused by corroded CH-2 connector. Cleaned and reseated. Recommend adding SIM-J-502 to accelerated inspection interval for this hull. Monitor for recurrence.' ],
 }
 
+
+
+CORRECTIVE_STEPS['demo-corrective-teller-system']=[
+ 'Demo workflow: identify the Fortis 5000 DS unit, teller/customer station, location and configuration. Confirm the uploaded manual matches the installed options.',
+ 'Record the actual symptom: carrier does not travel, door does not open or close, controller message, audio problem or another condition. Record when it began and attach photographs.',
+ 'Review the applicable manual precautions and obtain the required authorization and isolation before accessing electrical components or moving door mechanisms.',
+ 'Search recorded reports for similar symptoms on the same equipment model. Record useful report IDs, previous actions and outcomes without assuming the cause is identical.',
+ 'Record the exact controller message and the affected teller or customer station. Capture accessible external indications without changing settings or bypassing interlocks.',
+ 'Open the appropriate teller or customer electrical diagram in the uploaded manual. Record the page and component labels relevant to the symptom; do not substitute water-cooler references.',
+ 'Compare the symptom with the manual’s General Troubleshooting table. Record the possible cause and the checks prescribed for that specific condition.',
+ 'Document the verified fault, applicable repair instruction and required part identifiers. Check stock and authorization before carrying out the manual’s repair procedure.',
+ 'After an authorized repair, perform the applicable manual functional check. Record results, unresolved symptoms and the next action; do not mark the issue resolved without verification.'
+]
 
 # Synthetic workflow checklists for the original demo work orders.
 TASKS.update({
