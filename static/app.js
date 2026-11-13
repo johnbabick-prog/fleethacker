@@ -249,7 +249,13 @@ async function flushWorkspaceContext(){await flushDraft();if(procedureDirty&&pro
 function rememberWatchShip(){try{if(watchShipId)localStorage.setItem('fleet-current-ship',watchShipId);else localStorage.removeItem('fleet-current-ship')}catch{}}
 function restoreWatchShip(){
  if(shipPreferenceLoaded)return;shipPreferenceLoaded=true;
- let saved='';try{saved=localStorage.getItem('fleet-current-ship')||''}catch{}
+ let saved='';try{
+  saved=localStorage.getItem('fleet-current-ship')||'';
+  if(HATCH_BASE && state?.shared_demo && !localStorage.getItem('fleet-demo-initialized')){
+   if(!saved)saved=watchRows.find(r=>r.draft?.ship_id)?.draft.ship_id||'';
+   localStorage.setItem('fleet-demo-initialized','1');
+  }
+ }catch{}
  const ship=shipDirectory.ships.find(s=>s.id===saved);if(!ship){rememberWatchShip();return;}
  watchShipId=ship.id;$('ship-search').value=ship.name;$('ship-type-filter').value=shipHullType(ship);clearWorkspaceSelection();loadEquipment();
 }

@@ -13,6 +13,9 @@ This deployment starts with synthetic demo data only. Do not copy a workstation'
    example. Set `HATCH_DATA` there. Run `scripts/seed_shared_demo.py` with that
    environment **once on an empty directory**; the script replaces the corpus.
    Keep the generated encryption key with the encrypted state for backups.
+   Then run `scripts/seed_warclaw_demo.py` in that same synthetic environment to
+   associate untouched demo work orders with a sample ship. This second script
+   skips records that have already been edited and is safe to repeat.
 4. Run the service bound to a private interface reachable only by the ingress.
    Substitute absolute install/state paths and the private bind address in the
    service template. Enable the service for restart after login/boot as appropriate.
