@@ -4,13 +4,21 @@ NO_ANSWER='The local model did not return a final answer. Please retry; the reco
 def final_answer(content):
     if not isinstance(content,str):return NO_ANSWER
     text=content
+    # Gemma 4 closes its private thought block with <channel|>, then emits
+    # the final answer. The block may be empty when thinking is disabled.
+    # https://ai.google.dev/gemma/docs/core/prompt-formatting-gemma4
+    thought = re.search(r'<\|channel>\s*thought\b', text, re.I)
+    if thought:
+        close = text.find('<channel|>', thought.end())
+        if close >= 0:
+            text = text[close + len('<channel|>'):]
     # Some compatible servers put channel markup inside content instead of separate fields.
     final=list(re.finditer(r'<\|channel\|?>\s*(?:final|answer)\b|<\|im_sep\|>\s*final\b',text,re.I))
     if final:text=text[final[-1].end():]
     elif re.search(r'<\|channel\|?>\s*(?:thought|analysis)\b',text,re.I):return NO_ANSWER
     text=re.sub(r'<(?:think|analysis|thought)>.*?</(?:think|analysis|thought)>','',text,flags=re.S|re.I)
     text=re.sub(r'<(?:think|analysis|thought)>.*$','',text,flags=re.S|re.I)
-    text=re.sub(r'<\|[^>]*>','',text).strip()
+    text=re.sub(r'<\|[^>]*>|<turn\|>|<channel\|>','',text).strip()
     return text or NO_ANSWER
 
 def record_fallback(context):
