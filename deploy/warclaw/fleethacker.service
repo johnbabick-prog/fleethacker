@@ -1,0 +1,21 @@
+[Unit]
+Description=FleetHacker workspace protected by WarClaw app permissions
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+WorkingDirectory=/opt/fleethacker
+EnvironmentFile=/srv/fleethacker/service.env
+Environment=PYTHONDONTWRITEBYTECODE=1
+ExecStart=/opt/fleethacker/.venv/bin/python -m uvicorn hatch.warclaw:app --host 127.0.0.1 --port 8767 --no-access-log
+Restart=on-failure
+RestartSec=3
+UMask=0077
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=read-only
+ReadWritePaths=/srv/fleethacker/state
+
+[Install]
+WantedBy=default.target

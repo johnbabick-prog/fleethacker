@@ -35,6 +35,7 @@ def local_completion(payload):
     api_key=os.environ.get('HATCH_API_KEY','')
     if not api_key and urlparse(endpoint).hostname not in ('localhost','127.0.0.1','::1'):raise ValueError('Only loopback AI endpoints are allowed without HATCH_API_KEY')
     payload={'model':os.environ.get('HATCH_MODEL','local'),'temperature':0,'max_tokens':1100,**payload}
+    if os.environ.get('HATCH_WARCLAW_APP_ID'):payload.update(documents=[],tools=[])
     headers={'Content-Type':'application/json'}
     if api_key:headers['Authorization']='Bearer '+api_key
     request=urllib.request.Request(endpoint,json.dumps(payload).encode(),headers)

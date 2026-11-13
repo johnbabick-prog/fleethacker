@@ -158,3 +158,7 @@ The shared page-02/page-03 chat saves questions before inference and saves final
 HATCH retrieves completed discussion turns from the same equipment model and named ship class when a new problem is reported. It cites the prior conversation and keeps assistant suggestions explicitly separate from technician observations and recorded outcomes. The current conversation, failed/interrupted answers, unrelated models, and unrelated ship classes are excluded from this retrieval.
 
 Use **Record troubleshooting outcome** in chat to enter actions actually taken, the result, and a resolution status. Saving the troubleshooting report captures an immutable snapshot of matching conversations (including source references and original participant/equipment context), alongside photos and procedure progress. Later messages do not rewrite that report. Report snapshots are encrypted locally and included in the existing synchronization queue. This is a growing retrieval knowledge base, not automatic model-weight training or independent certification of a repair.
+
+## WarClaw Web apps
+
+For a login-protected hosted workspace with synthetic data, see [the WarClaw deployment guide](deploy/warclaw/README.md).
