@@ -1,0 +1,11 @@
+# Insert inside the existing WarClaw site. Keep its default proxy in handle {}.
+redir /fleethacker /fleethacker/ 308
+handle_path /fleethacker/* {
+    reverse_proxy http://127.0.0.1:8767 {
+        health_uri /_warclaw_health
+        flush_interval -1
+        transport http {
+            response_header_timeout 2m
+        }
+    }
+}

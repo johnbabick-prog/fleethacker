@@ -53,7 +53,7 @@ const base=process.env.FLEET_TEST_URL||'http://localhost:8765/';
   assert.deepEqual([...d.getElementById('procedure-job').options].map(o=>o.value).filter(Boolean),['DEMO-11']);
   assert.match(d.getElementById('procedure-job').textContent,/FC1 Ochoa/);
   assert.equal(d.getElementById('equipment-document-equipment').value,'DDG-51::spy1');
-  await until(()=>d.querySelector('.analysis-status')?.textContent.includes('Text analysis complete'));
+  await until(()=>d.querySelector('.analysis-status')?.textContent.includes('Local AI ready'));
   assert.match(d.querySelector('.analysis-notes').textContent,/Radar operation summary/);
   assert.ok(d.querySelector('.analysis-notes a[href$="/pages/2/image"]'));
   assert.equal(d.querySelector('[data-analyze-manual]').disabled,true);
