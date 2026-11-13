@@ -252,7 +252,7 @@ function restoreWatchShip(){
  let saved='';try{
   saved=localStorage.getItem('fleet-current-ship')||'';
   if(HATCH_BASE && state?.shared_demo && !localStorage.getItem('fleet-demo-initialized')){
-   if(!saved)saved=watchRows.find(r=>r.draft?.ship_id)?.draft.ship_id||'';
+   if(!saved){saved=watchRows.find(r=>r.draft?.ship_id)?.draft.ship_id||'';if(saved)localStorage.setItem('fleet-current-ship',saved);}
    localStorage.setItem('fleet-demo-initialized','1');
   }
  }catch{}
